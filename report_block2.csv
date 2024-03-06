@@ -1,0 +1,147 @@
+,user_id,name,exercise_name,total_levels,levels_done,blocks_used
+0,1, ,Fun with Basics,10,3,19
+1,7263,Test BhiwandiSchool,Loopy Loops,4,1,22
+2,7264,Test BhiwandiSchool,Fun with Basics - Grade 1 & 2,8,4,0
+3,7264,Test BhiwandiSchool,Loopy Loops - Grade 1/2,8,3,0
+4,7265,Test BhiwandiSchool,Fun with Basics,3,3,44
+5,7265,Test BhiwandiSchool,Fun with Basics,10,10,123
+6,7265,Test BhiwandiSchool,Fun with Basics - Grade 1 & 2,8,8,0
+7,7265,Test BhiwandiSchool,Loopy Loops,12,3,20
+8,7266,Test BhiwandiSchool,Fun with Basics,3,1,11
+9,7266,Test BhiwandiSchool,Loopy Loops,12,5,67
+10,7267,Test BhiwandiSchool,Dog and the loops,8,1,8
+11,7267,Test BhiwandiSchool,Fun with Basics,3,3,44
+12,7267,Test BhiwandiSchool,Loopy Loops,4,4,89
+13,7705,Shreya Gupta,Fun with Basics,10,1,3
+14,7705,Shreya Gupta,Fun with Basics - Grade 1 & 2,8,5,0
+15,7705,Shreya Gupta,Loopy Loops - Grade 1/2,8,4,0
+16,7706,Raj Jadhav,Fun with Basics,10,3,13
+17,7706,Raj Jadhav,Fun with Basics - Grade 1 & 2,8,4,0
+18,7706,Raj Jadhav,Loopy Loops,12,1,4
+19,7706,Raj Jadhav,Loopy Loops - Grade 1/2,8,3,0
+20,7707,Devyansh Gupta,Fun with Basics,10,4,26
+21,7707,Devyansh Gupta,Fun with Basics - Grade 1 & 2,8,8,0
+22,7707,Devyansh Gupta,Loopy Loops - Grade 1/2,8,3,0
+23,7708,Siddhu Jha,Fun with Basics,10,2,8
+24,7708,Siddhu Jha,Fun with Basics - Grade 1 & 2,8,8,0
+25,7709,Jay Machhirke,Fun with Basics,10,3,16
+26,7709,Jay Machhirke,Fun with Basics - Grade 1 & 2,8,6,0
+27,7709,Jay Machhirke,Loopy Loops - Grade 1/2,8,4,0
+28,7710,Sarang Khopade,Fun with Basics - Grade 1 & 2,8,8,0
+29,7711,Aarush Gujja,Fun with Basics - Grade 1 & 2,8,4,0
+30,7712,Rivaan Khatri,Fun with Basics,10,4,26
+31,7712,Rivaan Khatri,Fun with Basics - Grade 1 & 2,8,8,0
+32,7712,Rivaan Khatri,Loopy Loops - Grade 1/2,8,4,0
+33,7713,Dhyana Maru,Fun with Basics,3,3,42
+34,7713,Dhyana Maru,Fun with Basics,10,7,65
+35,7713,Dhyana Maru,Fun with Basics - Grade 1 & 2,8,8,0
+36,7714,Aabha Patil,Fun with Basics,3,3,41
+37,7714,Aabha Patil,Fun with Basics,10,10,117
+38,7714,Aabha Patil,Fun with Basics - Grade 1 & 2,8,8,0
+39,7714,Aabha Patil,Loopy Loops - Grade 1/2,8,4,0
+40,7715,Hitansh Patil,Fun with Basics - Grade 1 & 2,8,3,0
+41,7715,Hitansh Patil,Loopy Loops - Grade 1/2,8,3,0
+42,7716,Nishant Gaikwad,Fun with Basics,10,3,16
+43,7716,Nishant Gaikwad,Fun with Basics - Grade 1 & 2,8,5,0
+44,7716,Nishant Gaikwad,Loopy Loops - Grade 1/2,8,3,0
+45,7717,Nilesh Chaudhary,Fun with Basics,10,3,16
+46,7717,Nilesh Chaudhary,Fun with Basics - Grade 1 & 2,8,5,0
+47,7718,Aakhil Rajbhar,Fun with Basics,10,2,8
+48,7719,Mysha Malde,Fun with Basics,10,2,9
+49,7719,Mysha Malde,Fun with Basics - Grade 1 & 2,8,3,0
+50,7719,Mysha Malde,Loopy Loops - Grade 1/2,8,4,0
+51,7720,Sachee Sundria,Fun with Basics,10,4,29
+52,7720,Sachee Sundria,Fun with Basics - Grade 1 & 2,8,6,0
+53,7721,Yakshit Sharma,Fun with Basics,10,3,17
+54,7721,Yakshit Sharma,Fun with Basics - Grade 1 & 2,8,8,0
+55,7721,Yakshit Sharma,Loopy Loops - Grade 1/2,8,5,0
+56,7722,Yash Takudake,Fun with Basics,10,4,26
+57,7722,Yash Takudake,Fun with Basics - Grade 1 & 2,8,8,0
+58,7722,Yash Takudake,Loopy Loops - Grade 1/2,8,4,0
+59,7723,Yug Yadav,Fun with Basics,10,3,9
+60,7723,Yug Yadav,Fun with Basics - Grade 1 & 2,8,6,0
+61,7724,Pakhi Mishra,Fun with Basics,10,3,16
+62,7724,Pakhi Mishra,Fun with Basics - Grade 1 & 2,8,4,0
+63,7725,Augustine JoelJilla,Fun with Basics,10,3,16
+64,7725,Augustine JoelJilla,Fun with Basics - Grade 1 & 2,8,2,0
+65,7726,Jiyaan Jain,Fun with Basics,10,3,17
+66,7726,Jiyaan Jain,Fun with Basics - Grade 1 & 2,8,5,0
+67,7727,Vansh Jadhav,Fun with Basics,10,3,17
+68,7727,Vansh Jadhav,Fun with Basics - Grade 1 & 2,8,3,0
+69,7727,Vansh Jadhav,Loopy Loops - Grade 1/2,8,5,0
+70,7728,Shrishti Gupta,Fun with Basics - Grade 1 & 2,8,2,0
+71,7729,Garima Sharma,Fun with Basics,3,3,42
+72,7729,Garima Sharma,Fun with Basics,10,10,116
+73,7729,Garima Sharma,Fun with Basics - Grade 1 & 2,8,8,0
+74,7730,Gaurav Mhatre,Fun with Basics,10,2,8
+75,7730,Gaurav Mhatre,Fun with Basics - Grade 1 & 2,8,4,0
+76,7730,Gaurav Mhatre,Loopy Loops - Grade 1/2,8,4,0
+77,7731,Jivika Ojha,Fun with Basics,3,3,41
+78,7731,Jivika Ojha,Fun with Basics,10,10,116
+79,7731,Jivika Ojha,Fun with Basics - Grade 1 & 2,8,8,0
+80,7731,Jivika Ojha,Loopy Loops - Grade 1/2,8,8,0
+81,7732,Arshan Kharat,Fun with Basics,10,2,9
+82,7732,Arshan Kharat,Fun with Basics - Grade 1 & 2,8,4,0
+83,7733,Arsh Siddiqui,Fun with Basics,10,1,3
+84,7733,Arsh Siddiqui,Fun with Basics - Grade 1 & 2,8,4,0
+85,7734,Swarit Patil,Fun with Basics,10,2,8
+86,7734,Swarit Patil,Fun with Basics - Grade 1 & 2,8,3,0
+87,7735,Eshita Patil,Fun with Basics,3,3,42
+88,7735,Eshita Patil,Fun with Basics,10,10,117
+89,7735,Eshita Patil,Fun with Basics - Grade 1 & 2,8,8,0
+90,7736,Atharva Jadhav,Fun with Basics,10,9,97
+91,7736,Atharva Jadhav,Fun with Basics - Grade 1 & 2,8,8,0
+92,7736,Atharva Jadhav,Loopy Loops - Grade 1/2,8,8,0
+93,7737,Archit Singh,Fun with Basics,3,3,43
+94,7737,Archit Singh,Fun with Basics,10,10,133
+95,7737,Archit Singh,Fun with Basics - Grade 1 & 2,8,8,0
+96,7737,Archit Singh,Loopy Loops,12,3,11
+97,7737,Archit Singh,Loopy Loops - Grade 1/2,8,8,0
+98,7738,Siddharth Jaiswal,Fun with Basics,10,5,38
+99,7738,Siddharth Jaiswal,Fun with Basics - Grade 1 & 2,8,8,0
+100,7738,Siddharth Jaiswal,Loopy Loops - Grade 1/2,8,8,0
+101,7739,Sanvi Umatwade,Fun with Basics,10,5,40
+102,7739,Sanvi Umatwade,Fun with Basics - Grade 1 & 2,8,8,0
+103,7739,Sanvi Umatwade,Loopy Loops - Grade 1/2,8,8,0
+104,7740,Saanvi Gupta,Fun with Basics,10,7,66
+105,7740,Saanvi Gupta,Fun with Basics - Grade 1 & 2,8,8,0
+106,7740,Saanvi Gupta,Loopy Loops - Grade 1/2,8,8,0
+107,7741,Nitesh Choudhary,Fun with Basics,10,5,29
+108,7741,Nitesh Choudhary,Fun with Basics - Grade 1 & 2,8,8,0
+109,7741,Nitesh Choudhary,Loopy Loops,12,2,11
+110,7741,Nitesh Choudhary,Loopy Loops - Grade 1/2,8,8,0
+111,7743,Harsh Chaudhary,Fun with Basics,10,10,124
+112,7743,Harsh Chaudhary,Fun with Basics - Grade 1 & 2,8,8,0
+113,7743,Harsh Chaudhary,Loopy Loops - Grade 1/2,8,8,0
+114,7744,Sai Mishra,Fun with Basics,10,10,122
+115,7744,Sai Mishra,Fun with Basics - Grade 1 & 2,8,8,0
+116,7744,Sai Mishra,Loopy Loops - Grade 1/2,8,8,0
+117,7745,Kshitij Jadhav,Fun with Basics,10,6,53
+118,7745,Kshitij Jadhav,Fun with Basics - Grade 1 & 2,8,8,0
+119,7745,Kshitij Jadhav,Loopy Loops - Grade 1/2,8,8,0
+120,7746,Arya Sirisilla,Conditional Crops,12,5,201
+121,7746,Arya Sirisilla,Fun with Basics,10,6,60
+122,7746,Arya Sirisilla,Loopy Loops,12,12,185
+123,7747,Hanshini Chaudhari,Conditional Crops,12,5,120
+124,7747,Hanshini Chaudhari,Fun with Basics,10,10,122
+125,7747,Hanshini Chaudhari,Loopy Loops,12,7,99
+126,7749,Sakshi Chaudhary,Conditional Crops,12,6,107
+127,7749,Sakshi Chaudhary,Fun with Basics,10,10,126
+128,7749,Sakshi Chaudhary,Loopy Loops,12,12,176
+129,7750,Ramila Choudhary,Conditional Crops,12,6,140
+130,7750,Ramila Choudhary,Fun with Basics,10,10,130
+131,7750,Ramila Choudhary,Loopy Loops,12,12,186
+132,7751,Swara Gulve,Conditional Crops,12,1,27
+133,7751,Swara Gulve,Fun with Basics,10,6,59
+134,7751,Swara Gulve,Loopy Loops,12,5,56
+135,7753,Diya Raicha,Conditional Crops,12,5,203
+136,7753,Diya Raicha,Fun with Basics,10,10,116
+137,7753,Diya Raicha,Loopy Loops,12,12,187
+138,7802,Malavika Siripuram,Dog and the loops,8,1,9
+139,7802,Malavika Siripuram,Loopy Loops,4,2,45
+140,7803,Sujata Thati,Dog and the loops,8,3,39
+141,7803,Sujata Thati,Fun with Basics,3,3,44
+142,7803,Sujata Thati,Swamp conditionals,4,2,85
+143,7955,yatisri ,Fun with Basics,10,3,16
+144,7955,yatisri ,Fun with Basics - Grade 1 & 2,8,8,0
+145,7955,yatisri ,Loopy Loops - Grade 1/2,8,8,0
