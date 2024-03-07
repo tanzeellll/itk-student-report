@@ -54990,7 +54990,34 @@
       <h1 class="text-red-600 text-5xl font-medium">
         Glossary of concepts learned:
       </h1>
+      {% for items in programmingConcepts %}
       <div class="mt-10">
+        <p class="text-2xl font-medium">{{ items }}</p>
+        <p class="mt-2 text-gray-400 font-extralight text-sm tracking-wide">
+          {{ programmingConcepts[items] }}
+        </p>
+
+        <div class="flex justify-start items-center mt-5 gap-3">
+          <span
+            class="bg-purple-100 px-2 text-sm font-thin py-1 rounded-xl text-purple-600"
+          >
+            Design
+          </span>
+          <span
+            class="bg-blue-100 px-2 text-sm font-thin py-1 rounded-xl text-blue-700"
+          >
+            Research
+          </span>
+          <span
+            class="bg-pink-100 px-2 text-sm font-thin py-1 rounded-xl text-pink-600"
+          >
+            Presentation
+          </span>
+        </div>
+      </div>
+      {% endfor %}
+
+      <!-- <div class="mt-10">
         <p class="text-2xl font-medium">UX review presentations</p>
         <p class="mt-2 text-gray-400 font-extralight text-sm tracking-wide">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit magni
@@ -55067,33 +55094,7 @@
             Presentation
           </span>
         </div>
-      </div>
-      <div class="mt-10">
-        <p class="text-2xl font-medium">UX review presentations</p>
-        <p class="mt-2 text-gray-400 font-extralight text-sm tracking-wide">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit magni
-          blanditiis quibusdam minima molestiae repellat consequatur, laudantium
-          vel quia. Labore, reiciendis. Corporis deserunt nobis facilis, earum
-          delectus vitae doloribus id!
-        </p>
-        <div class="flex justify-start items-center mt-5 gap-3">
-          <span
-            class="bg-purple-100 px-2 text-sm font-thin py-1 rounded-xl text-purple-600"
-          >
-            Design
-          </span>
-          <span
-            class="bg-blue-100 px-2 text-sm font-thin py-1 rounded-xl text-blue-700"
-          >
-            Research
-          </span>
-          <span
-            class="bg-pink-100 px-2 text-sm font-thin py-1 rounded-xl text-pink-600"
-          >
-            Presentation
-          </span>
-        </div>
-      </div>
+      </div> -->
     </div>
   </body>
 </html>
