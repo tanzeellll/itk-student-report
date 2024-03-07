@@ -1,0 +1,409 @@
+,user_id,name,grade,division,exercises_done,levels_done,ex_completion_rate,lev_completion_rate,school,school_ex_avg,school_lev_avg
+3,7742,Reyansh Ojha,2,Zircon,0,0,0,0,Bhiwandi School,3.1,8.04
+4,8004,Adi Hariya,6,Turquoise,0,0,0,0,Bhiwandi School,3.1,8.04
+5,8003,Ayush Choudhary,7,Amethyst,0,0,0,0,Bhiwandi School,3.1,8.04
+6,6138,Kshitij Ravi Divakar,1,Sapphire,0,0,0,0,DWPS,2.5,8.26
+7,6178,Navika Naveen Poojary,1,Sapphire,0,0,0,0,DWPS,2.5,8.26
+8,6342, Arnavi Amar Kawade,1,Sapphire,0,0,0,0,DWPS,2.5,8.26
+9,7691,Test_Account,1,Turquoise,0,0,0,0,DWPS,2.5,8.26
+10,6302,Anshuman Vishal Jadhav,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+11,6304,Arnav Arvind Kumar Yadav,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+12,6306,Ashveen Kaur,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+13,6312,Imaaduddin Mohammed Shoeb Shaikh,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+14,6313,Mohamed Saif Malim,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+15,6315,Mohammed Ayaan Chhapra,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+16,6317,Mohd Rehan Rizwan Mukadam,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+17,6320,Niharika Sanjiv Padiyar,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+18,6322,Ojassvi Piush Gupta,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+19,6325,Sarang Gajanan Vichare,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+20,6328,Srikant Ponnuvinayagam Pillai,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+21,6331,Varsha Mohan Pachalkar,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+22,6332,Vishal Santosh Singh,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+23,6333,Ziyad Mohd Asif Sayyed,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+24,6334,Zoya Aktar Khan,10,Jasper,0,0,0,0,DWPS,2.5,8.26
+25,6206,Reyansh Amitesh Rupak,3,Aquamarine,0,0,0,0,DWPS,2.5,8.26
+26,6225,Samrudhi Rajesh Gaikwad,3,Aquamarine,0,0,0,0,DWPS,2.5,8.26
+27,6143,Malhar Ganesh Gavhar,3,Garnet,0,0,0,0,DWPS,2.5,8.26
+28,6241,Shraddha Amar Patne,3,Garnet,0,0,0,0,DWPS,2.5,8.26
+29,6275,Vani Lata,3,Garnet,0,0,0,0,DWPS,2.5,8.26
+30,6119,Harneet Kaur Harike,4,Peridot,0,0,0,0,DWPS,2.5,8.26
+31,6215,Rudra Sameer Gamare,5,Adamite,0,0,0,0,DWPS,2.5,8.26
+32,7679,Ritika Basudeb Saha,6,ARGONITE,0,0,0,0,DWPS,2.5,8.26
+33,6174,Naman,6,Turquoise,0,0,0,0,DWPS,2.5,8.26
+34,6092,Chaitanya Arun Srinivas Gonuguntla,7,Amethyst,0,0,0,0,DWPS,2.5,8.26
+35,6280,Vidushi Singh,7,Amethyst,0,0,0,0,DWPS,2.5,8.26
+36,6300,Ali Khalid Murudkar,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+37,6301,Ali Noushad Alekar,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+38,6305,Ashleen Victor Fernandes,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+39,6307,Atif Ziyauddin Shaikh,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+40,6308,Ayman Zahi Siddique,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+41,6309,Deep Vinod Pawar,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+42,6310,Dhruvi Vaibhav Mukadam,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+43,6311,Faaiq Abdul Mannan Kauchali,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+44,6314,Mohammed Aadil S,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+45,6316,Mohammed Raihan Abdul Sukkur Shaikh,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+46,6318,Muhammed Mahdi Enayatulla Sayyed,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+47,6319,Neil Sanjiv Padiyar,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+48,6321,Nitesh Dharmendra Mali,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+49,6326,Shameek Jha,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+50,6327,Shrey Shukla,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+51,6329,Suhani Sukhadeb Bera,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+52,6330,Vaishnavi Vishwas Jadhav,9,Azurite,0,0,0,0,DWPS,2.5,8.26
+54,7701,Arfan Khan,4,Quartz,0,0,0,0,Eva Indore,3.2,9.78
+56,7992,Ayaan Nisar Mukadam,3,Garnet,0,0,0,0,Eva Thane,3.0,8.1
+57,7994,Priyanshi Bhardwaj,4,Peridot,0,0,0,0,Eva Thane,3.0,8.1
+58,7993,Rudra Singh,4,Peridot,0,0,0,0,Eva Thane,3.0,8.1
+59,7833,Hrishikesh Rajesh Manyal,6,Opal,0,0,0,0,Eva Thane,3.0,8.1
+60,7834,Rhythm Bharat Bansode ,8,Turquoice,0,0,0,0,Eva Thane,3.0,8.1
+61,6688,Alisha Singh,I,Sapphire,0,0,0,0,Eva Thane,3.0,8.1
+62,6695,Anabia Akib Khan,I,Sapphire,0,0,0,0,Eva Thane,3.0,8.1
+63,6692,Anysshha Shrikant Panigrahi,I,Sapphire,0,0,0,0,Eva Thane,3.0,8.1
+64,6744,Anika Dad,III,Garnet,0,0,0,0,Eva Thane,3.0,8.1
+65,6759,Aroosh Rahil Akhter,IV,Peridot,0,0,0,0,Eva Thane,3.0,8.1
+66,6749,Aryan Bose,IV,Peridot,0,0,0,0,Eva Thane,3.0,8.1
+67,6804,Himanshi Dadhich,IX,Diamond,0,0,0,0,Eva Thane,3.0,8.1
+68,6803,Jake Malcolm Luis,IX,Diamond,0,0,0,0,Eva Thane,3.0,8.1
+69,6772,Aarya Suresh Kori,V,Jade,0,0,0,0,Eva Thane,3.0,8.1
+70,6762,Ada Arkam Sayyed,V,Jade,0,0,0,0,Eva Thane,3.0,8.1
+71,6769,Adeetya Darshan Sharma,V,Jade,0,0,0,0,Eva Thane,3.0,8.1
+72,6763,Leisha Yogesh More,V,Jade,0,0,0,0,Eva Thane,3.0,8.1
+73,6768,Prathamesh Mahesh Desai,V,Jade,0,0,0,0,Eva Thane,3.0,8.1
+74,6783,Pragati Srivastava,VI,Opal,0,0,0,0,Eva Thane,3.0,8.1
+75,6779,Samarth Swaroopkumar Prabhu,VI,Opal,0,0,0,0,Eva Thane,3.0,8.1
+76,6806,Ayush Akhilesh Mishra,X,Quartz,0,0,0,0,Eva Thane,3.0,8.1
+77,6805,Pahal Nilesh Popat,X,Quartz,0,0,0,0,Eva Thane,3.0,8.1
+78,7890,Aashvi,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+79,7903,Aayush57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+80,7895,Adarsha,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+81,7891,Anvi,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+82,7904,Anvit57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+83,7901,Aven57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+84,7900,Divyansh57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+85,7896,Divyanshi57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+86,7897,Divyanshi57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+87,7898,Divyanshi57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+88,7899,Divyanshi57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+89,7893,Gaurvi,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+90,7907,Mivan57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+91,7892,Nurvika,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+92,7894,Prajyot,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+93,7902,Suhan57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+94,7906,Vihaan57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+95,7905,Yohan57,1,Amazonite,0,0,0,0,Eva World School,2.5,6.52
+96,7924,Aradhya57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+97,7919,Atharva58,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+98,7916,Dhanish57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+99,7911,Navya57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+100,7912,Prisha57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+101,7920,Shaurya57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+102,7914,Shraavya57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+103,7923,Vedant57,1,Citrine,0,0,0,0,Eva World School,2.5,6.52
+104,7854,Anish Datilkar,1,Quartz,0,0,0,0,Eva World School,2.5,6.52
+105,7794,Kabir Pradeep Patil,1,Quartz,0,0,0,0,Eva World School,2.5,6.52
+106,7860,Lohit Maddela,1,Quartz,0,0,0,0,Eva World School,2.5,6.52
+107,7869,Samriddh Manjhi,1,Quartz,0,0,0,0,Eva World School,2.5,6.52
+108,4686,Aadit Kingshuk Mondal,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+109,4687,Aadrika Goswami,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+110,4690,Aanvi Banerjee,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+111,4694,Aaradhya Singh,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+112,4698,Aarav Ranjan Kumar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+113,4701,Aarna Chaudhry,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+114,4706,Aaryansh Atul Sahu,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+115,4708,Aashrita Rastogi,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+116,4709,Aashvi Bhadauria,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+117,4710,Aayush Niranjan Panigrahi,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+118,4711,Adarsh Vipin Mishra,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+119,7929,Anabiya Khan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+120,4730,Anvi Anilkumar Dubey,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+121,4738,Aseem Panigrahy,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+122,4740,Atharv Chauhan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+123,4747,Ayaan Tipu Pradhan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+124,4748,Ayana Syed,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+125,4750,Ayurdha M Kiron,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+126,7856,Ayush Fadikar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+127,4753,Ayush Malay Fadikar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+128,4760,Debamrit Biswas,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+129,4763,Dhanish Rai,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+130,4768,Divyansh Gupta,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+131,4770,Divyanshi Pradhan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+132,4771,Diya A Nair,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+133,4774,Drishya Sahoo Canceled,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+134,4778,Elina Vadke Cancled,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+135,7928,Emmanuel  Nakaowa,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+136,4781,Gauravi Mishra,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+137,4790,Irav Amod Thalve,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+138,7930,Kaushal Kalan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+139,7932,Kayaan Saxena,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+140,4802,Kenndra Gilroy Cardoz,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+141,4806,Krishnakant Pandey,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+142,4815,Lohith Srimaan Maddela,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+143,7938,Mohdzakwan Arsalan Jamali,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+144,4829,Mohit Meena,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+145,4832,Myra Siddiqui .,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+146,4845,Nyaal Naresh Kachhwani,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+147,4847,Paarth Singh,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+148,4860,R.G. Thaaisara Cancled,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+149,4862,Rajveer Prashant Basutkar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+150,5056,Rudra Raju Mishra,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+151,5058,Rudransh Avinash Patil,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+152,5059,Rudransh Jalindar Kumbhar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+153,7934,Rutuja Gamare,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+154,5075,Shaurya Sudhir Singh,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+155,5076,Shilpi Bharti,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+156,7926,Shilpi Bharti,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+157,5079,Shivansh Santosh Dandale,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+158,5081,Shivraj Abhay Nimonkar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+159,5083,Shraavya Sanjay Dudhade,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+160,5089,Shrinika Sinha,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+161,5094,Srihan Saikat Basak,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+162,5095,Srinidhi Konderpu,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+163,7937,Srinidhi Konderpu,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+164,7927,Tanushri Kalan,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+165,5109,Trisha Nilesh Gharat,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+166,5114,V. Bhavya Sai .,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+167,5120,Ved Pratap Singh,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+168,5122,Vedant Chowdhury,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+169,7931,Vihaan Bari,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+170,5124,Vihaan Lalit Bari,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+171,7933,Vishal Reddy,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+172,5130,Vishal Reddy Vajrala,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+173,5131,Vivaan Kumar,1,Sapphire,0,0,0,0,Eva World School,2.5,6.52
+174,5154,Akarsh Arvind Chandwani,10,Azurite,0,0,0,0,Eva World School,2.5,6.52
+175,5331,Srushti Surendra Mane,10,Azurite,0,0,0,0,Eva World School,2.5,6.52
+176,4702,Aarush Arunkumar Maurya,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+177,6839,Anish Prabhanjan Pradhan,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+178,4755,Bhoomi Prashant Sawant,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+179,4786,Himanshu Vyas,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+180,6918,Naitik Singh Kholia,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+181,7155,Shiv Prakash,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+182,5117,Vamika Srivastava,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+183,5121,Vedant Avinash More,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+184,7000,Vivek Kumar Sharma,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+185,5137,Yashree Nilesh Nithaware,2,Agate,0,0,0,0,Eva World School,2.5,6.52
+186,4703,Aarya Karan Chitre,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+187,4734,Arinjay Kumar,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+188,6868,Devesh Swain,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+189,4809,Kunj Mayur Patil,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+190,4863,Raunak Kumar,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+191,5053,Rittika Ghosh,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+192,5080,Shivansh Sarvesh Verma,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+193,5126,Vihaan Vishal Sawant,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+194,5138,Yatharth Gurunath Belilkar,2,Ammolite,0,0,0,0,Eva World School,2.5,6.52
+195,4712,Adhira Kunal Bagade,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+196,7807,Agam,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+197,7990,Devansh Mohapatra,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+198,7989,Ovi Charde,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+199,6949,Rudra Suresh Soni,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+200,7991,Sarvagya Rai,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+201,6966,Shlok Swapnesh,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+202,6972,Siddh Swapnesh,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+203,7808,Siddhant Ganesh Kalan,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+204,5091,Siddhant Ganesh Kalan,2,Opal,0,0,0,0,Eva World School,2.5,6.52
+205,6813,Aadhya Sharma,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+206,4754,Bhavya Gupta,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+207,4825,Manava Nitin Kalan,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+208,6909,Mayank Mishra,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+209,4830,Moksh Bhardwaj,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+210,5057,Rudra Yogesh Sangale,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+211,5064,Saisha Ganesh Gore,2,Zircon,0,0,0,0,Eva World School,2.5,6.52
+212,7182,Advika Rajput,3,Alex,0,0,0,0,Eva World School,2.5,6.52
+213,7183,Parth Kohale,3,Alex,0,0,0,0,Eva World School,2.5,6.52
+214,6850,Atharva Verma,3,Alexandrite,0,0,0,0,Eva World School,2.5,6.52
+215,6940,Priyangi Ravindra Bhandari,3,Alexandrite,0,0,0,0,Eva World School,2.5,6.52
+216,6953,Saanvi Kumari,3,Alexandrite,0,0,0,0,Eva World School,2.5,6.52
+217,6816,Aaditya Avinash Kumar Sharma,3,Aquamarine,0,0,0,0,Eva World School,2.5,6.52
+218,4773,Diya Mayank Raicha,3,Aquamarine,0,0,0,0,Eva World School,2.5,6.52
+219,7876,Parth Anand Kohale,3,Aquamarine,0,0,0,0,Eva World School,2.5,6.52
+220,6935,Parth Sharma,3,Aquamarine,0,0,0,0,Eva World School,2.5,6.52
+221,7848,Vivaan Sunil Bastwade,3,Aquamarine,0,0,0,0,Eva World School,2.5,6.52
+222,4688,Aadvik Vishnoi Cancled,3,Garnet,0,0,0,0,Eva World School,2.5,6.52
+223,6950,Rudra Vishal Taware,3,Garnet,0,0,0,0,Eva World School,2.5,6.52
+224,6856,Bhargav Datta Bhandari,3,Rubelite,0,0,0,0,Eva World School,2.5,6.52
+225,5105,Tenzin Nikhil Nirbhawne,3,Rubelite,0,0,0,0,Eva World School,2.5,6.52
+226,6983,Vaishnavi Somnath Mhatre,3,Rubelite,0,0,0,0,Eva World School,2.5,6.52
+227,6986,Ved Bhalchandra Mendhulkar,3,Rubelite,0,0,0,0,Eva World School,2.5,6.52
+228,6999,Vince Dalen Immanuel Vinodh,3,Rubelite,0,0,0,0,Eva World School,2.5,6.52
+229,6827,Aaryan Rahul Kulkarni,4,Albite,0,0,0,0,Eva World School,2.5,6.52
+230,7168,Ananya Burman,4,Albite,0,0,0,0,Eva World School,2.5,6.52
+231,7170,Anushka Umesh Jadhav,4,Albite,0,0,0,0,Eva World School,2.5,6.52
+232,7169,Keyura Harshini,4,Albite,0,0,0,0,Eva World School,2.5,6.52
+233,6989,Vedant Sandeep Gole,4,Albite,0,0,0,0,Eva World School,2.5,6.52
+234,7873,Shoray,4,Morganite,0,0,0,0,Eva World School,2.5,6.52
+235,6825,Aarohi Salian,4,Morgonite,0,0,0,0,Eva World School,2.5,6.52
+236,4756,Bivan Chakraborty,4,Morgonite,0,0,0,0,Eva World School,2.5,6.52
+237,7007,Yatharth Kiran Gurav,4,Morgonite,0,0,0,0,Eva World School,2.5,6.52
+238,6923,Neel Sanjay Kalan,4,Peridot,0,0,0,0,Eva World School,2.5,6.52
+239,4861,Radhika Avinassh Singh,4,Peridot,0,0,0,0,Eva World School,2.5,6.52
+240,7810,Tauseef Arif Shaikh,4,Peridot,0,0,0,0,Eva World School,2.5,6.52
+241,6980,Tauseef Arif Shaikh,4,Peridot,0,0,0,0,Eva World School,2.5,6.52
+242,6991,Vibha Jitendra Patil,4,Peridot,0,0,0,0,Eva World School,2.5,6.52
+243,7012,Aaira Fatima Mohammed Shahbaaz,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+244,5210,Gauravi Sharma,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+245,5256,Naksh Sanjay Patil,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+246,7816,Priyanshi Singh,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+247,5313,Shivani Bharti,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+248,5342,Umang Suresh Soni,5,Adamite,0,0,0,0,Eva World School,2.5,6.52
+249,5173,Arush Sharma,5,Onyx,0,0,0,0,Eva World School,2.5,6.52
+250,7162,Athrav Kalan,5,Onyx,0,0,0,0,Eva World School,2.5,6.52
+251,5328,Spruha Gore,5,Onyx,0,0,0,0,Eva World School,2.5,6.52
+252,7845,Dakshit Srithan,6,ARGONITE,0,0,0,0,Eva World School,2.5,6.52
+253,5286,Ritika Basudeb Saha,6,Argonite,0,0,0,0,Eva World School,2.5,6.52
+254,7698,Sukrat Naian,6,ARGONITE,0,0,0,0,Eva World School,2.5,6.52
+255,7697,Vartika Sandey,6,ARGONITE,0,0,0,0,Eva World School,2.5,6.52
+256,5153,Advait Tejas Kadam,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+257,5160,Anand Akhilesh Tiwari,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+258,5183,Chetan Buju,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+259,5204,Emanuwae Yaven Crasto,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+260,7181,Manali Narendra Mhatre,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+261,5361,Yuvraj Ajeet Singh,6,Turquoise,0,0,0,0,Eva World School,2.5,6.52
+262,5191,Devanjali Basak,7,Amethyst,0,0,0,0,Eva World School,2.5,6.52
+263,7956,Jehi,7,Amethyst,0,0,0,0,Eva World School,2.5,6.52
+264,7798,Mohit Kumar	,7,Amethyst,0,0,0,0,Eva World School,2.5,6.52
+265,7964,Abhinav Sharma,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+266,7965,Arnav Prasant Yadav,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+267,7962,Eshwari Vikram Nikam,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+268,7986,Margavi Dhongle,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+269,7966,Radhika Dawmani,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+270,7970,Rishi Shyam Kandagatla,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+271,7967,Samyak Nagda,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+272,7969,Srushti Dupad,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+273,7963,Tanishq Nilesh Verma,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+274,5347,Vedant Balukumar Misal,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+275,7968,Vedant Misal,7,Lazulite,0,0,0,0,Eva World School,2.5,6.52
+276,7979,Anshuman Jehra,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+277,7977,Atharva Kanhurkar,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+278,7981,Ayush Sinha,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+279,7976,Daksha Iyer,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+280,7978,Khushbu Pareek,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+281,7982,Manav Pandit,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+282,7983,Pardhu,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+283,7980,Prithvi Sadawana,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+284,7984,Rohit Soni,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+285,5296,Samar Firdous Mehmoodi,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+286,7985,Trisha Sarode,8,Jade,0,0,0,0,Eva World School,2.5,6.52
+287,7972,Anushka Goyal,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+288,5219,Iram Habib Shaikh,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+289,7973,Keshavi Srinivas,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+290,7971,Neil Sunka,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+291,7975,Ritvik Prasad,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+292,7974,Vaidehi Mehta,8,Titanite,0,0,0,0,Eva World School,2.5,6.52
+293,5151,Aditri Ganti,9,Azurite,0,0,0,0,Eva World School,2.5,6.52
+294,5187,Dev Dharmik Mk,9,Azurite,0,0,0,0,Eva World School,2.5,6.52
+295,5321,Simran Dharmendra Ayari,9,Azurite,0,0,0,0,Eva World School,2.5,6.52
+296,5335,Swaroop Sameer Shinde,9,Azurite,0,0,0,0,Eva World School,2.5,6.52
+297,5147,Abhived Shreekumar,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+298,5189,Dev Vats,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+299,5195,Disha Chetan Deotale,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+300,5201,Drishti Suraj Thakur,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+301,5203,Elisha Roque Dsouza,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+302,5229,Jui Pramod Mali,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+303,5277,Purva Sanjay Patil,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+304,5280,Ramit Sanjay Parekh,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+305,5281,Riddhiman Pinakpani Roy,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+306,5283,Rigved Vikrant Dandekar,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+307,5289,Ritwik Gangadhar Addagatla,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+308,5315,Shree Vikrant Turekar,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+309,5317,Shrishti Jitendra Gupta,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+310,5322,Sofia Sayyed,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+311,5334,Sumit Sunilkumar Goswami,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+312,5358,Yashika Pandit,9,Beryl,0,0,0,0,Eva World School,2.5,6.52
+313,7997,Pari Patil,1,C,0,0,0,0,IRA,2.3,7.34
+314,7998,Rajeshwari Patil,1,C,0,0,0,0,IRA,2.3,7.34
+315,6434,Shivaay Sachin Patil,1,Citrine,0,0,0,0,IRA,2.3,7.34
+316,7999,Hayaan Hankare,1,D,0,0,0,0,IRA,2.3,7.34
+317,6383,Ayan Sinha,1,Quartz,0,0,0,0,IRA,2.3,7.34
+318,6360,Aahana Vishal Lade,1,Sapphire,0,0,0,0,IRA,2.3,7.34
+319,6427,Rudra Bhaveshkumar Mandora,1,Sapphire,0,0,0,0,IRA,2.3,7.34
+320,8005,Sampreeti Patil,1,Sapphire,0,0,0,0,IRA,2.3,7.34
+321,8002,Ridhi Joshi,2,A,0,0,0,0,IRA,2.3,7.34
+322,6475,Dwijaithra Rajiv Patil,2,Opal,0,0,0,0,IRA,2.3,7.34
+323,6481,Jejomar Lijo George,2,Opal,0,0,0,0,IRA,2.3,7.34
+324,6554,M.Sudiksha Shrinivas Reddy,3,Alexandrite,0,0,0,0,IRA,2.3,7.34
+325,8001,Saish Telange,3,B,0,0,0,0,IRA,2.3,7.34
+326,6524,Aarav Vikas Suhag,3,Garnet,0,0,0,0,IRA,2.3,7.34
+327,7255,Fahad Mohammed Shaikh,4,Albite,0,0,0,0,IRA,2.3,7.34
+328,7696,Test Account,4,Peridot,0,0,0,0,IRA,2.3,7.34
+329,7258,Test Ira,7,,0,0,0,0,IRA,2.3,7.34
+330,7887,Aditya Amit Yadav,1,Quartz,0,0,0,0,SKS,2.5,7.74
+331,7830,Arasyhi Arun Gowda,1,Quartz,0,0,0,0,SKS,2.5,7.74
+332,7941,Avez Dilwara Boharaj,1,Quartz,0,0,0,0,SKS,2.5,7.74
+333,5397,Bhavya Bharat Bhanushali,1,Quartz,0,0,0,0,SKS,2.5,7.74
+334,7151,Namish Yash Shukla,1,Quartz,0,0,0,0,SKS,2.5,7.74
+335,5371,Aditi Ananda Hodage,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+336,5372,Aditya Amit Yadav,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+337,7122,Advait Dhananjay Chavan,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+338,5376,Amayra Kumar,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+339,5385,Arnav Niranjan Bhoite,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+340,5402,Dhruvika Nagar,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+341,5403,Dhwanil Pramod Metkar,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+342,7110,Eesha Eerwanth Mathpati,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+343,5420,Keshav N,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+344,7126,Mohd Shayril Mohd Salim Shaikh,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+345,5434,Narendra Mohansingh Kharwad,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+346,7130,Nayan Satish Pandey,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+347,5443,Pranav Rajendra Patil,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+348,5446,Prathavi Sushilkumar Rayate,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+349,7063,Prisha Sachin Pal,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+350,7127,Rajveer Gaurav Singh,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+351,7838,Reyansh Rajesh Patil,1,Rhodonite ,0,0,0,0,SKS,2.5,7.74
+352,5452,Ritvik Trishal Gatla,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+353,5453,Rushank Nikhil Munde,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+354,5457,Sanvi Sanoj Pandit,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+355,5480,Veer Shanidas Patil,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+356,5481,Veer Shanidas Patil,1,Rhodonite,0,0,0,0,SKS,2.5,7.74
+357,7131,Aarav Ritesh Gupta,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+358,7889,Aditi Ananda Hodage,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+359,7133,Anandini Yogesh Pandey,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+360,7826,Ananya J Valmiki,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+361,7140,Anika Prashant Chaube,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+362,7828,Narendra Singh Kharwad,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+363,7940,Parthavi Sunil Rayate,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+364,7144,Riyanshi Nitin Gajjar,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+365,7827,Sehaj Kaur,1,Sapphire,0,0,0,0,SKS,2.5,7.74
+366,7944,Tanishka Suresh Sharma,2,Agate,0,0,0,0,SKS,2.5,7.74
+367,5368,Aarnav Arun Mishra,2,Opal,0,0,0,0,SKS,2.5,7.74
+368,7945,Aarnav Arun Mishra,2,Opal,0,0,0,0,SKS,2.5,7.74
+369,5374,Aliza Hasan,2,Opal,0,0,0,0,SKS,2.5,7.74
+370,7946,Aliza Hasan,2,Opal,0,0,0,0,SKS,2.5,7.74
+371,5377,Amrita Chandrashekhar Bhosale,2,Opal,0,0,0,0,SKS,2.5,7.74
+372,7028,Ansh Rajesh Shetty,2,Opal,0,0,0,0,SKS,2.5,7.74
+373,7029,Anshi Anil Sharma,2,Opal,0,0,0,0,SKS,2.5,7.74
+374,7947,Anshi Anil Sharma,2,Opal,0,0,0,0,SKS,2.5,7.74
+375,7948,Anvay Dhananjay Salaskar,2,Opal,0,0,0,0,SKS,2.5,7.74
+376,7030,Anvay Dhananjay Salaskar,2,Opal,0,0,0,0,SKS,2.5,7.74
+377,7035,Daksh Bharat Lad,2,Opal,0,0,0,0,SKS,2.5,7.74
+378,5406,Geet Sumeet Dhodi,2,Opal,0,0,0,0,SKS,2.5,7.74
+379,5417,Kasi Sashidhar,2,Opal,0,0,0,0,SKS,2.5,7.74
+380,7048,Kavish Garg,2,Opal,0,0,0,0,SKS,2.5,7.74
+381,5445,Pranil Kumar Singh,2,Opal,0,0,0,0,SKS,2.5,7.74
+382,5450,Rashi Bharat Maurya,2,Opal,0,0,0,0,SKS,2.5,7.74
+383,5456,Sanchita Manoj Garg,2,Opal,0,0,0,0,SKS,2.5,7.74
+384,5458,Savya Sachin Mahadik,2,Opal,0,0,0,0,SKS,2.5,7.74
+385,5485,Vivaan Sapra,2,Opal,0,0,0,0,SKS,2.5,7.74
+386,7225,Mohammed Ameen  Durrani,3,Aquamarine,0,0,0,0,SKS,2.5,7.74
+387,7201,Prisha Joshipure,3,Aquamarine,0,0,0,0,SKS,2.5,7.74
+388,7203,Shikhar Dubey,3,Aquamarine,0,0,0,0,SKS,2.5,7.74
+389,7025,Alia Sudhir Singh,3,Garnet,0,0,0,0,SKS,2.5,7.74
+390,7043,Hardik Manoj Pandey,3,Garnet,0,0,0,0,SKS,2.5,7.74
+391,7061,Pratyush Ketan Pisal,3,Garnet,0,0,0,0,SKS,2.5,7.74
+392,7062,Prisha Mihir Joshipura,3,Garnet,0,0,0,0,SKS,2.5,7.74
+393,5449,Rachit Brijesh Singh,3,Garnet,0,0,0,0,SKS,2.5,7.74
+394,5455,Sambridhi Mishra,3,Garnet,0,0,0,0,SKS,2.5,7.74
+395,7085,Shivansh Ratnesh Pandey,3,Garnet,0,0,0,0,SKS,2.5,7.74
+396,5469,Swara Swapnil Kate,3,Garnet,0,0,0,0,SKS,2.5,7.74
+397,7949,Aarav Singh,4,Morgonite,0,0,0,0,SKS,2.5,7.74
+398,7943,Saachi Dharamraj Tiwari,4,Morgonite,0,0,0,0,SKS,2.5,7.74
+399,5370,Adhvik Meshram,4,Peridot,0,0,0,0,SKS,2.5,7.74
+400,5386,Arnav Chetankumar Dhadke,4,Peridot,0,0,0,0,SKS,2.5,7.74
+401,5387,Arnod Chetankumar Dhadke,4,Peridot,0,0,0,0,SKS,2.5,7.74
+402,5419,Kavya Vinay Varma,4,Peridot,0,0,0,0,SKS,2.5,7.74
+403,7050,Madeeha Tariq .,4,Peridot,0,0,0,0,SKS,2.5,7.74
+404,5437,Nish Lekhram Kanfade,4,Peridot,0,0,0,0,SKS,2.5,7.74
+405,5499,Aleena Feroz Kazi,5,Onyx,0,0,0,0,SKS,2.5,7.74
+406,5515,Golu Bhagawan Singh,5,Onyx,0,0,0,0,SKS,2.5,7.74
+407,7098,Harsh Prateek Shukla,5,Onyx,0,0,0,0,SKS,2.5,7.74
+408,5542,Vatsal Jain,5,Onyx,0,0,0,0,SKS,2.5,7.74
+409,5517,Kavya Kiran Patil,6,Turquoise,0,0,0,0,SKS,2.5,7.74
+410,5540,Taniska Chitranjan Das Rana,6,Turquoise,0,0,0,0,SKS,2.5,7.74
+411,7259,Test Sks,7,,0,0,0,0,SKS,2.5,7.74
+412,5488,Aariz Feroz Kazi,8,Titanite,0,0,0,0,SKS,2.5,7.74

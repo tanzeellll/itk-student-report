@@ -1,0 +1,51 @@
+id,name,ordern,description,image,total_levels,type,folder,video,disabled
+1,Fun with Basics,1,"Sequence, Algorithmic Thinking",fun_with_basics.png,10,maze,fun_with_basics,FWB_LI FINAL.mp4,0
+2,Loopy Loops,2,"Loops, Debugging",loopy_loops.png,12,maze,loopy_loops,,0
+3,Conditional Crops,3,"Conditional Statements, Pattern Recognition",conditional_crops.png,12,maze,conditional_crops,,0
+4,Backyard Functions,4,"Functions, Variables, Events",backyard_functions.png,10,maze,backyard_functions,,0
+5,Dog and the loops,5,"Loops, Variables, Functions",Dog and the loops - Grade 4.png,8,maze,dog_and_the_loops,,0
+6,Gardening Conditionals,6,"Functions, Conditional Statements, Sequence, Algorithmic Thinking",Gardening Conditionals - Grade 4.png,6,maze,gardening_conditionals,,0
+7,Swamp conditionals,7,"Conditional Statements, Loops, Variables, Sequence, Events, Functions, Decomposition, Algorithmic Thinking",Swamp Conditionals - Grade 4.png,4,maze,swamp_conditionals,,0
+8,Baloon pop functions,8,"Conditional Statements, Loops, Variables, Sequence, Events, Functions, Decomposition, Algorithmic Thinking",Baloon pop functions - Grade 4.png,8,maze,baloon_pop_functions,,0
+9,Loops and castles,9,"Loops, Variables, Functions",Loops and Castles - Grade 5.png,8,maze,loops_and_castles,,0
+10,Desert conditionals,10,"Conditional Statements, Loops, Variables, Sequence, Events, Functions, Decomposition, Algorithmic Thinking",Desert Conditionals - Grade 5.png,4,maze,desert_conditionals,,0
+11,Predator bird functions,11,"Conditional Statements, Loops, Variables, Sequence, Events, Functions, Decomposition, Algorithmic Thinking",Predator Bird Functions - Grade 5.png,7,maze,predator_bird_functions,,0
+12,Functions on the field,12,"Conditional Statements, Loops, Variables, Sequence, Events, Functions, Decomposition, Algorithmic Thinking",Functions on the field - Grade 5.png,9,maze,functions_on_field,,0
+13,Introduction to Gaming - Grade 5,0,,G5 Ex1 card.png,3,game,intro_to_gaming,,0
+14,Shape Builder -  Grade 5,0,,G5 Ex2 card.png,7,game,shape_builder,,0
+15,Variables & Randomization - Grade 5,0,,G5 Ex3 card.png,8,game,variables_random,,0
+16,Introduction to Gaming - Grade 6,0,,G6 Ex1 card.png,3,game,intro_to_gaming_6,,0
+17,Shape Builder -  Grade 6,0,,G6 Ex2 card.png,8,game,shape_builder_6,,0
+18,Variables & Randomization - Grade 6,0,,G6 Ex3 card.png,8,game,variables_random_6,,0
+19,Introduction to Gaming - Grade 7,0,,G7 Ex1 card-01.png,3,game,intro_to_gaming_7,,0
+20,Shape Builder -  Grade 7,0,,G7 Ex2 card-01.png,8,game,shape_builder_7,,0
+21,Variables & Randomization - Grade 7,0,,G7 Ex3 card-01.png,5,game,variables_random_7,,0
+22,Introduction to Gaming - Grade 8,0,,G8 Ex1 card-01.png,3,game,intro_to_gaming_8,,0
+23,Shape Builder -  Grade 8,0,,G8 Ex2 card-01.png,8,game,shape_builder_8,,0
+24,Variables & Randomization - Grade 8,0,,G8 Ex3 card-01.png,8,game,variables_random_8,,0
+25,Exploring Sprites - Grade 5,0,,G5 Ex3 card.png,5,game,grade-5-1,,0
+26,Sprites Movement - Grade 5,0,,G5 Ex3 card.png,3,game,grade-5-2,,0
+27,Exploring Sprites - Grade 6,0,,G5 Ex3 card.png,5,game,grade-5-1,,0
+28,Exploring Sprites - Grade 7,0,,G5 Ex3 card.png,7,game,grade-7-1,,0
+29,Exploring Sprites - Grade 8,0,,G5 Ex3 card.png,7,game,grade-7-1,,0
+30,Sprites Movement - Grade 6,0,,G5 Ex3 card.png,3,game,grade-5-2,,0
+31,Sprites Movement - Grade 7,0,,G5 Ex3 card.png,7,game,grade-7-2,,0
+32,Sprites Movement - Grade 8,0,,G5 Ex3 card.png,7,game,grade-7-2,,0
+33,Text & Scoring - Grade 5,0,,G5 Ex3 card.png,5,game,grade-5-4,,0
+34,Text & Scoring - Grade 6,0,,G5 Ex3 card.png,5,game,grade-5-4,,0
+35,Text & Scoring - Grade 7,0,,G5 Ex3 card.png,7,game,grade-7-4,,0
+36,Text & Scoring - Grade 8,0,,G5 Ex3 card.png,7,game,grade-7-4,,0
+37,Sprite Events - Grade 5,0,,G5 Ex3 card.png,3,game,grade-5-3,,0
+38,Sprite Events - Grade 6,0,,G5 Ex3 card.png,3,game,grade-5-3,,0
+39,Sprite Events - Grade 7,0,,G5 Ex3 card.png,3,game,grade-7-3,,0
+40,Sprite Events - Grade 8,0,,G5 Ex3 card.png,3,game,grade-7-3,,0
+41,Event Conditionals - Grade 5,0,,G5 Ex3 card.png,3,game,grade-5-5,,0
+42,Event Conditionals - Grade 6,0,,G5 Ex3 card.png,3,game,grade-5-5,,0
+43,Event Conditionals - Grade 7,0,,G5 Ex3 card.png,3,game,grade-7-5,,0
+44,Event Conditionals - Grade 8,0,,G5 Ex3 card.png,3,game,grade-7-5,,0
+45,Fun with Basics,13,"Sequence, Algorithmic Thinking",fun_with_basics.png,3,maze,fun_with_basics_r,FWB_LI FINAL.mp4,0
+46,Loopy Loops,14,"Loops, Debugging",loopy_loops.png,4,maze,loopy_loops_r,,0
+47,Conditional Crops,15,"Conditional Statements, Pattern Recognition",conditional_crops.png,4,maze,conditional_crops_4,,1
+48,Backyard Functions,16,"Functions, Variables, Events",backyard_functions.png,6,maze,backyard_functions_r,,0
+49,Fun with Basics - Grade 1 & 2,1,"Sequence, Algorithmic Thinking",fun_with_basics.png,8,maze,fun_with_basics_g12, ,0
+50,Loopy Loops - Grade 1/2,2,"Loops, Debugging",loopy_loops.png,8,maze,loopy_loops_g12, ,0

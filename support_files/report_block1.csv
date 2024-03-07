@@ -1,49 +1,1970 @@
 ,user_id,name,grade,division,exercises_done,levels_done,ex_completion_rate,lev_completion_rate,school,school_ex_avg,school_lev_avg
 0,1,,100,A,1,3,0.02,0.01,,1.0,3.0
-1,7705,Shreya Gupta,1,Sapphire,3,7,0.06,0.02,Bhiwandi School,2.7,7.09
-2,7706,Raj Jadhav,1,Sapphire,4,4,0.08,0.01,Bhiwandi School,2.7,7.09
-3,7707,Devyansh Gupta,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-4,7708,Siddhu Jha,1,Sapphire,2,8,0.04,0.03,Bhiwandi School,2.7,7.09
-5,7709,Jay Machhirke,1,Sapphire,3,6,0.06,0.02,Bhiwandi School,2.7,7.09
-6,7710,Sarang Khopade,1,Sapphire,1,8,0.02,0.03,Bhiwandi School,2.7,7.09
-7,7711,Aarush Gujja,1,Sapphire,1,4,0.02,0.01,Bhiwandi School,2.7,7.09
-8,7712,Rivaan Khatri,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-9,7713,Dhyana Maru,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-10,7714,Aabha Patil,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,2.7,7.09
-11,7715,Hitansh Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
-12,7716,Nishant Gaikwad,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,2.7,7.09
-13,7717,Nilesh Chaudhary,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,2.7,7.09
-14,7718,Aakhil Rajbhar,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,2.7,7.09
-15,7719,Mysha Malde,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,2.7,7.09
-16,7720,Sachee Sundria,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,2.7,7.09
-17,7721,Yakshit Sharma,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-18,7722,Yash Takudake,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-19,7723,Yug Yadav,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,2.7,7.09
-20,7724,Pakhi Mishra,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
-21,7725,Augustine Joel Jilla,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
-22,7726,Jiyaan Jain,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,2.7,7.09
-23,7727,Vansh Jadhav,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,2.7,7.09
-24,7728,Shrishti Gupta,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,2.7,7.09
-25,7729,Garima Sharma,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
-26,7730,Gaurav Mhatre,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,2.7,7.09
-27,7731,Jivika Ojha,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,2.7,7.09
-28,7732,Arshan Kharat,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
-29,7733,Arsh Siddiqui,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
-30,7734,Swarit Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
-31,7735,Eshita Patil,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
-32,7736,Atharva Jadhav,2,Zircon,3,9,0.06,0.03,Bhiwandi School,2.7,7.09
-33,7737,Archit Singh,2,Zircon,5,10,0.1,0.03,Bhiwandi School,2.7,7.09
-34,7738,Siddharth Jaiswal,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-35,7739,Sanvi Umatwade,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-36,7740,Saanvi Gupta,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-37,7741,Nitesh Choudhary,2,Zircon,4,8,0.08,0.03,Bhiwandi School,2.7,7.09
-38,7743,Harsh Chaudhary,2,Zircon,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
-39,7744,Sai Mishra,2,Zircon,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
-40,7745,Kshitij Jadhav,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
-41,7746,Arya Sirisilla,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
-42,7747,Hanshini Chaudhari,3,Garnet,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
-43,7749,Sakshi Chaudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
-44,7750,Ramila Choudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
-45,7751,Swara Gulve,3,Garnet,3,6,0.06,0.02,Bhiwandi School,2.7,7.09
-46,7753,Diya Raicha,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
-47,7955,Yatisri,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+1,4682,A Isha Angel,3,Garnet,3,6,0.06,0.02,Eva World School,2.5,6.52
+2,4683,A Joy Samuel,2,Zircon,2,1,0.04,0.0,Eva World School,2.5,6.52
+3,4684,Aabha Siddhartha Chandurkar,3,Aquamarine,2,2,0.04,0.01,Eva World School,2.5,6.52
+4,4685,Aadit Jignesh Limbani,1,Sapphire,5,10,0.1,0.03,Eva World School,2.5,6.52
+5,4689,Aahana Prashant Karamkar,3,Garnet,2,3,0.04,0.01,Eva World School,2.5,6.52
+6,4691,Aaradhya Abhijeet Sutar,3,Alexandrite,1,3,0.02,0.01,Eva World School,2.5,6.52
+7,4692,Aaradhya Harshal Sonar,4,Morgonite,2,5,0.04,0.02,Eva World School,2.5,6.52
+8,4693,Aaradhya Singh,3,Garnet,5,7,0.1,0.02,Eva World School,2.5,6.52
+9,4696,Aarav Amit Mathur,3,Garnet,1,4,0.02,0.01,Eva World School,2.5,6.52
+10,4697,Aarav Prasad,3,Alexandrite,2,7,0.04,0.02,Eva World School,2.5,6.52
+11,4699,Aarav Singh,1,Sapphire,1,3,0.02,0.01,Eva World School,2.5,6.52
+12,4700,Aaravi Ravindra Anugade,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+13,4704,Aarya Ketan Thakkar,2,Zircon,1,2,0.02,0.01,Eva World School,2.5,6.52
+14,4705,Aaryan Kalpesh Patil,2,Ammolite,2,5,0.04,0.02,Eva World School,2.5,6.52
+15,4707,Aashna Rajesh Prasad,3,Aquamarine,1,7,0.02,0.02,Eva World School,2.5,6.52
+16,4713,Adhira Sudhir Nair,4,Morgonite,3,10,0.06,0.03,Eva World School,2.5,6.52
+17,4714,Adhvith Surendra Poojary,1,Sapphire,2,5,0.04,0.02,Eva World School,2.5,6.52
+18,4715,Advik Saraswat,1,Sapphire,1,8,0.02,0.03,Eva World School,2.5,6.52
+19,4716,Advika Harikumar,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+20,4717,Advika Pandey,1,Sapphire,1,9,0.02,0.03,Eva World School,2.5,6.52
+21,4718,Advika Tanwar,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+22,4719,Akanksha Limbraj More,2,Zircon,8,8,0.16,0.03,Eva World School,2.5,6.52
+23,4720,Alankritha Santosh Warrier,1,Sapphire,1,1,0.02,0.0,Eva World School,2.5,6.52
+24,4721,Ananya Amitkumar Pandey,1,Sapphire,1,6,0.02,0.02,Eva World School,2.5,6.52
+25,4722,Anaya Kishore,1,Sapphire,1,3,0.02,0.01,Eva World School,2.5,6.52
+26,4723,Anaya Shamsi,2,Opal,1,2,0.02,0.01,Eva World School,2.5,6.52
+27,4724,Anirudh Kurup,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+28,4725,Annshula Sanjay Dudhade,4,Morgonite,4,12,0.08,0.04,Eva World School,2.5,6.52
+29,4726,Ansh Abhijit Pisal,2,Ammolite,2,6,0.04,0.02,Eva World School,2.5,6.52
+30,4727,Antarik Das,2,Zircon,2,5,0.04,0.02,Eva World School,2.5,6.52
+31,4728,Anuj Jeevan Jadhav,2,Opal,2,7,0.04,0.02,Eva World School,2.5,6.52
+32,4729,Anvay Avinash Bhandari,2,Agate,3,4,0.06,0.01,Eva World School,2.5,6.52
+33,4731,Anvi Raman,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+34,4732,Anwita Unnikrishnan Naduveettil,1,Sapphire,2,8,0.04,0.03,Eva World School,2.5,6.52
+35,4733,Aradhya Shukla,3,Alexandrite,2,5,0.04,0.02,Eva World School,2.5,6.52
+36,4735,Arnav Satish Jumble,4,Morgonite,2,8,0.04,0.03,Eva World School,2.5,6.52
+37,4736,Arpit Sahani,3,Alexandrite,2,4,0.04,0.01,Eva World School,2.5,6.52
+38,4737,Arush Ganesh Mahanor,1,Sapphire,1,7,0.02,0.02,Eva World School,2.5,6.52
+39,4739,Ashita Prabhat Ranjan Rai,2,Opal,1,2,0.02,0.01,Eva World School,2.5,6.52
+40,4741,Atharv Gangwar,3,Garnet,2,10,0.04,0.03,Eva World School,2.5,6.52
+41,4742,Atharv Jha,1,Sapphire,2,4,0.04,0.01,Eva World School,2.5,6.52
+42,4743,Atharv Singh,1,Sapphire,1,3,0.02,0.01,Eva World School,2.5,6.52
+43,4744,Atharva Gurunath Belilkar,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+44,4745,Aviral Singh,1,Sapphire,4,10,0.08,0.03,Eva World School,2.5,6.52
+45,4746,Avishka Ganesh Patil,2,Ammolite,1,5,0.02,0.02,Eva World School,2.5,6.52
+46,4749,Ayansh Ray,2,Agate,1,6,0.02,0.02,Eva World School,2.5,6.52
+47,4751,Ayush Ajit Khairnar,2,Ammolite,2,10,0.04,0.03,Eva World School,2.5,6.52
+48,4752,Ayush Jha,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+49,4757,Bramha Sandip Thakre,1,Sapphire,4,10,0.08,0.03,Eva World School,2.5,6.52
+50,4758,Chitrangada Manoj Suman,1,Sapphire,3,10,0.06,0.03,Eva World School,2.5,6.52
+51,4761,Derek Raphael M.,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+52,4762,Devansh Vikram Kunder,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+53,4764,Dharmpal Singh Puran Singh Chondawat,2,Zircon,2,8,0.04,0.03,Eva World School,2.5,6.52
+54,4766,Dhruvi Prashant Poreddiwar,2,Zircon,2,8,0.04,0.03,Eva World School,2.5,6.52
+55,4767,Divija Chowdhury,3,Garnet,1,2,0.02,0.01,Eva World School,2.5,6.52
+56,4769,Divyanshi Pandey,3,Garnet,1,4,0.02,0.01,Eva World School,2.5,6.52
+57,4772,Diya Amar Patil,2,Opal,1,2,0.02,0.01,Eva World School,2.5,6.52
+58,4775,Drushti Dinesh Deochake,1,Sapphire,2,4,0.04,0.01,Eva World School,2.5,6.52
+59,4776,Durva Jitendra Kalan,2,Ammolite,1,1,0.02,0.0,Eva World School,2.5,6.52
+60,4777,Durva Krishna Tayashete,2,Zircon,2,8,0.04,0.03,Eva World School,2.5,6.52
+61,4779,Gargi Amit Chavan,1,Sapphire,3,8,0.06,0.03,Eva World School,2.5,6.52
+62,4780,Gauransh Mittal,1,Sapphire,3,8,0.06,0.03,Eva World School,2.5,6.52
+63,4782,Gauri Bhatnagar,4,Albite,2,5,0.04,0.02,Eva World School,2.5,6.52
+64,4783,Geetansh Hemant Shinde,2,Agate,3,8,0.06,0.03,Eva World School,2.5,6.52
+65,4784,Grisha Nitin Patil,1,Sapphire,1,8,0.02,0.03,Eva World School,2.5,6.52
+66,4785,Harsh Vinod Patil,2,Opal,3,6,0.06,0.02,Eva World School,2.5,6.52
+67,4787,Hiti Singh,3,Garnet,1,1,0.02,0.0,Eva World School,2.5,6.52
+68,4788,Hiyanshi Pradeepkumar Soni,2,Agate,1,8,0.02,0.03,Eva World School,2.5,6.52
+69,4789,Hridyam Sanket Somkuwar,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+70,4791,Ishaan Vishwajeet Kakde,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+71,4792,Janvika Janith,2,Ammolite,2,8,0.04,0.03,Eva World School,2.5,6.52
+72,4793,Jaswant Jajati Mallick,2,Opal,1,10,0.02,0.03,Eva World School,2.5,6.52
+73,4794,K Suhan .,3,Aquamarine,5,12,0.1,0.04,Eva World School,2.5,6.52
+74,4795,Kaashwi Jamwal,1,Sapphire,3,8,0.06,0.03,Eva World School,2.5,6.52
+75,4796,Karthikeya Reddy Isireddy,2,Opal,1,4,0.02,0.01,Eva World School,2.5,6.52
+76,4797,Kashvi Dubey,2,Zircon,3,4,0.06,0.01,Eva World School,2.5,6.52
+77,4798,Kavya Mukesh Pol,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+78,4799,Kavya Singh,1,Sapphire,5,12,0.1,0.04,Eva World School,2.5,6.52
+79,4800,Kayaan Saxena,1,Sapphire,4,10,0.08,0.03,Eva World School,2.5,6.52
+80,4801,Kayra Prasad Diwadkar,1,Sapphire,2,6,0.04,0.02,Eva World School,2.5,6.52
+81,4803,Ketaki Sandip Bhandarkar,1,Sapphire,2,4,0.04,0.01,Eva World School,2.5,6.52
+82,4804,Krishank Poddar,4,Peridot,2,9,0.04,0.03,Eva World School,2.5,6.52
+83,4805,Krishna Avinash Khirad,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+84,4808,Kshitij Singh,3,Aquamarine,2,12,0.04,0.04,Eva World School,2.5,6.52
+85,4810,Kushagra Singh,4,Morgonite,3,10,0.06,0.03,Eva World School,2.5,6.52
+86,4811,Kushal Nandhan Tulasi,3,Alexandrite,4,12,0.08,0.04,Eva World School,2.5,6.52
+87,4812,Lakshita Choudhary,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+88,4813,Lamya Khalil Ahmed Dayanji,4,Morgonite,1,9,0.02,0.03,Eva World School,2.5,6.52
+89,4814,Lavya Rajkumar Patel,3,Aquamarine,2,3,0.04,0.01,Eva World School,2.5,6.52
+90,4816,Lovejeet Singh Dhiman,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+91,4817,Luvyansh Gautam,2,Opal,1,3,0.02,0.01,Eva World School,2.5,6.52
+92,4818,Mahidhar Reddy Isireddy,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+93,4819,Mahira Kasim Shaikh,1,Sapphire,3,10,0.06,0.03,Eva World School,2.5,6.52
+94,4820,Mahirah Tausif Shaikh,1,Sapphire,1,8,0.02,0.03,Eva World School,2.5,6.52
+95,4821,Mahiraj Singh,3,Garnet,2,7,0.04,0.02,Eva World School,2.5,6.52
+96,4822,Manan Malik,2,Ammolite,2,4,0.04,0.01,Eva World School,2.5,6.52
+97,4823,Manan Sharad Patil,4,Albite,2,10,0.04,0.03,Eva World School,2.5,6.52
+98,4824,Manas Satish Jogave,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+99,4826,Manushri Surajkumar Patil,2,Opal,3,7,0.06,0.02,Eva World School,2.5,6.52
+100,4827,Mivaan Saha,1,Sapphire,2,7,0.04,0.02,Eva World School,2.5,6.52
+101,4828,Mohammed Tahir Sayyed,4,Albite,2,9,0.04,0.03,Eva World School,2.5,6.52
+102,4831,Muhammad Hasan Mushtaq Pawaskar,1,Sapphire,2,8,0.04,0.03,Eva World School,2.5,6.52
+103,4833,Nancy Sharma,3,Alexandrite,2,4,0.04,0.01,Eva World School,2.5,6.52
+104,4834,Navisha Balkishan Arya,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+105,4835,Navya Suresh Dawmani,1,Sapphire,4,8,0.08,0.03,Eva World School,2.5,6.52
+106,4836,Neel Bhatt,2,Opal,1,2,0.02,0.01,Eva World School,2.5,6.52
+107,4837,Nidhi Balkrishna Mhatre,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+108,4838,Nidhi Nitin Kalan,3,Rubelite,1,1,0.02,0.0,Eva World School,2.5,6.52
+109,4841,Nimisha Jitendra Yadav,1,Sapphire,2,2,0.04,0.01,Eva World School,2.5,6.52
+110,4842,Nirbhik Verma,1,Sapphire,6,12,0.12,0.04,Eva World School,2.5,6.52
+111,4843,Nisarg Dattatray Karkare,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+112,4844,Nitharsh Mohan,4,Morgonite,1,5,0.02,0.02,Eva World School,2.5,6.52
+113,4846,Onish Shrivastava,1,Sapphire,2,8,0.04,0.03,Eva World School,2.5,6.52
+114,4848,Palvit Singh,1,Sapphire,2,8,0.04,0.03,Eva World School,2.5,6.52
+115,4849,Paridhi Hitarth Patel,2,Ammolite,3,10,0.06,0.03,Eva World School,2.5,6.52
+116,4850,Pradyum Kumar,3,Alexandrite,3,12,0.06,0.04,Eva World School,2.5,6.52
+117,4851,Prajakta Sajan Kalan,2,Zircon,2,1,0.04,0.0,Eva World School,2.5,6.52
+118,4852,Praneeti Manojkumar Mogale,4,Peridot,2,7,0.04,0.02,Eva World School,2.5,6.52
+119,4853,Pranika Nair,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+120,4854,Pratyaksh Kaushik,1,Sapphire,2,8,0.04,0.03,Eva World School,2.5,6.52
+121,4855,Pratyush Shirish Hanchate,1,Sapphire,1,7,0.02,0.02,Eva World School,2.5,6.52
+122,4857,Prishaa Rajesh Bhandary,4,Peridot,2,6,0.04,0.02,Eva World School,2.5,6.52
+123,4858,Prishti Prashant Rewatkar,3,Rubelite,1,5,0.02,0.02,Eva World School,2.5,6.52
+124,4859,Priyanshu Singh Chandrawat,1,Sapphire,4,7,0.08,0.02,Eva World School,2.5,6.52
+125,4864,Ravees Singh,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+126,4865,Reyansh Rahul Bodke,2,Opal,2,6,0.04,0.02,Eva World School,2.5,6.52
+127,5050,Reyansh Sandeep Rasputra,1,Sapphire,3,5,0.06,0.02,Eva World School,2.5,6.52
+128,5051,Riddhish Rahul Govindwar,3,Alexandrite,1,4,0.02,0.01,Eva World School,2.5,6.52
+129,5052,Rishaan Arora,1,Sapphire,6,12,0.12,0.04,Eva World School,2.5,6.52
+130,5054,Rubal Umashankar Vishwakarma,3,Garnet,3,12,0.06,0.04,Eva World School,2.5,6.52
+131,5055,Rudra Pratap Singh,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+132,5061,Rushika Gangadhar Addagatla,3,Rubelite,2,3,0.04,0.01,Eva World School,2.5,6.52
+133,5062,Sai Vinuthna Suggu,2,Opal,3,5,0.06,0.02,Eva World School,2.5,6.52
+134,5063,Saira Ganesh Patil,2,Agate,1,8,0.02,0.03,Eva World School,2.5,6.52
+135,5065,Samanyu Gupta,4,Albite,2,12,0.04,0.04,Eva World School,2.5,6.52
+136,5066,Samik Anand Khot,4,Albite,1,7,0.02,0.02,Eva World School,2.5,6.52
+137,5067,Samriddh Manjhi,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+138,5068,Sanat Verma,1,Sapphire,1,8,0.02,0.03,Eva World School,2.5,6.52
+139,5069,Sanath Santosh Kuduremati,3,Garnet,1,4,0.02,0.01,Eva World School,2.5,6.52
+140,5071,Shanvi Sharma,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+141,5072,Sharvil Sushil Joshi,1,Sapphire,1,4,0.02,0.01,Eva World School,2.5,6.52
+142,5073,Shatakshi Sunil Patil,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+143,5077,Shivani .,3,Alexandrite,3,12,0.06,0.04,Eva World School,2.5,6.52
+144,5078,Shivansh Amit Mishra,1,Sapphire,1,5,0.02,0.02,Eva World School,2.5,6.52
+145,5082,Shlok Dinesh Patil,4,Peridot,2,10,0.04,0.03,Eva World School,2.5,6.52
+146,5084,Shraddha Maurya,4,Morgonite,1,7,0.02,0.02,Eva World School,2.5,6.52
+147,5085,Shreeja Dayanand Swami,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+148,5086,Shreeraj Yogesh Magar,4,Peridot,2,7,0.04,0.02,Eva World School,2.5,6.52
+149,5087,Shreeyash Yogesh Wagh,2,Agate,1,4,0.02,0.01,Eva World School,2.5,6.52
+150,5088,Shreyansh Melam,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+151,5090,Shubh Saurabh Gupta,4,Peridot,2,5,0.04,0.02,Eva World School,2.5,6.52
+152,5092,Siya Choudhary,2,Agate,1,8,0.02,0.03,Eva World School,2.5,6.52
+153,5093,Sparsh Swapnil Patil,1,Sapphire,2,7,0.04,0.02,Eva World School,2.5,6.52
+154,5096,Suryansh Padhy,3,Aquamarine,1,9,0.02,0.03,Eva World School,2.5,6.52
+155,5097,Swarup Sunil Thombare,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+156,5098,Swayam Nilesh Shinde,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+157,5099,Taksh Baliarsingh,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+158,5100,Takshinya Rupesh Kamble,1,Sapphire,1,1,0.02,0.0,Eva World School,2.5,6.52
+159,5101,Tanishka Shukla,3,Rubelite,2,9,0.04,0.03,Eva World School,2.5,6.52
+160,5102,Tanvi Umashankar Vishwakarma,2,Ammolite,2,7,0.04,0.02,Eva World School,2.5,6.52
+161,5103,Tarshini Kollu,4,Peridot,1,4,0.02,0.01,Eva World School,2.5,6.52
+162,5104,Tarshveer Singh Kamra,1,Sapphire,1,5,0.02,0.02,Eva World School,2.5,6.52
+163,5106,Thanmayi Gopu,1,Sapphire,3,8,0.06,0.03,Eva World School,2.5,6.52
+164,5107,Trashna Kushwaha,3,Alexandrite,2,2,0.04,0.01,Eva World School,2.5,6.52
+165,5108,Trisha Makarand Waskar,4,Morgonite,2,10,0.04,0.03,Eva World School,2.5,6.52
+166,5110,Trishika Samrat Chatterjee,2,Opal,2,8,0.04,0.03,Eva World School,2.5,6.52
+167,5111,Trushna Dhanaji Patil,2,Ammolite,3,2,0.06,0.01,Eva World School,2.5,6.52
+168,5112,Umesh Pandey,1,Sapphire,3,7,0.06,0.02,Eva World School,2.5,6.52
+169,5113,Unnat Raju Gupta,1,Sapphire,2,5,0.04,0.02,Eva World School,2.5,6.52
+170,5115,Vaikhari Mukund Bhor,1,Sapphire,2,7,0.04,0.02,Eva World School,2.5,6.52
+171,5116,Vairat Vishal,2,Zircon,3,4,0.06,0.01,Eva World School,2.5,6.52
+172,5118,Varun Ganesh Navle,2,Opal,3,5,0.06,0.02,Eva World School,2.5,6.52
+173,5119,Vashishth Pandey,1,Sapphire,1,3,0.02,0.01,Eva World School,2.5,6.52
+174,5123,Venkata Mohan Sathwik Lanka,3,Rubelite,1,4,0.02,0.01,Eva World School,2.5,6.52
+175,5125,Vihaan Ravibhushan Choudhary,4,Morgonite,2,9,0.04,0.03,Eva World School,2.5,6.52
+176,5127,Vinaya Beniwal,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+177,5128,Vindhya Kiran Sirsalmath,4,Peridot,1,3,0.02,0.01,Eva World School,2.5,6.52
+178,5129,Viraj Yogesh Tambe,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+179,5132,Vivaan Sharma,1,Sapphire,1,2,0.02,0.01,Eva World School,2.5,6.52
+180,5133,Vivaan Sunil Verma,2,Opal,3,10,0.06,0.03,Eva World School,2.5,6.52
+181,5134,Vivaan Viral Mistry,1,Sapphire,1,8,0.02,0.03,Eva World School,2.5,6.52
+182,5135,Vivaan Vishal Singh,3,Rubelite,1,1,0.02,0.0,Eva World School,2.5,6.52
+183,5136,Vivan Pravin Kharat,1,Sapphire,3,3,0.06,0.01,Eva World School,2.5,6.52
+184,5139,Aabir Saikia,8,Jade,16,12,0.32,0.04,Eva World School,2.5,6.52
+185,5140,Aadyasha Badatya,5,Onyx,2,11,0.04,0.04,Eva World School,2.5,6.52
+186,5141,Aahan Anoop Nair,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+187,5142,Aakash Manoj Vishwakarma,9,Beryl,6,7,0.12,0.02,Eva World School,2.5,6.52
+188,5143,Aarush Verma,10,Tanzanite,4,2,0.08,0.01,Eva World School,2.5,6.52
+189,5144,Abhigyan Nayak,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+190,5145,Abhijeet Prashant Mahakul,10,Tanzanite,3,4,0.06,0.01,Eva World School,2.5,6.52
+191,5146,Abhik Sharma,7,Amethyst,1,5,0.02,0.02,Eva World School,2.5,6.52
+192,5148,Adhisree Unnikrishnan Naduveettil,5,Onyx,3,12,0.06,0.04,Eva World School,2.5,6.52
+193,5149,Adithya Chowdary Chlasani,5,Adamite,2,7,0.04,0.02,Eva World School,2.5,6.52
+194,5150,Aditi Singh,9,Beryl,2,6,0.04,0.02,Eva World School,2.5,6.52
+195,5152,Aditya Prashant Patil,10,Tanzanite,7,12,0.14,0.04,Eva World School,2.5,6.52
+196,5155,Akshaya Sudha Borikar,10,Azurite,6,8,0.12,0.03,Eva World School,2.5,6.52
+197,5156,Alhan Balbale,8,Jade,4,5,0.08,0.02,Eva World School,2.5,6.52
+198,5157,Alia Yunus Shaikh,8,Titanite,3,7,0.06,0.02,Eva World School,2.5,6.52
+199,5158,Alokkumar Kedar Mahto,9,Azurite,5,8,0.1,0.03,Eva World School,2.5,6.52
+200,5159,Ammar Mustafa Kapasi,5,Onyx,2,6,0.04,0.02,Eva World School,2.5,6.52
+201,5161,Ananya Rajesh Menon,5,Onyx,2,12,0.04,0.04,Eva World School,2.5,6.52
+202,5162,Ananya Tushti Jha,7,Amethyst,3,8,0.06,0.03,Eva World School,2.5,6.52
+203,5163,Anaya Manishkumar Tripathi,5,Adamite,2,8,0.04,0.03,Eva World School,2.5,6.52
+204,5165,Animesh Singh,10,Tanzanite,4,4,0.08,0.01,Eva World School,2.5,6.52
+205,5166,Anish Pandey,6,Turquoise,2,4,0.04,0.01,Eva World School,2.5,6.52
+206,5167,Anshra Imran Shaikh,5,Adamite,1,1,0.02,0.0,Eva World School,2.5,6.52
+207,5169,Aradhya Amol Shirode,5,Onyx,4,12,0.08,0.04,Eva World School,2.5,6.52
+208,5170,Ark Khandelwal,8,Titanite,6,9,0.12,0.03,Eva World School,2.5,6.52
+209,5171,Arnav Jagdish Tupe,5,Onyx,2,10,0.04,0.03,Eva World School,2.5,6.52
+210,5172,Arnav Singh,5,Adamite,7,12,0.14,0.04,Eva World School,2.5,6.52
+211,5175,Aryan Laxman Patil,9,Azurite,1,1,0.02,0.0,Eva World School,2.5,6.52
+212,5176,Aryan Ravibhushan Choudhary,7,Amethyst,2,8,0.04,0.03,Eva World School,2.5,6.52
+213,5177,Ashish Jagdish Verma,7,Lazulite,5,8,0.1,0.03,Eva World School,2.5,6.52
+214,5178,Avika Ashokkumar Goyal,5,Onyx,2,5,0.04,0.02,Eva World School,2.5,6.52
+215,5179,Ayesha Valid Bagdadi,7,Lazulite,2,6,0.04,0.02,Eva World School,2.5,6.52
+216,5180,Ayushi Jha,7,Lazulite,3,7,0.06,0.02,Eva World School,2.5,6.52
+217,5181,Bhavik Suresh Soni,6,Argonite,2,4,0.04,0.01,Eva World School,2.5,6.52
+218,5182,Chaitanya Kaluram Kalan,6,Argonite,4,11,0.08,0.04,Eva World School,2.5,6.52
+219,5184,Daksh Pareek,10,Azurite,4,8,0.08,0.03,Eva World School,2.5,6.52
+220,5185,Dalpreet Kaur,10,Azurite,2,8,0.04,0.03,Eva World School,2.5,6.52
+221,5186,Darshil Rajan Kunte,10,Azurite,2,8,0.04,0.03,Eva World School,2.5,6.52
+222,5188,Dev Pratap Singh,8,Titanite,4,12,0.08,0.04,Eva World School,2.5,6.52
+223,5190,Deva Maria Jyothika,9,Azurite,3,8,0.06,0.03,Eva World School,2.5,6.52
+224,5192,Devansh Kataria,9,Azurite,1,4,0.02,0.01,Eva World School,2.5,6.52
+225,5193,Devanshi Sharma,8,Titanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+226,5194,Dhairya Dinesh Bhanushali,5,Adamite,5,12,0.1,0.04,Eva World School,2.5,6.52
+227,5196,Divya Kedarnarayan Mahto,6,Argonite,1,5,0.02,0.02,Eva World School,2.5,6.52
+228,5197,Diya Sandip Thakre,5,Adamite,6,12,0.12,0.04,Eva World School,2.5,6.52
+229,5199,Drishti Pandey,5,Adamite,7,12,0.14,0.04,Eva World School,2.5,6.52
+230,5200,Drishti Rajkishor Katharia,7,Lazulite,3,8,0.06,0.03,Eva World School,2.5,6.52
+231,5202,Durva Vinod Mhaske,6,Turquoise,1,5,0.02,0.02,Eva World School,2.5,6.52
+232,5205,Emmanuel Prince Vattoth,8,Jade,3,5,0.06,0.02,Eva World School,2.5,6.52
+233,5206,Farhan Ansari,9,Azurite,1,7,0.02,0.02,Eva World School,2.5,6.52
+234,5207,G.P. Sai Prajwal,10,Tanzanite,1,7,0.02,0.02,Eva World School,2.5,6.52
+235,5208,Garv Navneet Shukla,5,Onyx,5,12,0.1,0.04,Eva World School,2.5,6.52
+236,5209,Gatik Varshney,6,Argonite,1,5,0.02,0.02,Eva World School,2.5,6.52
+237,5211,Geethika Naidu Melam,8,Jade,1,12,0.02,0.04,Eva World School,2.5,6.52
+238,5212,Gurusha Sahu,5,Onyx,2,6,0.04,0.02,Eva World School,2.5,6.52
+239,5213,Hardik Gupta,8,Jade,15,12,0.3,0.04,Eva World School,2.5,6.52
+240,5214,Harsh Ravi Thakur,10,Azurite,7,8,0.14,0.03,Eva World School,2.5,6.52
+241,5215,Harsha Bindas Mhatre,5,Adamite,1,4,0.02,0.01,Eva World School,2.5,6.52
+242,5216,Harshit Bangera,10,Azurite,3,5,0.06,0.02,Eva World School,2.5,6.52
+243,5217,Heranyasri A,5,Onyx,2,4,0.04,0.01,Eva World School,2.5,6.52
+244,5218,Himanshu Jitendera Bapna,5,Adamite,2,2,0.04,0.01,Eva World School,2.5,6.52
+245,5220,Isha Dharmesh Thakur,5,Onyx,2,10,0.04,0.03,Eva World School,2.5,6.52
+246,5221,Ishaan Malhotra,7,Lazulite,2,5,0.04,0.02,Eva World School,2.5,6.52
+247,5222,Ishanvi Suresh Prabhu,10,Azurite,5,10,0.1,0.03,Eva World School,2.5,6.52
+248,5223,Ishita Sitender Negi,7,Amethyst,2,8,0.04,0.03,Eva World School,2.5,6.52
+249,5224,Ishita Varun Soni,6,Argonite,1,3,0.02,0.01,Eva World School,2.5,6.52
+250,5225,Ishwari Chandrashekhar Waghade,7,Amethyst,4,8,0.08,0.03,Eva World School,2.5,6.52
+251,5226,Jagriti Jitendra Jha,5,Onyx,8,4,0.16,0.01,Eva World School,2.5,6.52
+252,5227,Jainam Jain,7,Lazulite,3,4,0.06,0.01,Eva World School,2.5,6.52
+253,5228,Jaivardhan Tulasi,5,Adamite,6,12,0.12,0.04,Eva World School,2.5,6.52
+254,5230,Kalyani Dnyanesh Attarde,8,Titanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+255,5231,Kanaka Thara M M .,7,Lazulite,2,5,0.04,0.02,Eva World School,2.5,6.52
+256,5232,Kanishika Ganjoo,8,Jade,5,7,0.1,0.02,Eva World School,2.5,6.52
+257,5233,Kavya Bhushan,6,Argonite,5,12,0.1,0.04,Eva World School,2.5,6.52
+258,5234,Krit Jain,5,Adamite,1,6,0.02,0.02,Eva World School,2.5,6.52
+259,5235,Krutika Santosh Kokare,8,Titanite,2,5,0.04,0.02,Eva World School,2.5,6.52
+260,5236,Kumar Ritvik,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+261,5237,Laksh Sandeep Mhatre,5,Onyx,1,6,0.02,0.02,Eva World School,2.5,6.52
+262,5238,Lavanya Sachin Gaikwad,5,Onyx,8,12,0.16,0.04,Eva World School,2.5,6.52
+263,5239,Madhureema Bisht,5,Adamite,9,12,0.18,0.04,Eva World School,2.5,6.52
+264,5241,Manas Sarang,5,Adamite,3,10,0.06,0.03,Eva World School,2.5,6.52
+265,5242,Manasi Jha,5,Onyx,7,12,0.14,0.04,Eva World School,2.5,6.52
+266,5243,Manasvi Ashok Bhosale,7,Amethyst,2,8,0.04,0.03,Eva World School,2.5,6.52
+267,5244,Manvendra Rakesh,8,Titanite,9,9,0.18,0.03,Eva World School,2.5,6.52
+268,5245,Maryam Sayed,6,Turquoise,3,6,0.06,0.02,Eva World School,2.5,6.52
+269,5246,Medha Mahesh Dhat,7,Amethyst,2,8,0.04,0.03,Eva World School,2.5,6.52
+270,5247,Meet Gurunath Patil,7,Amethyst,5,7,0.1,0.02,Eva World School,2.5,6.52
+271,5248,Megha Mahesh Dhat,7,Lazulite,1,5,0.02,0.02,Eva World School,2.5,6.52
+272,5249,Meher Rajesh Yadav,7,Amethyst,3,8,0.06,0.03,Eva World School,2.5,6.52
+273,5250,Mohamed Khalil Ahmed Dayanji,9,Azurite,3,10,0.06,0.03,Eva World School,2.5,6.52
+274,5251,Mohammad Ameen Gulam Hussain Shah,5,Onyx,3,5,0.06,0.02,Eva World School,2.5,6.52
+275,5252,Mohansh Malviya,6,Argonite,3,5,0.06,0.02,Eva World School,2.5,6.52
+276,5254,Moksh Jain,8,Jade,7,9,0.14,0.03,Eva World School,2.5,6.52
+277,5255,Mridul Kumar Tiwary,9,Beryl,2,6,0.04,0.02,Eva World School,2.5,6.52
+278,5257,Naveen Pratapsingh Shekhawat,7,Lazulite,6,8,0.12,0.03,Eva World School,2.5,6.52
+279,5258,Navneet Singh,7,Amethyst,5,8,0.1,0.03,Eva World School,2.5,6.52
+280,5259,Neetish Natraj,10,Tanzanite,2,8,0.04,0.03,Eva World School,2.5,6.52
+281,5260,Niddesh Nandeep Kadam,6,Turquoise,2,10,0.04,0.03,Eva World School,2.5,6.52
+282,5261,Nivedyaa Shreekumar,5,Onyx,4,10,0.08,0.03,Eva World School,2.5,6.52
+283,5262,Niyati Pradeep Mohare,10,Tanzanite,1,8,0.02,0.03,Eva World School,2.5,6.52
+284,5263,Nupur Mahesh Patil,5,Adamite,3,4,0.06,0.01,Eva World School,2.5,6.52
+285,5264,Ojal Amol Shirode,8,Titanite,5,6,0.1,0.02,Eva World School,2.5,6.52
+286,5265,Padmanabh Manoj Mogale,7,Amethyst,3,8,0.06,0.03,Eva World School,2.5,6.52
+287,5266,Palak Manoj Vishwakarma,5,Onyx,2,4,0.04,0.01,Eva World School,2.5,6.52
+288,5267,Param Pavan Gupta,10,Tanzanite,1,7,0.02,0.02,Eva World School,2.5,6.52
+289,5268,Paridhi Prashant Karamkar,6,Turquoise,1,5,0.02,0.02,Eva World School,2.5,6.52
+290,5269,Parth Nama,7,Lazulite,3,7,0.06,0.02,Eva World School,2.5,6.52
+291,5270,Parth Shiva Sanikop,8,Jade,13,12,0.26,0.04,Eva World School,2.5,6.52
+292,5271,Prachi Pankaj Jha,7,Lazulite,4,6,0.08,0.02,Eva World School,2.5,6.52
+293,5272,Pranaya Parashar,5,Onyx,6,12,0.12,0.04,Eva World School,2.5,6.52
+294,5273,Pratul Someshwarnath Pandey,9,Azurite,3,8,0.06,0.03,Eva World School,2.5,6.52
+295,5275,Prisha Ravindra Rathore,7,Amethyst,1,5,0.02,0.02,Eva World School,2.5,6.52
+296,5276,Priyangshi Pinakpani Roy,7,Lazulite,3,8,0.06,0.03,Eva World School,2.5,6.52
+297,5278,Rajarajeshwari M M .,9,Azurite,3,6,0.06,0.02,Eva World School,2.5,6.52
+298,5279,Rakshita Papetla,7,Amethyst,2,8,0.04,0.03,Eva World School,2.5,6.52
+299,5282,Rifaa Hafsa Ulde,7,Lazulite,2,8,0.04,0.03,Eva World School,2.5,6.52
+300,5284,Rishita Reetesh Mishra,10,Azurite,2,5,0.04,0.02,Eva World School,2.5,6.52
+301,5285,Rishita Varun Soni,6,Argonite,2,10,0.04,0.03,Eva World School,2.5,6.52
+302,5287,Ritobrata Roy Sarkar,10,Tanzanite,2,6,0.04,0.02,Eva World School,2.5,6.52
+303,5288,Ritvik Verma,6,Argonite,1,4,0.02,0.01,Eva World School,2.5,6.52
+304,5290,Rudransh Anand Agrawal,9,Azurite,1,6,0.02,0.02,Eva World School,2.5,6.52
+305,5291,Rushil Chand K,9,Azurite,2,10,0.04,0.03,Eva World School,2.5,6.52
+306,5292,S. Chitreashwaran .,6,Turquoise,1,7,0.02,0.02,Eva World School,2.5,6.52
+307,5293,Saee Chintamani Dixit Hardikar,10,Tanzanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+308,5294,Sai Jugal Hire,8,Titanite,4,10,0.08,0.03,Eva World School,2.5,6.52
+309,5295,Sakshi Yadav,8,Titanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+310,5297,Samarth Chintamani Patil,5,Adamite,3,8,0.06,0.03,Eva World School,2.5,6.52
+311,5300,Sarah Tanzeem Bhatkar,6,Argonite,2,3,0.04,0.01,Eva World School,2.5,6.52
+312,5301,Sarim Khan,5,Onyx,1,3,0.02,0.01,Eva World School,2.5,6.52
+313,5302,Sarvesh Unde,6,Turquoise,3,2,0.06,0.01,Eva World School,2.5,6.52
+314,5303,Senaksh Dhananjay Bhatade,5,Adamite,3,4,0.06,0.01,Eva World School,2.5,6.52
+315,5304,Shaivi Sinha,6,Turquoise,1,8,0.02,0.03,Eva World School,2.5,6.52
+316,5305,Shambhavi Morya,10,Tanzanite,2,4,0.04,0.01,Eva World School,2.5,6.52
+317,5306,Sharanyaa Nadda,7,Amethyst,4,8,0.08,0.03,Eva World School,2.5,6.52
+318,5307,Sharvari Abhijit Pisal,7,Lazulite,1,7,0.02,0.02,Eva World School,2.5,6.52
+319,5308,Shaurya Kokje,5,Onyx,2,10,0.04,0.03,Eva World School,2.5,6.52
+320,5309,Shayan Cyrus Dangor,7,Lazulite,2,6,0.04,0.02,Eva World School,2.5,6.52
+321,5310,Shifa Noor Mehmoodi,10,Tanzanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+322,5311,Shikhar Sunil Verma,5,Adamite,4,10,0.08,0.03,Eva World School,2.5,6.52
+323,5312,Shivam Sarvesh Verma,10,Tanzanite,2,1,0.04,0.0,Eva World School,2.5,6.52
+324,5314,Shrawani Somnath Khabale,10,Azurite,1,1,0.02,0.0,Eva World School,2.5,6.52
+325,5316,Shreyas Mishra,8,Jade,2,3,0.04,0.01,Eva World School,2.5,6.52
+326,5318,Shriya Prakash Asolkar,6,Argonite,3,4,0.06,0.01,Eva World School,2.5,6.52
+327,5319,Shriyan Sanjay Menon,10,Azurite,5,9,0.1,0.03,Eva World School,2.5,6.52
+328,5320,Shubhangi Singh,8,Titanite,3,4,0.06,0.01,Eva World School,2.5,6.52
+329,5323,Soham Bhola,10,Azurite,3,1,0.06,0.0,Eva World School,2.5,6.52
+330,5324,Soham Jagadish Patel,8,Titanite,7,12,0.14,0.04,Eva World School,2.5,6.52
+331,5325,Sonakshie Baanerjee,6,Turquoise,13,12,0.26,0.04,Eva World School,2.5,6.52
+332,5326,Soneesh Sujeeth Singh,9,Azurite,4,10,0.08,0.03,Eva World School,2.5,6.52
+333,5327,Sovir Singh,9,Azurite,5,10,0.1,0.03,Eva World School,2.5,6.52
+334,5329,Spruha Swapnil Patil,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+335,5330,Srushti Ramesh Ghanwat,6,Turquoise,3,10,0.06,0.03,Eva World School,2.5,6.52
+336,5332,Subharna Prabakaran,8,Titanite,3,7,0.06,0.02,Eva World School,2.5,6.52
+337,5333,Sudip Sunil Das,7,Amethyst,4,8,0.08,0.03,Eva World School,2.5,6.52
+338,5336,Tanishka Ajit Khairnar,10,Azurite,2,6,0.04,0.02,Eva World School,2.5,6.52
+339,5337,Tanishq Aggarwal,8,Jade,11,12,0.22,0.04,Eva World School,2.5,6.52
+340,5338,Tanmay Vijay Prabhavale,6,Argonite,3,12,0.06,0.04,Eva World School,2.5,6.52
+341,5339,Tejas Saklani,7,Lazulite,2,8,0.04,0.03,Eva World School,2.5,6.52
+342,5341,Tiyasha Chakraborty,7,Amethyst,3,8,0.06,0.03,Eva World School,2.5,6.52
+343,5343,Vaibhavi Kiran Sirsalmath,7,Amethyst,4,8,0.08,0.03,Eva World School,2.5,6.52
+344,5344,Vaishnavi Gurunath Patil,9,Azurite,2,5,0.04,0.02,Eva World School,2.5,6.52
+345,5345,Vanshika Upasani,10,Azurite,4,10,0.08,0.03,Eva World School,2.5,6.52
+346,5346,Vartika Ishitaq Ahmed Shaikh,8,Titanite,2,5,0.04,0.02,Eva World School,2.5,6.52
+347,5348,Vedika Kaluram Kalan,5,Adamite,3,5,0.06,0.02,Eva World School,2.5,6.52
+348,5349,Venisha Nirav Trivedi,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+349,5350,Vidhi Gagan Thapar,7,Lazulite,1,3,0.02,0.01,Eva World School,2.5,6.52
+350,5351,Vidhi Sandeep Gole,8,Jade,6,12,0.12,0.04,Eva World School,2.5,6.52
+351,5352,Vidhi Sanodia,5,Adamite,10,12,0.2,0.04,Eva World School,2.5,6.52
+352,5353,Vihaan Laxman Singh,5,Onyx,1,4,0.02,0.01,Eva World School,2.5,6.52
+353,5354,Virat Pratap Singh,7,Lazulite,1,8,0.02,0.03,Eva World School,2.5,6.52
+354,5355,Vyan Vinod,8,Jade,4,5,0.08,0.02,Eva World School,2.5,6.52
+355,5356,Vyom Kaushik Dave,8,Titanite,5,12,0.1,0.04,Eva World School,2.5,6.52
+356,5357,Waibhav Nandan Pathak,10,Tanzanite,6,12,0.12,0.04,Eva World School,2.5,6.52
+357,5359,Yojit Sharma,8,Jade,15,12,0.3,0.04,Eva World School,2.5,6.52
+358,5360,Ysabel Yaven Crasto,8,Titanite,9,9,0.18,0.03,Eva World School,2.5,6.52
+359,5362,Yuvraj Dhananjay Choudhari,6,Argonite,6,12,0.12,0.04,Eva World School,2.5,6.52
+360,5363,Zayd Sayed,5,Onyx,2,10,0.04,0.03,Eva World School,2.5,6.52
+361,5364,Aaira Mohd Shafiq Shaikh,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+362,5365,Aarav Ritesh Gupta,1,Rhodonite,1,7,0.02,0.02,SKS,2.5,7.74
+363,5366,Aarav Sanjeev Dutta,3,Garnet,1,3,0.02,0.01,SKS,2.5,7.74
+364,5367,Aarav Singh,4,Peridot,2,5,0.04,0.02,SKS,2.5,7.74
+365,5369,Abhimanyusingh Mahendrasingh Chavan,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+366,5373,Akshit Deepak Dewasi,3,Garnet,2,8,0.04,0.03,SKS,2.5,7.74
+367,5375,Altamash Sarfuddin Khan,3,Garnet,2,4,0.04,0.01,SKS,2.5,7.74
+368,5378,Anay Shashikant Raut,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+369,5379,Anika Raghvendra Raghav,3,Garnet,2,6,0.04,0.02,SKS,2.5,7.74
+370,5380,Anvi Manohar Waje,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+371,5381,Aradhya Behera,1,Rhodonite,2,7,0.04,0.02,SKS,2.5,7.74
+372,5382,Aradhya Rajesh Jaiswal,1,Rhodonite,2,6,0.04,0.02,SKS,2.5,7.74
+373,5383,Aradhya Sachin Petkar,4,Peridot,4,12,0.08,0.04,SKS,2.5,7.74
+374,5384,Arfa Asim Khan,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+375,5388,Arsh Sunil Kumar Yadav,4,Peridot,4,12,0.08,0.04,SKS,2.5,7.74
+376,5389,Arush Vikas Waje,4,Peridot,1,6,0.02,0.02,SKS,2.5,7.74
+377,5390,Atharv Manwendra Pandey,1,Rhodonite,1,7,0.02,0.02,SKS,2.5,7.74
+378,5391,Atharv Vikas Mishra,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+379,5392,Atharv Vinay Dixit,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+380,5393,Atharva Sujeet Rai,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+381,5394,Ayann Haresh Gupta,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+382,5395,Ayansh Yogesh Waje,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+383,5396,Bhavika Singh,4,Peridot,2,7,0.04,0.02,SKS,2.5,7.74
+384,5398,Daksh Manoj Devasi,3,Garnet,1,7,0.02,0.02,SKS,2.5,7.74
+385,5399,Darsh Malhotra,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+386,5400,Dhanvi Sandeep Patil,2,Opal,1,6,0.02,0.02,SKS,2.5,7.74
+387,5401,Dharvik Vandit Pandya,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+388,5404,Divyansh Pandey,3,Garnet,1,5,0.02,0.02,SKS,2.5,7.74
+389,5405,Gatik Singla,2,Opal,2,4,0.04,0.01,SKS,2.5,7.74
+390,5407,Guruved Dinesh Shinde,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+391,5408,Harsh Vaibhav Mulik,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+392,5409,Havisha Elagonda,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+393,5410,Hital Narendra Patil,4,Peridot,1,7,0.02,0.02,SKS,2.5,7.74
+394,5411,Hitansh Vaibhav Sorathiya,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+395,5412,Hriday Swapnil Bhoir,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+396,5413,Iksha Rabindra Kumar Yadav,1,Rhodonite,2,7,0.04,0.02,SKS,2.5,7.74
+397,5414,Ishan Ikbal Patel,4,Peridot,1,7,0.02,0.02,SKS,2.5,7.74
+398,5415,Jaydeep Anil Mahato,3,Garnet,1,9,0.02,0.03,SKS,2.5,7.74
+399,5416,Kartik Rakesh Satre,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+400,5418,Kavya Gadekar,4,Peridot,5,12,0.1,0.04,SKS,2.5,7.74
+401,5421,Kunisha Mayur Patil,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+402,5422,Lihant Mahendra Patil,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+403,5423,M Eshanth Pragin,1,Rhodonite,1,8,0.02,0.03,SKS,2.5,7.74
+404,5424,Malhar Raja Shinde,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+405,5425,Manaswi Manoj Bagade,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+406,5426,Mayra Ranjeet Patil,1,Rhodonite,1,7,0.02,0.02,SKS,2.5,7.74
+407,5427,Medhansh Mayur Janwalkar,3,Garnet,1,10,0.02,0.03,SKS,2.5,7.74
+408,5428,Meet Singh Chitranjan Rana,1,Rhodonite,1,4,0.02,0.01,SKS,2.5,7.74
+409,5429,Meghana Muppidi,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+410,5430,Mohammad Shayaan Sameer Shaikh,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+411,5431,Mohammed Yahya Abdul Gani Mestry,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+412,5432,Moksh Papney,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+413,5433,Naksh Nitin Sonone,2,Opal,1,5,0.02,0.02,SKS,2.5,7.74
+414,5435,Navya Nitin Sonone,2,Opal,1,5,0.02,0.02,SKS,2.5,7.74
+415,5436,Neelgreev Basu,4,Peridot,4,12,0.08,0.04,SKS,2.5,7.74
+416,5438,Ovi Vilas Jadhav,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+417,5439,Pahal Jigneshkumar Patel,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+418,5440,Parishri Tushar Desai,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+419,5441,Parthiv Suren Kolli,4,Peridot,2,12,0.04,0.04,SKS,2.5,7.74
+420,5442,Poojashree Gandi,3,Garnet,1,2,0.02,0.01,SKS,2.5,7.74
+421,5444,Pranav Swapnil Tawar,3,Garnet,1,5,0.02,0.02,SKS,2.5,7.74
+422,5447,Prisha Arun Sonawane,2,Opal,1,6,0.02,0.02,SKS,2.5,7.74
+423,5448,Propil Mallick,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+424,5451,Riaan Sachin Mokashi,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+425,5454,Ruturaj Vikrant Salunke,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+426,5459,Shanaya Patra,1,Rhodonite,1,7,0.02,0.02,SKS,2.5,7.74
+427,5460,Shantanu Sanjay Chalke,1,Rhodonite,2,6,0.04,0.02,SKS,2.5,7.74
+428,5461,Sharvil Amol Kulkarni,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+429,5462,Shaurya Pratap,2,Opal,3,5,0.06,0.02,SKS,2.5,7.74
+430,5463,Shravni Shailesh Gadbail,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+431,5464,Shriraj Somnath Khabale,3,Garnet,1,2,0.02,0.01,SKS,2.5,7.74
+432,5465,Shrirang Nikhil Deshpande,3,Garnet,2,5,0.04,0.02,SKS,2.5,7.74
+433,5466,Sidharth Vikas Bagul,4,Peridot,1,2,0.02,0.01,SKS,2.5,7.74
+434,5468,Sreehari Lijesh,4,Peridot,2,10,0.04,0.03,SKS,2.5,7.74
+435,5470,Tanishka Dhirendra Singh,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+436,5471,Tanu Kaur Sohal,4,Peridot,5,12,0.1,0.04,SKS,2.5,7.74
+437,5472,Trishapallavi Bhanja,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+438,5473,Umaima Khan,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+439,5474,Vaanya Satya Narayan Mishra,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+440,5475,Vanya .,3,Garnet,1,1,0.02,0.0,SKS,2.5,7.74
+441,5476,Varad Digavlekar,4,Peridot,3,10,0.06,0.03,SKS,2.5,7.74
+442,5477,Ved Govind Bhanushali,4,Peridot,3,7,0.06,0.02,SKS,2.5,7.74
+443,5478,Veekshitha Dandina,2,Opal,1,4,0.02,0.01,SKS,2.5,7.74
+444,5479,Veer Vinay Varma,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+445,5482,Vihaan Vijay Patil,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+446,5484,Virat Vinod Verma,1,Rhodonite,2,7,0.04,0.02,SKS,2.5,7.74
+447,5486,Zed Robin Paul,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+448,5487,Aadarsh Laxman Rapolu,7,Amethyst,6,12,0.12,0.04,SKS,2.5,7.74
+449,5489,Aayush Deepak Singh,7,Amethyst,2,4,0.04,0.01,SKS,2.5,7.74
+450,5490,Adarsh Rajesh Sahu,5,Onyx,4,12,0.08,0.04,SKS,2.5,7.74
+451,5491,Aditi Binay Yadav,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+452,5492,Aditya Binay Yadav,7,Amethyst,7,10,0.14,0.03,SKS,2.5,7.74
+453,5493,Aditya Radheshyam Bhagat,5,Onyx,4,12,0.08,0.04,SKS,2.5,7.74
+454,5494,Aditya Sandip Sinore,8,Titanite,5,8,0.1,0.03,SKS,2.5,7.74
+455,5495,Aditya Shivalingam Bale,6,Turquoise,5,12,0.1,0.04,SKS,2.5,7.74
+456,5496,Agrima Gupta,5,Onyx,5,12,0.1,0.04,SKS,2.5,7.74
+457,5497,Akanksha Yadav,5,Onyx,5,12,0.1,0.04,SKS,2.5,7.74
+458,5498,Akshat Anand Bahadur Pathak,5,Onyx,3,9,0.06,0.03,SKS,2.5,7.74
+459,5500,Anant Akhilesh Tiwari,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+460,5501,Apurva Ritesh Sonwane,8,Titanite,3,4,0.06,0.01,SKS,2.5,7.74
+461,5502,Aradhya Ravindra Tipayale,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+462,5503,Aradhya Vinay Dixit,6,Turquoise,2,10,0.04,0.03,SKS,2.5,7.74
+463,5504,Arman Manoj Panigrahy,6,Turquoise,7,12,0.14,0.04,SKS,2.5,7.74
+464,5505,Arpan Awadhesh Vishwakarma,6,Turquoise,5,10,0.1,0.03,SKS,2.5,7.74
+465,5506,Arpit Anuj Pandey,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+466,5507,Arsh Ashish Panchal,8,Titanite,9,11,0.18,0.04,SKS,2.5,7.74
+467,5508,Aryan Deepak Singh,8,Titanite,7,10,0.14,0.03,SKS,2.5,7.74
+468,5509,Atulya Ansh Kumar,5,Onyx,3,12,0.06,0.04,SKS,2.5,7.74
+469,5510,Ayushi Dayagar Goswami,7,Amethyst,1,6,0.02,0.02,SKS,2.5,7.74
+470,5511,Bhautik Sachin Mahadik,8,Titanite,9,9,0.18,0.03,SKS,2.5,7.74
+471,5512,Eeshan Suraj Shetty,5,Onyx,4,10,0.08,0.03,SKS,2.5,7.74
+472,5513,Gargi Digvlekar,8,Titanite,5,8,0.1,0.03,SKS,2.5,7.74
+473,5514,Gayatri Arun Sonawane,6,Turquoise,3,9,0.06,0.03,SKS,2.5,7.74
+474,5516,Jwal Pranavkumar Pandya,7,Amethyst,2,7,0.04,0.02,SKS,2.5,7.74
+475,5518,Keshiv Sai Purna Rao,6,Turquoise,5,12,0.1,0.04,SKS,2.5,7.74
+476,5519,Krishna Mohnish Joshi,6,Turquoise,7,12,0.14,0.04,SKS,2.5,7.74
+477,5520,Manha Mehbub Shaikh,8,Titanite,4,9,0.08,0.03,SKS,2.5,7.74
+478,5521,Nandini Rakesh Dwivedi,8,Titanite,6,9,0.12,0.03,SKS,2.5,7.74
+479,5522,Nirvi Sameer Sachde,7,Amethyst,2,2,0.04,0.01,SKS,2.5,7.74
+480,5523,Nishka Paresh Bhanushali,5,Onyx,3,12,0.06,0.04,SKS,2.5,7.74
+481,5524,Owais Mehbub Shaikh,8,Titanite,4,3,0.08,0.01,SKS,2.5,7.74
+482,5525,Pranjali Jitesh Divekar,6,Turquoise,2,7,0.04,0.02,SKS,2.5,7.74
+483,5526,Pratha Ketan Bhanushali,7,Amethyst,2,5,0.04,0.02,SKS,2.5,7.74
+484,5527,Priyansh Pradip Pawar,5,Onyx,4,12,0.08,0.04,SKS,2.5,7.74
+485,5528,Pushkar Lalit Khairnar,5,Onyx,4,12,0.08,0.04,SKS,2.5,7.74
+486,5529,Reyansh Sandeep Singh,8,Titanite,5,7,0.1,0.02,SKS,2.5,7.74
+487,5530,Rudra Upadhyay,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+488,5531,Rushikesh Swamirao Chendake,5,Onyx,4,12,0.08,0.04,SKS,2.5,7.74
+489,5532,Sahil Ramchandra Patil,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+490,5533,Sanavi Prakash Mohite,7,Amethyst,2,5,0.04,0.02,SKS,2.5,7.74
+491,5534,Shraddha Pramod Kumar Gadale,8,Titanite,5,9,0.1,0.03,SKS,2.5,7.74
+492,5535,Siddhant Ramesh Gupta,7,Amethyst,5,9,0.1,0.03,SKS,2.5,7.74
+493,5536,Snehal Radheshyam Bhagat,7,Amethyst,8,10,0.16,0.03,SKS,2.5,7.74
+494,5537,Suyash Kumar,5,Onyx,2,7,0.04,0.02,SKS,2.5,7.74
+495,5538,Tanishka Chitranjan Rana,6,Turquoise,6,12,0.12,0.04,SKS,2.5,7.74
+496,5539,Tanishka Srivastava,6,Turquoise,3,12,0.06,0.04,SKS,2.5,7.74
+497,5541,Trisha Himat Bhanushali,7,Amethyst,1,4,0.02,0.01,SKS,2.5,7.74
+498,5543,Ved Kaushal Shukla,5,Onyx,6,12,0.12,0.04,SKS,2.5,7.74
+499,5544,Ved Vikas Ghatke,7,A,6,10,0.12,0.03,SKS,2.5,7.74
+500,5545,Veera Piyush Katariya,5,Onyx,2,11,0.04,0.04,SKS,2.5,7.74
+501,5546,Vidhi Vinod Gambhirrao,8,Titanite,5,8,0.1,0.03,SKS,2.5,7.74
+502,5547,Vinayak Naresh Papney,7,Amethyst,2,12,0.04,0.04,SKS,2.5,7.74
+503,5548,Viraj Saini,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+504,5549,Yash Shivpujan Dubey,5,Onyx,3,9,0.06,0.03,SKS,2.5,7.74
+505,5550,Yatharth Arun Mishra,6,Turquoise,8,12,0.16,0.04,SKS,2.5,7.74
+506,5551,Yatharth Tushar Munde,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+507,6022,Aadhya Rahul Dhumal,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+508,6023,Aaradhy Vinay Pawar,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+509,6024,Aaradhya Naresh Jain,3,Garnet,2,12,0.04,0.04,DWPS,2.5,8.26
+510,6025,Aaradhya Rohit Jaiswal,4,Morganite,2,12,0.04,0.04,DWPS,2.5,8.26
+511,6026,Aaratrika Rout,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+512,6027,Aarav Ajay Pal,3,Garnet,2,8,0.04,0.03,DWPS,2.5,8.26
+513,6028,Aarav Anil Khare,4,Peridot,2,10,0.04,0.03,DWPS,2.5,8.26
+514,6029,Aarohi Aashish Jaiswal,4,Peridot,1,2,0.02,0.01,DWPS,2.5,8.26
+515,6030,Aarush Kunal Kangale,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+516,6031,Aarush Tiwari,3,Garnet,2,7,0.04,0.02,DWPS,2.5,8.26
+517,6032,Aaryan Sachin Thorat,8,Jade,3,8,0.06,0.03,DWPS,2.5,8.26
+518,6033,Aastha Anil Gupta,5,Adamite,3,10,0.06,0.03,DWPS,2.5,8.26
+519,6034,Aayush Vaibhav Shinde,5,Adamite,2,10,0.04,0.03,DWPS,2.5,8.26
+520,6035,Abdul Aziz Abdul Mannan Kauchali,4,Peridot,2,9,0.04,0.03,DWPS,2.5,8.26
+521,6036,Abhay Chandrika Gupta,4,Peridot,2,6,0.04,0.02,DWPS,2.5,8.26
+522,6037,Abhimanyu Vishal Jadhav,4,Peridot,2,7,0.04,0.02,DWPS,2.5,8.26
+523,6038,Abhinav Behera,7,Amethyst,5,8,0.1,0.03,DWPS,2.5,8.26
+524,6039,Abhirath Jayesh Varal,5,Adamite,2,8,0.04,0.03,DWPS,2.5,8.26
+525,6041,Aditya Yadav,3,Aquamarine,2,10,0.04,0.03,DWPS,2.5,8.26
+526,6042,Adnan Azeem Mullaji,8,Jade,4,8,0.08,0.03,DWPS,2.5,8.26
+527,6043,Advithi Yembadi,4,Peridot,2,4,0.04,0.01,DWPS,2.5,8.26
+528,6044,Afifa Mujawar,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+529,6045,Afiya Mubeen Irfansha,5,Adamite,3,7,0.06,0.02,DWPS,2.5,8.26
+530,6046,Ahmed Ibrahim Khan,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+531,6047,Ahmed Sulaiman Khan,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+532,6048,Ahmed Vasim Kasmani,3,Aquamarine,5,12,0.1,0.04,DWPS,2.5,8.26
+533,6049,Aishi Paul,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+534,6050,Aiza Luqman Soniwala,4,Peridot,1,3,0.02,0.01,DWPS,2.5,8.26
+535,6051,Aizah Nadeem Fitwala,4,Morganite,4,12,0.08,0.04,DWPS,2.5,8.26
+536,6052,Akshaj Khandelwal,6,Turquoise,4,12,0.08,0.04,DWPS,2.5,8.26
+537,6053,Amaiyra Syed,5,Onyx,3,10,0.06,0.03,DWPS,2.5,8.26
+538,6054,Anahita Deepak Iyer,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+539,6056,Anannya Santosh Singh,8,Jade,4,8,0.08,0.03,DWPS,2.5,8.26
+540,6057,Anashvar Dharmatejas,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+541,6058,Anav Prerak Mankad,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+542,6059,Ansh Pandey,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+543,6060,Ansh Subhash Paradkar,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+544,6061,Ansh Yadav,6,Turquoise,6,12,0.12,0.04,DWPS,2.5,8.26
+545,6062,Anshika Akash Joshi,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+546,6063,Anshul Adityaraj .,7,Amethyst,3,8,0.06,0.03,DWPS,2.5,8.26
+547,6064,Anvi Amol Patil,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+548,6065,Anvi Anand Mirashi,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+549,6066,Aradhy Sachin Chavan,4,Peridot,1,2,0.02,0.01,DWPS,2.5,8.26
+550,6067,Arin Akash Panday,4,Peridot,2,5,0.04,0.02,DWPS,2.5,8.26
+551,6068,Arjun Sharma,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+552,6069,Arnav Nalli,5,Adamite,5,12,0.1,0.04,DWPS,2.5,8.26
+553,6070,Arnav Rakesh Tandel,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+554,6071,Arohi Alhad Kharmale,4,Peridot,1,4,0.02,0.01,DWPS,2.5,8.26
+555,6072,Arsalan Rais Pathan,4,Peridot,2,8,0.04,0.03,DWPS,2.5,8.26
+556,6073,Arshan Qasim Ali Sayyed,5,Adamite,3,10,0.06,0.03,DWPS,2.5,8.26
+557,6074,Arth Bhavesh Parmar,3,Garnet,1,3,0.02,0.01,DWPS,2.5,8.26
+558,6075,Aryaman Kunal Vidhate,3,Aquamarine,1,10,0.02,0.03,DWPS,2.5,8.26
+559,6076,Ashar Syed,3,Garnet,2,10,0.04,0.03,DWPS,2.5,8.26
+560,6077,Atharv Sandeep Bhor,2,Opal,1,2,0.02,0.01,DWPS,2.5,8.26
+561,6078,Atharva Prasad Patil,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+562,6079,Aveeka Sandeep Sawhney,7,Amethyst,1,5,0.02,0.02,DWPS,2.5,8.26
+563,6080,Avika Ajay Pal,6,Turquoise,4,12,0.08,0.04,DWPS,2.5,8.26
+564,6081,Ayaan Aamir Khan,3,Aquamarine,1,9,0.02,0.03,DWPS,2.5,8.26
+565,6082,Ayaan Ahamed Sutheesh,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+566,6083,Ayaan Irfan Shaikh,5,Adamite,3,8,0.06,0.03,DWPS,2.5,8.26
+567,6084,Ayaan Maulali Patel,3,Garnet,1,4,0.02,0.01,DWPS,2.5,8.26
+568,6085,Ayaan Nazer Tharayil,5,Adamite,1,5,0.02,0.02,DWPS,2.5,8.26
+569,6086,Ayaan Prasad Nair,3,Garnet,2,10,0.04,0.03,DWPS,2.5,8.26
+570,6087,Ayesha Azeem Mullaji,5,Adamite,1,9,0.02,0.03,DWPS,2.5,8.26
+571,6088,Ayesha Nadeem Jamadar,7,Amethyst,2,4,0.04,0.01,DWPS,2.5,8.26
+572,6089,Azlan Reza Mulla,7,Amethyst,3,8,0.06,0.03,DWPS,2.5,8.26
+573,6090,Bhavit Agarwal,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+574,6091,Brahmi Piyush Kulshreshtha,4,Peridot,3,12,0.06,0.04,DWPS,2.5,8.26
+575,6093,Chinmay Ravindra Chavan,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+576,6094,Daarsheek Kumar,6,Turquoise,8,12,0.16,0.04,DWPS,2.5,8.26
+577,6095,Daksh Poddar,3,Garnet,1,2,0.02,0.01,DWPS,2.5,8.26
+578,6096,Darsh Ashok Paunikar,3,Garnet,2,5,0.04,0.02,DWPS,2.5,8.26
+579,6097,Darsh Pathak,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+580,6098,Dhairya Balraaj Kotkar,7,Amethyst,2,1,0.04,0.0,DWPS,2.5,8.26
+581,6099,Dhanush Rajendran,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+582,6100,Dheyanshi Kunjal Parekh,5,Onyx,6,12,0.12,0.04,DWPS,2.5,8.26
+583,6101,Dhreeya Balraaj Kotkar,7,Amethyst,2,7,0.04,0.02,DWPS,2.5,8.26
+584,6102,Dhruv Nair,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+585,6103,Dhruv Sandeep Pimpale,1,Sapphire,4,10,0.08,0.03,DWPS,2.5,8.26
+586,6104,Dhruv Sandeep Pote,4,Peridot,2,10,0.04,0.03,DWPS,2.5,8.26
+587,6105,Dhruvika Vikesh Jadhav,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+588,6106,Dhvija Kunjal Parekh,5,Onyx,5,12,0.1,0.04,DWPS,2.5,8.26
+589,6107,Diksha Sanjay Yadav,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+590,6108,Disha Mahendra Jain,4,Morganite,4,12,0.08,0.04,DWPS,2.5,8.26
+591,6109,Ditya Lalji Choudhary,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+592,6110,Divisha Karan Malvi,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+593,6111,Divyansh Mahesh Muthe,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+594,6112,Diya Kesava Dass,7,Amethyst,3,8,0.06,0.03,DWPS,2.5,8.26
+595,6113,Eliza Shaikh Murad Kalal,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+596,6114,Fatemah Vasim Shaikh,7,Amethyst,2,2,0.04,0.01,DWPS,2.5,8.26
+597,6115,Fatima Faraz Kazi,7,Amethyst,2,7,0.04,0.02,DWPS,2.5,8.26
+598,6116,Grishma Gautam Mhatre,4,Peridot,2,7,0.04,0.02,DWPS,2.5,8.26
+599,6117,Hamza Shoaib Ghole,1,Sapphire,3,10,0.06,0.03,DWPS,2.5,8.26
+600,6118,Harkarman Singh Ranjit Singh Randhawa,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+601,6120,Harshsingh Devendrasingh Rajwar,4,Peridot,2,5,0.04,0.02,DWPS,2.5,8.26
+602,6121,Heeral Sachin Wasan,1,Sapphire,4,8,0.08,0.03,DWPS,2.5,8.26
+603,6122,Hiya Jain,7,Amethyst,4,9,0.08,0.03,DWPS,2.5,8.26
+604,6123,Hrida Sengar,3,Aquamarine,1,7,0.02,0.02,DWPS,2.5,8.26
+605,6124,Hridhaan Gajendra Jain,7,Amethyst,5,8,0.1,0.03,DWPS,2.5,8.26
+606,6125,Ibrahim Faraz Kazi,4,Morganite,6,12,0.12,0.04,DWPS,2.5,8.26
+607,6126,Ibrahim Parvez Khan,5,Onyx,5,12,0.1,0.04,DWPS,2.5,8.26
+608,6127,Ibrahim Rehan Hamdule,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+609,6128,Ishanvi Prashant Chandekar,3,Aquamarine,1,8,0.02,0.03,DWPS,2.5,8.26
+610,6129,Jinal Dharmandar Mali,5,Adamite,3,12,0.06,0.04,DWPS,2.5,8.26
+611,6130,Jishaan Rafique Shaikh,2,Opal,1,8,0.02,0.03,DWPS,2.5,8.26
+612,6131,Jiyan Sunil Shah,4,Morganite,4,12,0.08,0.04,DWPS,2.5,8.26
+613,6132,Jui Mahesh Gawde,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+614,6133,Kalpesh Shashank Kasurde,7,Amethyst,1,7,0.02,0.02,DWPS,2.5,8.26
+615,6134,Kavish Satish Singh,4,Peridot,1,4,0.02,0.01,DWPS,2.5,8.26
+616,6135,Kavyanjali Kunal Vidhate,5,Onyx,3,10,0.06,0.03,DWPS,2.5,8.26
+617,6136,Khadijah Afzal Kazi,2,Zircon,1,7,0.02,0.02,DWPS,2.5,8.26
+618,6137,Kiyara Arif Khan,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+619,6139,Laiba Haidri,8,Jade,4,8,0.08,0.03,DWPS,2.5,8.26
+620,6140,M S Pranav Ranjan,1,Sapphire,5,10,0.1,0.03,DWPS,2.5,8.26
+621,6141,Maanvi Jitu Makker,2,Opal,1,5,0.02,0.02,DWPS,2.5,8.26
+622,6142,Mahir Junaid Mukadam,3,Garnet,2,6,0.04,0.02,DWPS,2.5,8.26
+623,6144,Mansavi Sunil Pawar,3,Aquamarine,1,6,0.02,0.02,DWPS,2.5,8.26
+624,6145,Marc Henry Menezes,8,Jade,3,8,0.06,0.03,DWPS,2.5,8.26
+625,6146,Maulik Srivastava,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+626,6147,Mayan Pankaj Jagawat,5,Adamite,2,10,0.04,0.03,DWPS,2.5,8.26
+627,6148,Mayank Babu Giri,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+628,6149,Melanie Rachel Menezes,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+629,6150,Mihir Sanjay Patil,5,Onyx,1,9,0.02,0.03,DWPS,2.5,8.26
+630,6151,Mitali Ravi Nikam,3,Garnet,2,3,0.04,0.01,DWPS,2.5,8.26
+631,6152,Mitansh Dayanand Vishwasrao,4,Peridot,1,9,0.02,0.03,DWPS,2.5,8.26
+632,6153,Mohammad Hanzala Sajid .,3,Aquamarine,2,9,0.04,0.03,DWPS,2.5,8.26
+633,6154,Mohammad Yaseen Sajid Khan,4,Peridot,2,10,0.04,0.03,DWPS,2.5,8.26
+634,6155,Mohammed Arhaan Mujawar,6,Turquoise,4,12,0.08,0.04,DWPS,2.5,8.26
+635,6156,Mohammed Hamdan Khan,7,Amethyst,1,4,0.02,0.01,DWPS,2.5,8.26
+636,6157,Mohammed Huzaifah Faheem Shaikh,5,Adamite,2,7,0.04,0.02,DWPS,2.5,8.26
+637,6158,Mohammed Irfan Khan,7,Amethyst,4,8,0.08,0.03,DWPS,2.5,8.26
+638,6159,Mohammed Khalid Faheem Shaikh,6,Turquoise,2,10,0.04,0.03,DWPS,2.5,8.26
+639,6160,Mohammed Rayyan Ashfaq Ahmed Malim,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+640,6161,Mohammed Usman Sajid Khan,8,Jade,3,7,0.06,0.02,DWPS,2.5,8.26
+641,6162,Moulik Kapoor,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+642,6163,Mridul Mitra,3,Garnet,1,10,0.02,0.03,DWPS,2.5,8.26
+643,6164,Mudit Tripathi,5,Onyx,4,12,0.08,0.04,DWPS,2.5,8.26
+644,6165,Muhammad Ammaar Khan,5,Adamite,3,12,0.06,0.04,DWPS,2.5,8.26
+645,6166,Muhammad Kaab Shaikh,7,Amethyst,1,6,0.02,0.02,DWPS,2.5,8.26
+646,6167,Muhammad Rehan Hamdule,4,Peridot,2,10,0.04,0.03,DWPS,2.5,8.26
+647,6168,Muhammad Saood Saiful Ansari,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+648,6169,Muhammad Shariq Syed,8,Jade,3,8,0.06,0.03,DWPS,2.5,8.26
+649,6170,Muhammad Yafi,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+650,6171,Muhammed Aasif Damad,8,Jade,4,5,0.08,0.02,DWPS,2.5,8.26
+651,6172,Mustakeem Ahmed Fahim Ahmed Ashrafi,2,Opal,1,8,0.02,0.03,DWPS,2.5,8.26
+652,6173,Nabiha Haidri,6,Turquoise,8,12,0.16,0.04,DWPS,2.5,8.26
+653,6175,Naman Kailash Nayak,4,Peridot,1,4,0.02,0.01,DWPS,2.5,8.26
+654,6176,Namit Amit Dhakad,5,Onyx,1,5,0.02,0.02,DWPS,2.5,8.26
+655,6177,Nandini Piyush Kulshreshtha,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+656,6179,Nehal Anup Kumar Ghosh,3,Aquamarine,2,3,0.04,0.01,DWPS,2.5,8.26
+657,6180,Nidhi Gautam Sonar,4,Morganite,2,12,0.04,0.04,DWPS,2.5,8.26
+658,6181,Nidhi Mallikarjun Pujari,4,Peridot,1,7,0.02,0.02,DWPS,2.5,8.26
+659,6182,Niravi Vikas Mhatre,3,Aquamarine,2,8,0.04,0.03,DWPS,2.5,8.26
+660,6183,Nirmeet Jayant Mhatre,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+661,6184,Nishant Kayastha,4,Morganite,6,12,0.12,0.04,DWPS,2.5,8.26
+662,6185,Nishika Vikas Mhatre,3,Aquamarine,2,10,0.04,0.03,DWPS,2.5,8.26
+663,6186,Nishtha Kamlesh Jain,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+664,6187,Ojasvita Srivastava,1,Sapphire,4,8,0.08,0.03,DWPS,2.5,8.26
+665,6188,Paavani Sagar Patil,3,Garnet,1,5,0.02,0.02,DWPS,2.5,8.26
+666,6189,Paridhi Vikram Singh,4,Morganite,2,12,0.04,0.04,DWPS,2.5,8.26
+667,6190,Parineeti Vishal Mittal,3,Aquamarine,2,4,0.04,0.01,DWPS,2.5,8.26
+668,6191,Parishna Singam,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+669,6192,Phani Shree Singam,2,Zircon,1,6,0.02,0.02,DWPS,2.5,8.26
+670,6193,Prachi Palash Dhara,3,Garnet,1,3,0.02,0.01,DWPS,2.5,8.26
+671,6194,Pragati Vijay Singhvi,3,Aquamarine,2,10,0.04,0.03,DWPS,2.5,8.26
+672,6195,Pranaya Sachin Gaikwad,4,Morganite,3,10,0.06,0.03,DWPS,2.5,8.26
+673,6196,Pranil Amit Thikekar,1,Quartz,2,8,0.04,0.03,DWPS,2.5,8.26
+674,6197,Pranjal Kalpesh Mhatre,3,Garnet,2,10,0.04,0.03,DWPS,2.5,8.26
+675,6198,Prisha Sanket Kakde,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+676,6199,Prithvi Naresh Jain,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+677,6200,Priyansh Dhanaji Gorde,3,Aquamarine,5,10,0.1,0.03,DWPS,2.5,8.26
+678,6201,R B Sashtikaalaxmi,2,Opal,3,6,0.06,0.02,DWPS,2.5,8.26
+679,6202,Rachana Yadav,1,Sapphire,4,8,0.08,0.03,DWPS,2.5,8.26
+680,6203,Ranveerraje Sangram Vidhate,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+681,6204,Reedima Dilip Bobade,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+682,6205,Renessa Gangadhar Sabat,3,Aquamarine,1,9,0.02,0.03,DWPS,2.5,8.26
+683,6207,Ridham Parixit Dhakad,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+684,6208,Rishaan Banerjee,3,Aquamarine,3,10,0.06,0.03,DWPS,2.5,8.26
+685,6209,Ritika Parixit Dhakad,5,Onyx,2,12,0.04,0.04,DWPS,2.5,8.26
+686,6210,Riya Anil Kokane,2,Zircon,1,5,0.02,0.02,DWPS,2.5,8.26
+687,6211,Riya Ratan Dodake,3,Aquamarine,1,2,0.02,0.01,DWPS,2.5,8.26
+688,6212,Riyansh Chandan Karbhari,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+689,6213,Riyanshi Roshan Jha,4,Peridot,2,12,0.04,0.04,DWPS,2.5,8.26
+690,6214,Ronit Amarnath Singh,4,Morganite,1,7,0.02,0.02,DWPS,2.5,8.26
+691,6216,Rudra Shrikant Gorivale,5,Adamite,3,12,0.06,0.04,DWPS,2.5,8.26
+692,6217,Rudranshu Karthikeya Avasarala,7,Amethyst,9,10,0.18,0.03,DWPS,2.5,8.26
+693,6218,Ruturaj Viviyan Kolekar,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+694,6219,Ryka Anil Rana,3,Aquamarine,1,5,0.02,0.02,DWPS,2.5,8.26
+695,6220,Saadhika Ekagra Kumar,4,Peridot,3,12,0.06,0.04,DWPS,2.5,8.26
+696,6221,Saanvi Singh,4,Peridot,1,5,0.02,0.02,DWPS,2.5,8.26
+697,6222,Saatvik Gupta,4,Peridot,2,10,0.04,0.03,DWPS,2.5,8.26
+698,6223,Samaira Vishwanath Sawant,7,Amethyst,3,8,0.06,0.03,DWPS,2.5,8.26
+699,6224,Samit Sunil Ghagare,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+700,6226,Sana Akbar Ali,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+701,6227,Sankalp Tanaji Patil,3,Garnet,2,10,0.04,0.03,DWPS,2.5,8.26
+702,6228,Sanvi Narendra Magade,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+703,6229,Sarthak Shankar Bhalerao,5,Onyx,1,7,0.02,0.02,DWPS,2.5,8.26
+704,6230,Sarvasvi Sushil Pevekar,3,Aquamarine,1,7,0.02,0.02,DWPS,2.5,8.26
+705,6231,Satvik Gupta,2,Opal,1,8,0.02,0.03,DWPS,2.5,8.26
+706,6232,Sharanya Kiran Sawant,1,Sapphire,3,7,0.06,0.02,DWPS,2.5,8.26
+707,6233,Shardul Sudhir Mohite,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+708,6234,Shaurya Mahadev Avasarala,3,Garnet,3,12,0.06,0.04,DWPS,2.5,8.26
+709,6235,Shaurya Nilesh Gadale,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+710,6236,Sheikh Daanish Kalal,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+711,6237,Shiv Yogindra Rawat,3,Garnet,1,7,0.02,0.02,DWPS,2.5,8.26
+712,6238,Shivam Mitra,4,Peridot,2,3,0.04,0.01,DWPS,2.5,8.26
+713,6239,Shivansh Dattatray Chavan,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+714,6240,Shloka Krishnadas Karumanthra,3,Aquamarine,1,5,0.02,0.02,DWPS,2.5,8.26
+715,6242,Shraddha Kamlesh Pal,2,Opal,3,10,0.06,0.03,DWPS,2.5,8.26
+716,6243,Shree Vivek Gharat,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+717,6244,Shreehari Puli,5,Adamite,2,10,0.04,0.03,DWPS,2.5,8.26
+718,6245,Shreemayi Sudarshan Shende,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+719,6246,Shrehan Dwivedi,5,Adamite,3,10,0.06,0.03,DWPS,2.5,8.26
+720,6247,Shreya Hanumant Kachare,3,Aquamarine,1,5,0.02,0.02,DWPS,2.5,8.26
+721,6248,Shreyash Kesarinath Tandel,4,Morganite,5,12,0.1,0.04,DWPS,2.5,8.26
+722,6249,Shreyash Mahesh Jadhav,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+723,6250,Siddharth Kamlesh Pal,7,Amethyst,3,8,0.06,0.03,DWPS,2.5,8.26
+724,6251,Sidrah Ashfaq Ahmed Malim,5,Adamite,3,12,0.06,0.04,DWPS,2.5,8.26
+725,6252,Soham Sukhdeb Bera,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+726,6253,Soham Vaibhav Bhave,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+727,6254,Sonal Anup Kumar Ghosh,3,Aquamarine,1,8,0.02,0.03,DWPS,2.5,8.26
+728,6255,Spandan Yogesh Patil,5,Adamite,2,10,0.04,0.03,DWPS,2.5,8.26
+729,6256,Subeer Talesra,6,Turquoise,2,10,0.04,0.03,DWPS,2.5,8.26
+730,6257,Subhan Sajjad Thakur,7,Amethyst,3,6,0.06,0.02,DWPS,2.5,8.26
+731,6258,Swara Gupta,5,Onyx,3,11,0.06,0.04,DWPS,2.5,8.26
+732,6259,Swara Sagar Mhatre,2,Zircon,1,1,0.02,0.0,DWPS,2.5,8.26
+733,6260,Swaraj Ajit Turukmare,5,Onyx,4,12,0.08,0.04,DWPS,2.5,8.26
+734,6261,Swaranjali Sangram Vidhate,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+735,6262,Swarnika Shivpujan Singh,3,Garnet,1,5,0.02,0.02,DWPS,2.5,8.26
+736,6263,Swayambhu Sunil Bamane,1,Sapphire,3,10,0.06,0.03,DWPS,2.5,8.26
+737,6264,Tanishka Rajiv Gaikwad,5,Adamite,3,10,0.06,0.03,DWPS,2.5,8.26
+738,6265,Tanishq Pravin Kumbhar,4,Morganite,3,12,0.06,0.04,DWPS,2.5,8.26
+739,6266,Tanshika Girish Ankalgi,3,Aquamarine,2,10,0.04,0.03,DWPS,2.5,8.26
+740,6267,Tirth Mangesh Patil,4,Morganite,2,7,0.04,0.02,DWPS,2.5,8.26
+741,6268,Trisha Haresh Shirke,2,Opal,2,7,0.04,0.02,DWPS,2.5,8.26
+742,6269,Tuba Abdul Latif Mulla,8,Jade,3,5,0.06,0.02,DWPS,2.5,8.26
+743,6270,Tuba Khan,6,Turquoise,4,12,0.08,0.04,DWPS,2.5,8.26
+744,6271,Ushasi Jana,7,Amethyst,5,8,0.1,0.03,DWPS,2.5,8.26
+745,6272,Utsav Nikhil Somani,6,Turquoise,3,12,0.06,0.04,DWPS,2.5,8.26
+746,6273,V Abhinaya,7,Amethyst,1,5,0.02,0.02,DWPS,2.5,8.26
+747,6274,Vamika Negi,6,Turquoise,3,10,0.06,0.03,DWPS,2.5,8.26
+748,6276,Vanshika Vikas Chavan,3,Garnet,1,5,0.02,0.02,DWPS,2.5,8.26
+749,6277,Veda Suresh Shama,3,Garnet,1,2,0.02,0.01,DWPS,2.5,8.26
+750,6278,Vedayana Ashwath Warkar,4,Morganite,4,7,0.08,0.02,DWPS,2.5,8.26
+751,6279,Viaan Ajay Misal,3,Aquamarine,2,4,0.04,0.01,DWPS,2.5,8.26
+752,6281,Vighnesh Arjun Moharkar,5,Adamite,1,3,0.02,0.01,DWPS,2.5,8.26
+753,6282,Vihaan Ravi Dube,3,Garnet,1,9,0.02,0.03,DWPS,2.5,8.26
+754,6283,Vihaan Tiwari,2,Zircon,2,8,0.04,0.03,DWPS,2.5,8.26
+755,6284,Vipra Vijay Dhonde,5,Adamite,2,11,0.04,0.04,DWPS,2.5,8.26
+756,6285,Viraj Ketan Joshi,3,Aquamarine,2,11,0.04,0.04,DWPS,2.5,8.26
+757,6286,Vivaan Abhijeet Gujar,5,Onyx,3,12,0.06,0.04,DWPS,2.5,8.26
+758,6287,Vivaan Amol Pawar,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+759,6288,Yash Uday Nikam,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+760,6289,Yug Hemant Hinghed,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+761,6290,Yugansh Amit More,3,Garnet,2,7,0.04,0.02,DWPS,2.5,8.26
+762,6291,Yuvraj Dogra,7,Amethyst,1,8,0.02,0.03,DWPS,2.5,8.26
+763,6292,Zara Fatema Shaikh,3,Aquamarine,2,4,0.04,0.01,DWPS,2.5,8.26
+764,6293,Zaryan Abdul Gani Saudagar,4,Peridot,2,2,0.04,0.01,DWPS,2.5,8.26
+765,6294,Zia Mohammed Refaizdin,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+766,6295,Zikra Maqsood Kazi,8,Jade,4,7,0.08,0.02,DWPS,2.5,8.26
+767,6296,Zoya Fathima Qazi,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+768,6297,Abdul Hafeez Nadeem Fitwala,9,Azurite,2,4,0.04,0.01,DWPS,2.5,8.26
+769,6298,Abeera Mohd Asif Sayyed,10,Jasper,1,8,0.02,0.03,DWPS,2.5,8.26
+770,6299,Affan Azeem Mullaji,10,Jasper,1,8,0.02,0.03,DWPS,2.5,8.26
+771,6303,Areeba Nisaar Ahmed Shaikh,9,Azurite,1,6,0.02,0.02,DWPS,2.5,8.26
+772,6323,Rajveer Singh Sudan,9,Azurite,1,1,0.02,0.0,DWPS,2.5,8.26
+773,6324,Rimsha Fatema Rizwan Shaikh,9,Azurite,1,4,0.02,0.01,DWPS,2.5,8.26
+774,6335, Dev Harish Menon,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+775,6336,Amir Hussain Ahmed,1,Sapphire,1,3,0.02,0.01,DWPS,2.5,8.26
+776,6337,Swaranjali Manik Salve,1,Sapphire,4,8,0.08,0.03,DWPS,2.5,8.26
+777,6338,Anshuman Rajiv Bagul,1,Sapphire,3,10,0.06,0.03,DWPS,2.5,8.26
+778,6339,Prachiti Pranavkumar Koyande,1,Sapphire,4,10,0.08,0.03,DWPS,2.5,8.26
+779,6340,Ehsaas Mukesh Chauhan,1,Sapphire,2,8,0.04,0.03,DWPS,2.5,8.26
+780,6341,Mohammed Zuhair Mohammed Javed??,1,Sapphire,3,8,0.06,0.03,DWPS,2.5,8.26
+781,6343,Devansh Mahesh Shegar,1,Quartz,3,8,0.06,0.03,DWPS,2.5,8.26
+782,6344, Atharva Prashant Mahale,1,Quartz,3,8,0.06,0.03,DWPS,2.5,8.26
+783,6345,Vaani Sainath Thakur,1,Quartz,2,6,0.04,0.02,DWPS,2.5,8.26
+784,6346, Sanyami Santosh Nimse,1,Quartz,3,8,0.06,0.03,DWPS,2.5,8.26
+785,6347,Aryan Indrajit Vanve,1,Quartz,2,8,0.04,0.03,DWPS,2.5,8.26
+786,6348,Ahamad Jilani Shekh,1,Quartz,2,8,0.04,0.03,DWPS,2.5,8.26
+787,6349,Nijma Sahabuddin Sheikh,1,Quartz,1,8,0.02,0.03,DWPS,2.5,8.26
+788,6350, Khusmita Sesadev Jena,1,Quartz,2,8,0.04,0.03,DWPS,2.5,8.26
+789,6351,Drikshit Pandidurai .,1,Quartz,3,8,0.06,0.03,DWPS,2.5,8.26
+790,6352,Shlok Santosh Jaiswar,2,Opal,2,8,0.04,0.03,DWPS,2.5,8.26
+791,6353, Jaasritha Appari,2,Opal,3,8,0.06,0.03,DWPS,2.5,8.26
+792,6354, Priyesh Sanjay Bhadke,3,Garnet,1,6,0.02,0.02,DWPS,2.5,8.26
+793,6355, Mahek Hitesh Jagawat,3,Garnet,1,4,0.02,0.01,DWPS,2.5,8.26
+794,6356,Praneetha Pilla,3,Aquamarine,4,12,0.08,0.04,DWPS,2.5,8.26
+795,6357,Arsh Ahmad Khan,4,Morganite,2,10,0.04,0.03,DWPS,2.5,8.26
+796,6358,Fathima Afzal Nathani,5,Adamite,2,10,0.04,0.03,DWPS,2.5,8.26
+797,6359,Dheekshita Pilla,5,Adamite,3,12,0.06,0.04,DWPS,2.5,8.26
+798,6361,Aanvi Shailendra Dwiwedi,1,Rhodonite,1,8,0.02,0.03,IRA,2.3,7.34
+799,6362,Aaradhya Swapnil Govalkar,1,Citrine,1,8,0.02,0.03,IRA,2.3,7.34
+800,6364,Aarush Sandesh Patil,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+801,6365,Aarvi Sandip Chaudhari,1,Rhodonite,2,5,0.04,0.02,IRA,2.3,7.34
+802,6366,Aarya Kiran Kobal,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+803,6367,Aayra Meet Kamble,1,Sapphire,3,12,0.06,0.04,IRA,2.3,7.34
+804,6368,Adhirohah Samrat Waghmare,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+805,6369,Aditi Bhanupratap Singh,1,Quartz,2,4,0.04,0.01,IRA,2.3,7.34
+806,6370,Advika Shrikant Patil,1,Quartz,4,10,0.08,0.03,IRA,2.3,7.34
+807,6371,Amaira Rahulkumar Singh,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+808,6372,Aman Sunil Kumar Yadav,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+809,6373,Amrita Chandrashekhar Bhosale,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+810,6374,Anaisha Anilkumar Pillai,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+811,6375,Anishka Kaushik,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+812,6376,Aradhya Tejas Patil,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+813,6377,Arnav Ganpati Wandre,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+814,6378,Arsalan Ashif Shaikh,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+815,6379,Avika Pravin Pandey,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+816,6380,Avira Vinaykumar Talla,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+817,6381,Avni Vaibhav Pavtekar,1,Quartz,2,6,0.04,0.02,IRA,2.3,7.34
+818,6382,Ayaansh Verma,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+819,6384,Ayansh Sainath Nisargandh,1,Citrine,1,8,0.02,0.03,IRA,2.3,7.34
+820,6385,Ayisha Fayyaz Hussain Ahmed,1,Citrine,2,7,0.04,0.02,IRA,2.3,7.34
+821,6386,Burhanuddin Adnan Lightwala,1,Quartz,1,8,0.02,0.03,IRA,2.3,7.34
+822,6387,Dakshit Kashinath Rathod,1,Quartz,2,5,0.04,0.02,IRA,2.3,7.34
+823,6388,Deep Debasis Samanta,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+824,6389,Dilreez Kaur,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+825,6390,Divyam Hrishikesh Jha,1,Quartz,1,7,0.02,0.02,IRA,2.3,7.34
+826,6391,Durva Harshal Surve,1,Sapphire,4,8,0.08,0.03,IRA,2.3,7.34
+827,6392,Eshani Santosh Pardhi,1,Rhodonite,1,7,0.02,0.02,IRA,2.3,7.34
+828,6393,Harsh Sarang Maradwar,1,Quartz,2,7,0.04,0.02,IRA,2.3,7.34
+829,6394,Hridhaan Vikram Patil,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+830,6395,Hrihaan Sarang Mohite,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+831,6396,Jamshed Kersi Daruwalla,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+832,6397,Jinay Uday Chheda,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+833,6398,Kaayra Ritesh Shetty,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+834,6399,Kaivalya Dnyaneshwar Munde,1,Rhodonite,1,6,0.02,0.02,IRA,2.3,7.34
+835,6400,Kanika Vijay Gonjare,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+836,6401,Karpama Kaushal Pathak,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+837,6402,Kartik Yogesh Patil,1,Rhodonite,1,6,0.02,0.02,IRA,2.3,7.34
+838,6403,Kavyansh Pratap Singh,1,Rhodonite,1,5,0.02,0.02,IRA,2.3,7.34
+839,6404,Kiaan Hanuman Mhatre,1,Rhodonite,1,8,0.02,0.03,IRA,2.3,7.34
+840,6405,Krishnan Prasad Patil,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+841,6406,Lohita Sri Sivagnana Pandian,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+842,6407,Mahira Mehboob Khan,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+843,6408,Manali Prosenjit Mondal,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+844,6409,Manas Pravin Sonawane,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+845,6410,Manvith Chandrashekar Bangera,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+846,6411,Moh A,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+847,6412,Mohammad Abdaan,1,Rhodonite,1,8,0.02,0.03,IRA,2.3,7.34
+848,6413,Mohammad Yusuf Mohd Azaruddin Shaikh,1,Sapphire,1,8,0.02,0.03,IRA,2.3,7.34
+849,6414,Nevan Vishal Pereira,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+850,6415,Nysha Nitin Nimbolkar,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+851,6416,Om Pravin Sharma,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+852,6417,Om Verma,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+853,6418,Palaash Makarand Lonkar,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+854,6419,Prabhnoor Ravinder Kaur,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+855,6420,Pradyumna Deepak Patil,1,Rhodonite,1,4,0.02,0.01,IRA,2.3,7.34
+856,6421,Pranavi Sumeet Parate,1,Rhodonite,1,2,0.02,0.01,IRA,2.3,7.34
+857,6422,Premanand Sagar Dusane,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+858,6423,Raavi Gehlotra,1,Sapphire,3,8,0.06,0.03,IRA,2.3,7.34
+859,6424,Raghav Praveen Dandhare,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+860,6425,Rajveer Rupesh More,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+861,6426,Reyansh Jenis Saiya,1,Sapphire,3,8,0.06,0.03,IRA,2.3,7.34
+862,6428,Rudra Singh Tomar,1,Quartz,1,4,0.02,0.01,IRA,2.3,7.34
+863,6429,Rudransh Ankush Jadhav,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+864,6430,Samanyu Singh,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+865,6431,Shanaya Praveer Sinha,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+866,6432,Sharvari Ranganath Patil,1,Citrine,2,4,0.04,0.01,IRA,2.3,7.34
+867,6433,Shayra Shashank Bagwe,1,Sapphire,4,8,0.08,0.03,IRA,2.3,7.34
+868,6435,Shivanssh Amit Amin,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+869,6436,Shourya Swapnil Ghag,1,Sapphire,3,8,0.06,0.03,IRA,2.3,7.34
+870,6437,Shreyan Sumit Bhatt,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+871,6438,Sparsh Shekhar Shinde,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+872,6439,Sukrit Singh,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+873,6440,Swajay Jainendra Dubey,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+874,6441,Swara Santosh Gurav,1,Sapphire,3,8,0.06,0.03,IRA,2.3,7.34
+875,6442,Swarnim Vineet Patwardhan,1,Sapphire,5,12,0.1,0.04,IRA,2.3,7.34
+876,6443,Tanish Sushil Lodaya,1,Sapphire,2,7,0.04,0.02,IRA,2.3,7.34
+877,6444,Tanuja Ganesh Patil,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+878,6445,Vidhaan Verma,1,Rhodonite,1,8,0.02,0.03,IRA,2.3,7.34
+879,6446,Vihan Prashant Shinde,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+880,6447,Vihan Vikram Kale,1,Sapphire,3,10,0.06,0.03,IRA,2.3,7.34
+881,6448,Vivan Saurabh Singh,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+882,6449,Viyona Rupesh Bhoir,1,Sapphire,2,8,0.04,0.03,IRA,2.3,7.34
+883,6450,Yagnya Ruthwik Chitti,1,Sapphire,4,9,0.08,0.03,IRA,2.3,7.34
+884,6451,Yashvi Vivek Gupta,1,Sapphire,3,8,0.06,0.03,IRA,2.3,7.34
+885,6452,Aaradhy Sachin Dalvi,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+886,6453,Aarush Raju Rathod,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+887,6454,Aarya Hanuman Mhatre,2,Zircon,2,8,0.04,0.03,IRA,2.3,7.34
+888,6455,Aarya Rahman,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+889,6456,Aayan Narendra Mhatre,2,Zircon,4,12,0.08,0.04,IRA,2.3,7.34
+890,6457,Abira Amey Khedulkar,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+891,6458,Advait Ganesh Shinde,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+892,6459,Agannya Amol Thakare,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+893,6460,Agrima Trivedi,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+894,6461,Amisha Dwita Pawar,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+895,6462,Ananya Vikrant Sharma,2,Zircon,3,10,0.06,0.03,IRA,2.3,7.34
+896,6463,Anay Vinod Chavan,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+897,6464,Ankit Amiya Kuila,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+898,6465,Anushka Anup Samanta,2,Opal,3,8,0.06,0.03,IRA,2.3,7.34
+899,6466,Anvi Mahesh Kadav,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+900,6467,Archita Bipin Singh,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+901,6468,Arnav Nilesh Watekar,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+902,6469,Atharv Alok Gupta,2,Agate,4,10,0.08,0.03,IRA,2.3,7.34
+903,6470,Burhanuddin Mohammed Dholkawala,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+904,6471,Dhanraj Devanand Jalla,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+905,6472,Dhruv Mohan Seenu,2,Opal,3,8,0.06,0.03,IRA,2.3,7.34
+906,6473,Divyanshu Prasad Chhatoi,2,Zircon,2,8,0.04,0.03,IRA,2.3,7.34
+907,6474,Durva Shreeman Patil,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+908,6476,Gitisha Jaiwant Baviskar,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+909,6477,Harshali Nitin Pawar,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+910,6478,Ishan Dhiraj Nagwekar,2,Zircon,2,8,0.04,0.03,IRA,2.3,7.34
+911,6479,Jay Manoj Pant,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+912,6480,Jayansh S. Bhaskar Reddy,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+913,6482,Jui Satyam Chalke,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+914,6483,Kaavya Vishal Panchal,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+915,6484,Kabir Amit Bhosle,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+916,6485,Kaivalya Rakesh Jadhav,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+917,6486,Kavish Vinod Hatkar,2,Zircon,2,8,0.04,0.03,IRA,2.3,7.34
+918,6487,Kiaan Sachin More,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+919,6488,Moh Ashwin Jamsandekar,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+920,6489,Neeva Amit Kadam,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+921,6490,Nilisha Nilesh Sawant,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+922,6491,Ovee Vikram Chitale,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+923,6492,Pari Nilesh Chikane,2,Pine,2,8,0.04,0.03,IRA,2.3,7.34
+924,6493,Pransh Amar Patil,2,Zircon,2,8,0.04,0.03,IRA,2.3,7.34
+925,6494,Pranvi Ashish Surve,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+926,6495,Prisha Girish Shetty,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+927,6496,Raghav Dhananjay Shinde,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+928,6497,Rajveer Yogesh Sanap,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+929,6498,Ria Rishikesh Nandedkar,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+930,6499,Robyn Navino Parte,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+931,6500,Rohit Govind Rathod,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+932,6501,Rudra Hemant Tajanpure,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+933,6502,Rudra Ramashankar Rajbhar,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+934,6503,Rudra Rohit Malbari,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+935,6504,Sanvi Shridhar Bhoir,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+936,6505,Sarvadnya Dhananjay Chavan,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+937,6506,Sharvil Hirenkumar Prajapati,2,Agate,4,8,0.08,0.03,IRA,2.3,7.34
+938,6507,Shivansh Santosh Date,2,Opal,4,8,0.08,0.03,IRA,2.3,7.34
+939,6508,Shravan Vicky Patil,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+940,6509,Shreeansh Kaustuv Patra,2,Agate,4,8,0.08,0.03,IRA,2.3,7.34
+941,6510,Siddhi Mithun Rajeshirke,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+942,6511,Siddhi Pramod Hatkar,2,Zircon,5,8,0.1,0.03,IRA,2.3,7.34
+943,6512,Siyon Praveen Salve,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+944,6513,Survi Sushant Chavan,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+945,6514,Swarajya Sandesh Sakpal,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+946,6515,Swarali Nitin Pawar,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+947,6516,Taksh Supreet Shetty,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+948,6517,Udhayanilavan A,2,Zircon,3,8,0.06,0.03,IRA,2.3,7.34
+949,6518,Unnati Sanjay Gaikwad,2,Zircon,4,8,0.08,0.03,IRA,2.3,7.34
+950,6519,Vruddhi Dipti Patil,2,Agate,3,8,0.06,0.03,IRA,2.3,7.34
+951,6520,Zyan Akhtar,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+952,6521,Aaddya Umesh Vernekar,3,Aquamarine,2,9,0.04,0.03,IRA,2.3,7.34
+953,6522,Aanvi Anil Gupta,3,Garnet,2,6,0.04,0.02,IRA,2.3,7.34
+954,6523,Aarav Ramchandra Salunkhe,3,Garnet,2,11,0.04,0.04,IRA,2.3,7.34
+955,6525,Aayush Nilesh Thakur,3,Garnet,2,7,0.04,0.02,IRA,2.3,7.34
+956,6526,Abhigyaan Bhogendra Thakur,3,Aquamarine,4,10,0.08,0.03,IRA,2.3,7.34
+957,6527,Advait Jayesh Kharpatil,3,Aquamarine,2,6,0.04,0.02,IRA,2.3,7.34
+958,6528,Anay Sanjay Uke,3,Aquamarine,3,5,0.06,0.02,IRA,2.3,7.34
+959,6529,Ansh Dharmendra Mishra,3,Garnet,2,8,0.04,0.03,IRA,2.3,7.34
+960,6530,Arin Anil Deendayal,3,Garnet,1,4,0.02,0.01,IRA,2.3,7.34
+961,6531,Arnav Digambar Mhatre,3,Aquamarine,3,11,0.06,0.04,IRA,2.3,7.34
+962,6532,Cayneil Amit Baranwal,3,Garnet,2,12,0.04,0.04,IRA,2.3,7.34
+963,6533,Dheyanshi Mamta Thakur,3,Aquamarine,3,5,0.06,0.02,IRA,2.3,7.34
+964,6534,Disha Hemant Nimole,3,Aquamarine,1,2,0.02,0.01,IRA,2.3,7.34
+965,6535,Dishanth Sivagnana Pandian,3,Aquamarine,3,12,0.06,0.04,IRA,2.3,7.34
+966,6536,Dishita Sachin Gupta,3,Garnet,3,12,0.06,0.04,IRA,2.3,7.34
+967,6537,Garima Naresh Patil,3,Aquamarine,2,8,0.04,0.03,IRA,2.3,7.34
+968,6538,Gaurav Santosh Dandge,3,Garnet,2,10,0.04,0.03,IRA,2.3,7.34
+969,6539,Gitika Durgaprasad Nimole,3,Alexandrite,1,2,0.02,0.01,IRA,2.3,7.34
+970,6540,Harshali Dinesh Shendre,3,Alexandrite,1,3,0.02,0.01,IRA,2.3,7.34
+971,6541,Himadri Hrishikesh Jha,3,Aquamarine,2,7,0.04,0.02,IRA,2.3,7.34
+972,6542,Hridaya Vikas Pawar,3,Garnet,3,10,0.06,0.03,IRA,2.3,7.34
+973,6543,Hur Mustufa Alotwala,3,Garnet,2,6,0.04,0.02,IRA,2.3,7.34
+974,6544,Ishani Ganesh Jadhav,3,Garnet,3,12,0.06,0.04,IRA,2.3,7.34
+975,6545,Ishani Sushant Wadekar,3,Alexandrite,2,3,0.04,0.01,IRA,2.3,7.34
+976,6546,Jheel Kamlesh Joisher,3,Aquamarine,2,7,0.04,0.02,IRA,2.3,7.34
+977,6547,Jinsi Kailash Bhagat,3,Garnet,2,11,0.04,0.04,IRA,2.3,7.34
+978,6548,Jordan Jeya Dickson,3,Aquamarine,6,12,0.12,0.04,IRA,2.3,7.34
+979,6549,K.Khrisha .,3,Alexandrite,3,10,0.06,0.03,IRA,2.3,7.34
+980,6550,Kaivalya Kunal Aher,3,Aquamarine,5,10,0.1,0.03,IRA,2.3,7.34
+981,6551,Karunya Mahabaleshwar Kelageri,3,Aquamarine,2,10,0.04,0.03,IRA,2.3,7.34
+982,6552,Kaustubh Badshaha Hilal,3,Garnet,2,9,0.04,0.03,IRA,2.3,7.34
+983,6553,Kavil Mahabaleshwar Kelageri,3,Aquamarine,2,11,0.04,0.04,IRA,2.3,7.34
+984,6555,Mairaa Srinivas Kottur,3,Aquamarine,2,2,0.04,0.01,IRA,2.3,7.34
+985,6556,Manshvi Jayesh Chambriya,3,Alexandrite,2,4,0.04,0.01,IRA,2.3,7.34
+986,6557,Mayuresh Vitthal Patil,3,Alexandrite,2,9,0.04,0.03,IRA,2.3,7.34
+987,6558,Meer Mohsin Khan,3,Garnet,2,7,0.04,0.02,IRA,2.3,7.34
+988,6559,Mitesh Bhavesh Bhoir,3,Garnet,2,5,0.04,0.02,IRA,2.3,7.34
+989,6560,Mohammed Hasnain Nissarahmed Shah,3,Aquamarine,2,7,0.04,0.02,IRA,2.3,7.34
+990,6561,Mrudul Pravin Tayade,3,Robin,2,5,0.04,0.02,IRA,2.3,7.34
+991,6562,Navika Hira Tiwari,3,Aquamarine,2,6,0.04,0.02,IRA,2.3,7.34
+992,6563,Niva Dhanraj Patil,3,Aquamarine,2,5,0.04,0.02,IRA,2.3,7.34
+993,6564,Pallav Rakesh Jadhav,3,Alexandrite,2,9,0.04,0.03,IRA,2.3,7.34
+994,6565,Prajakta Aroon Mishra,3,Garnet,3,10,0.06,0.03,IRA,2.3,7.34
+995,6566,Pranav Nandkishor Mahajan,3,Garnet,2,9,0.04,0.03,IRA,2.3,7.34
+996,6567,Priyal Aniket Pawar,3,Alexandrite,2,4,0.04,0.01,IRA,2.3,7.34
+997,6568,Pulkit Kapil Kalra,3,Alexandrite,2,6,0.04,0.02,IRA,2.3,7.34
+998,6569,Reyansh Dinesh Haware,3,Alexandrite,3,8,0.06,0.03,IRA,2.3,7.34
+999,6570,Reyansh Vijay Tayade,3,Alexandrite,2,9,0.04,0.03,IRA,2.3,7.34
+1000,6571,Riaan Kiran Shetty,3,Alexandrite,3,10,0.06,0.03,IRA,2.3,7.34
+1001,6572,Riddhi Vijay Jadhav,3,Garnet,3,12,0.06,0.04,IRA,2.3,7.34
+1002,6573,Rishabh Singh,3,Alexandrite,2,5,0.04,0.02,IRA,2.3,7.34
+1003,6574,Ritisha Hitesh Mehta,3,Garnet,2,7,0.04,0.02,IRA,2.3,7.34
+1004,6575,Rudved Shrinivas Naik,3,Alexandrite,3,12,0.06,0.04,IRA,2.3,7.34
+1005,6576,Rugvedi Sanjay Tharali,3,Garnet,3,12,0.06,0.04,IRA,2.3,7.34
+1006,6577,Rushabh Ravi Jadhav,3,Alexandrite,3,4,0.06,0.01,IRA,2.3,7.34
+1007,6578,Saish Santosh Telang,3,Aquamarine,1,1,0.02,0.0,IRA,2.3,7.34
+1008,6579,Saisha Vinod Dahiwalkar,3,Alexandrite,2,8,0.04,0.03,IRA,2.3,7.34
+1009,6580,Sanvi Sajivan Paswan,3,Alexandrite,2,3,0.04,0.01,IRA,2.3,7.34
+1010,6581,Saransh Shiju,3,Alexandrite,2,4,0.04,0.01,IRA,2.3,7.34
+1011,6582,Sharvari Shailesh Chavan,3,Alexandrite,2,9,0.04,0.03,IRA,2.3,7.34
+1012,6583,Shlok Ketan Bharekar,3,Alexandrite,3,4,0.06,0.01,IRA,2.3,7.34
+1013,6584,Shlok Sandeep Bansode,3,Alexandrite,3,10,0.06,0.03,IRA,2.3,7.34
+1014,6585,Shravani Vishal Patil,3,Alexandrite,1,4,0.02,0.01,IRA,2.3,7.34
+1015,6586,Shravya Saurabh Kene,3,Alexandrite,2,5,0.04,0.02,IRA,2.3,7.34
+1016,6587,Shrisha Amol Jagtap,3,Alexandrite,2,4,0.04,0.01,IRA,2.3,7.34
+1017,6588,Sri Laxmi Shankar Jalla,3,Garnet,2,12,0.04,0.04,IRA,2.3,7.34
+1018,6589,Srisha Subodh Narkar,3,Garnet,2,12,0.04,0.04,IRA,2.3,7.34
+1019,6590,Tushar P Shibu,3,Garnet,2,8,0.04,0.03,IRA,2.3,7.34
+1020,6591,Vedang Sachin Deshmukh,3,Aquamarine,4,10,0.08,0.03,IRA,2.3,7.34
+1021,6592,Vidhi Kunal Damania,3,Aquamarine,2,7,0.04,0.02,IRA,2.3,7.34
+1022,6593,Vihaan Kiran Mandaliya,3,Aquamarine,2,6,0.04,0.02,IRA,2.3,7.34
+1023,6594,Vihaan Singh,3,Garnet,3,5,0.06,0.02,IRA,2.3,7.34
+1024,6595,Vivaan Pallavi Gaonkar,3,Garnet,2,9,0.04,0.03,IRA,2.3,7.34
+1025,6596,Yajat Ishwar Bankar,3,Aquamarine,3,10,0.06,0.03,IRA,2.3,7.34
+1026,6597,Yuven Sushil Jaiswal,3,Aquamarine,3,8,0.06,0.03,IRA,2.3,7.34
+1027,6598,Zoya Hussain Ali Khan,3,Garnet,2,6,0.04,0.02,IRA,2.3,7.34
+1028,6599,Aaradhya Satish Shetty,4,Peridot,2,10,0.04,0.03,IRA,2.3,7.34
+1029,6600,Aarohi Sameer Mhatre,4,Albite,3,5,0.06,0.02,IRA,2.3,7.34
+1030,6601,Aaron Yesudas David,4,Peridot,2,8,0.04,0.03,IRA,2.3,7.34
+1031,6602,Aaryan Shailendra Mool,4,Morganite,2,7,0.04,0.02,IRA,2.3,7.34
+1032,6603,Adishree Sanket Thorat,4,Morganite,2,3,0.04,0.01,IRA,2.3,7.34
+1033,6604,Aditya Rajan Pathak,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1034,6605,Adyashakti Narayani Ojha,4,Albite,2,6,0.04,0.02,IRA,2.3,7.34
+1035,6606,Ahana Rushil Sarang,4,Peridot,3,6,0.06,0.02,IRA,2.3,7.34
+1036,6607,Aneeka Choudhary,4,Albite,2,6,0.04,0.02,IRA,2.3,7.34
+1037,6608,Anusha Amit Nikumbh,4,Peridot,3,12,0.06,0.04,IRA,2.3,7.34
+1038,6610,Avanika Lijesh,4,Peridot,1,3,0.02,0.01,IRA,2.3,7.34
+1039,6611,Avighna Subin,4,Morganite,2,8,0.04,0.03,IRA,2.3,7.34
+1040,6612,Avyan Jayshanker Choubey,4,Morganite,3,7,0.06,0.02,IRA,2.3,7.34
+1041,6613,Ayansh Singh Arora,4,Peridot,2,4,0.04,0.01,IRA,2.3,7.34
+1042,6614,Ayush Satyaprakash Pandey,4,Albite,3,9,0.06,0.03,IRA,2.3,7.34
+1043,6615,Bhargav Naresh Patil,4,Peridot,2,6,0.04,0.02,IRA,2.3,7.34
+1044,6616,Bhavit Rashmikant Pradhan,4,Morganite,2,6,0.04,0.02,IRA,2.3,7.34
+1045,6617,Devank Suhas Thosar,4,Morganite,3,8,0.06,0.03,IRA,2.3,7.34
+1046,6618,Dhruv Sachin Warekar,4,Morganite,2,4,0.04,0.01,IRA,2.3,7.34
+1047,6619,Dhruvi Mahendra Bhoir,4,Peridot,3,9,0.06,0.03,IRA,2.3,7.34
+1048,6620,Dhruvika Rohan Kulkarni,4,Albite,3,5,0.06,0.02,IRA,2.3,7.34
+1049,6621,Dron Fulraj Patil,4,Morganite,3,8,0.06,0.03,IRA,2.3,7.34
+1050,6622,Eshika Nitesh Kothari,4,Peridot,2,10,0.04,0.03,IRA,2.3,7.34
+1051,6623,Fazal Fayyaz Ahmed Hussain,4,Morganite,3,6,0.06,0.02,IRA,2.3,7.34
+1052,6624,Gargi Vinod Yendarkar,4,Morganite,2,7,0.04,0.02,IRA,2.3,7.34
+1053,6625,Gauri Ramchandra Ransaore,4,Peridot,2,6,0.04,0.02,IRA,2.3,7.34
+1054,6626,Harsh Hemant Patil,4,Morganite,2,4,0.04,0.01,IRA,2.3,7.34
+1055,6627,Harsh Prabhu Jadhav,4,Peridot,2,6,0.04,0.02,IRA,2.3,7.34
+1056,6628,Harshit Sanjay Pal,4,Albite,2,4,0.04,0.01,IRA,2.3,7.34
+1057,6629,Havisha Suryaji Patil,4,Morganite,2,3,0.04,0.01,IRA,2.3,7.34
+1058,6630,Ira Rohan Pinge,4,Morganite,3,4,0.06,0.01,IRA,2.3,7.34
+1059,6631,Ishanvi Vinaykumar Tiwari,4,Morganite,3,6,0.06,0.02,IRA,2.3,7.34
+1060,6632,Janhavi Kuldip Chavhan,4,Morganite,2,6,0.04,0.02,IRA,2.3,7.34
+1061,6633,Japtez Jagminder Joginder Sharma,4,Morganite,3,8,0.06,0.03,IRA,2.3,7.34
+1062,6634,Kaushik Chandrashekhar Upadhyay,4,Peridot,3,8,0.06,0.03,IRA,2.3,7.34
+1063,6635,Kritika Milind Vartak,4,Albite,3,9,0.06,0.03,IRA,2.3,7.34
+1064,6636,Leesha Tanmay Patil,4,Morganite,3,8,0.06,0.03,IRA,2.3,7.34
+1065,6637,Lehek Pankaj Tiwari,4,Peridot,2,12,0.04,0.04,IRA,2.3,7.34
+1066,6638,Mahir Krunal Davda,4,Peridot,2,5,0.04,0.02,IRA,2.3,7.34
+1067,6639,Manjiri Sudhir Jadhav,4,Morganite,3,5,0.06,0.02,IRA,2.3,7.34
+1068,6640,Meet Sushil Waswani,4,Albite,2,4,0.04,0.01,IRA,2.3,7.34
+1069,6641,Namit Gurunath Sarap,4,Morganite,2,5,0.04,0.02,IRA,2.3,7.34
+1070,6642,Netania Vishal Pereira,4,Albite,3,10,0.06,0.03,IRA,2.3,7.34
+1071,6643,Nihal Ramesh Singh,4,Morganite,2,4,0.04,0.01,IRA,2.3,7.34
+1072,6644,Nikunj Nitin Korale,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1073,6645,Nishika Prashant Satam,4,Peridot,2,7,0.04,0.02,IRA,2.3,7.34
+1074,6646,Nishtha Kaustuv Patra,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1075,6647,Nitya Mithun Ramteke,4,Albite,2,4,0.04,0.01,IRA,2.3,7.34
+1076,6648,Parikshit Hardesh Lakhere,4,Morganite,3,9,0.06,0.03,IRA,2.3,7.34
+1077,6649,Piyush Anil Gomtiwal,4,Albite,2,6,0.04,0.02,IRA,2.3,7.34
+1078,6650,Piyush Subhash Chavan,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1079,6651,Pradyumna Subramanya Bhat,4,Albite,5,12,0.1,0.04,IRA,2.3,7.34
+1080,6652,Prashant Rajendra Dahifale,4,Albite,1,2,0.02,0.01,IRA,2.3,7.34
+1081,6653,Pratham Pradip Thombare,4,Albite,3,6,0.06,0.02,IRA,2.3,7.34
+1082,6654,Pratyush Jayesh Patil,4,Albite,1,4,0.02,0.01,IRA,2.3,7.34
+1083,6655,Priya Sunil Kumar Yadav,4,Albite,3,8,0.06,0.03,IRA,2.3,7.34
+1084,6656,Riddhi Vijendra Singh,4,Albite,3,10,0.06,0.03,IRA,2.3,7.34
+1085,6657,Rutvi Vikram Patil,4,Albite,2,3,0.04,0.01,IRA,2.3,7.34
+1086,6658,Saara Razzaq Sayyed,4,Albite,2,4,0.04,0.01,IRA,2.3,7.34
+1087,6659,Sachi Ganesh Tawre,4,Peridot,2,4,0.04,0.01,IRA,2.3,7.34
+1088,6660,Saifuddin Shabbir Sodawala,4,Peridot,2,1,0.04,0.0,IRA,2.3,7.34
+1089,6661,Sairaj Sanket Shektkar,4,Albite,1,2,0.02,0.01,IRA,2.3,7.34
+1090,6662,Shlok Alok Athavle,4,Albite,2,4,0.04,0.01,IRA,2.3,7.34
+1091,6663,Shravya Nitin Sharma,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1092,6664,Shree Akash Telange,4,Albite,1,2,0.02,0.01,IRA,2.3,7.34
+1093,6665,Shreshtha Manohar Bedekar,4,Morganite,3,7,0.06,0.02,IRA,2.3,7.34
+1094,6666,Shreyas Nilesh Bhalekar,4,Peridot,3,7,0.06,0.02,IRA,2.3,7.34
+1095,6667,Shrimai Manoj Nitone,4,Morganite,2,9,0.04,0.03,IRA,2.3,7.34
+1096,6668,Sniti Sudhir Shetty,4,Albite,2,3,0.04,0.01,IRA,2.3,7.34
+1097,6669,Soam Amit Patil,4,Peridot,2,10,0.04,0.03,IRA,2.3,7.34
+1098,6670,Spandan Vikas Netke,4,Peridot,2,2,0.04,0.01,IRA,2.3,7.34
+1099,6671,Sunay Vaibhav Mane,4,Morganite,3,7,0.06,0.02,IRA,2.3,7.34
+1100,6672,Swanik Chandan Khamkar,4,Albite,3,6,0.06,0.02,IRA,2.3,7.34
+1101,6673,Swara Ankush Jadhav,4,Peridot,2,7,0.04,0.02,IRA,2.3,7.34
+1102,6674,Swara Satish Birje,4,Albite,2,2,0.04,0.01,IRA,2.3,7.34
+1103,6675,Tatsat Shriram Patil,4,Albite,2,6,0.04,0.02,IRA,2.3,7.34
+1104,6676,Vedha Anil Kundagol,4,Peridot,3,8,0.06,0.03,IRA,2.3,7.34
+1105,6677,Viraj Yogesh Singh,4,Peridot,3,10,0.06,0.03,IRA,2.3,7.34
+1106,6678,Yagnesh Satish Wadile,4,Peridot,3,7,0.06,0.02,IRA,2.3,7.34
+1107,6679,Aayza Fatima,I,Sapphire,2,6,0.04,0.02,Eva Thane,3.0,8.1
+1108,6681,Pranav Ganesh Gundawar,I,Sapphire,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1109,6682,Saksham Swaroopkumar Prabhu,I,Sapphire,3,5,0.06,0.02,Eva Thane,3.0,8.1
+1110,6684,Anitakkuvar Mahipalsingh Solanki,I,Sapphire,1,4,0.02,0.01,Eva Thane,3.0,8.1
+1111,6685,Ridhvi Nikhil Patil,I,Sapphire,3,10,0.06,0.03,Eva Thane,3.0,8.1
+1112,6686,Rehaan Amit Dwivedi,I,Sapphire,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1113,6687,Avyan Amit Sharma,I,Sapphire,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1114,6689,Anahat Kodilkar,I,Sapphire,4,5,0.08,0.02,Eva Thane,3.0,8.1
+1115,6690,Sanjana Rajesh Patel,I,Sapphire,3,8,0.06,0.03,Eva Thane,3.0,8.1
+1116,6691,Rhunee Nilesh Patil,I,Sapphire,4,8,0.08,0.03,Eva Thane,3.0,8.1
+1117,6693,Kanak Rajat Kapoor,I,Sapphire,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1118,6696,Keertana Satish Koottala,I,Sapphire,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1119,6697,Saanvi Singh,II,Zircon,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1120,6698,Dani Anil Senghani,II,Zircon,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1121,6699,Parth Anand Patil,II,Zircon,5,10,0.1,0.03,Eva Thane,3.0,8.1
+1122,6700,Mohammad Ziya Lone,II,Zircon,4,9,0.08,0.03,Eva Thane,3.0,8.1
+1123,6701,Prisha Nikhil Vaish,II,Zircon,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1124,6702,Saqibul Hussain Dharwad,II,Zircon,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1125,6703,Mehvish Nabil Shaikh,II,Zircon,4,8,0.08,0.03,Eva Thane,3.0,8.1
+1126,6704,Aayansh Manoj Shettigar,II,Zircon,5,12,0.1,0.04,Eva Thane,3.0,8.1
+1127,6705,Swara Sunil Kawale,II,Zircon,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1128,6706,Jaksh Vipin Bulani,II,Zircon,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1129,6707,Subhan Jignesh Shah,II,Zircon,2,4,0.04,0.01,Eva Thane,3.0,8.1
+1130,6708,Hetvik Viraj Borkhetariya,II,Zircon,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1131,6709,Avleen Kaur Ravijyot Singh Gotra,II,Zircon,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1132,6710,Nysha Vipul Bhoir,II,Zircon,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1133,6711,Joshua Dominic Savio,II,Zircon,5,12,0.1,0.04,Eva Thane,3.0,8.1
+1134,6712,Trisha Vishal Jangam,II,Coral,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1135,6713,Aaryan Sameer Mulani,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1136,6714,Nyra Angad Turkar,II,Coral,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1137,6715,Sudharshan Ss,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1138,6716,Geerisha Dadhich,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1139,6717,Ritisha Nilesh Popat,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1140,6718,Vansh Arvind Patil,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1141,6719,Ayushi Pandey,II,Coral,3,7,0.06,0.02,Eva Thane,3.0,8.1
+1142,6720,Navya Parag Amritsagar,II,Coral,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1143,6721,Naksh Parag Amritsagar,II,Coral,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1144,6722,Sayansh Uttej Penkar,II,Coral,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1145,6723,Sai Kishor Chavan,II,Coral,4,8,0.08,0.03,Eva Thane,3.0,8.1
+1146,6724,Rahul Pintu Naskar,II,Coral,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1147,6725,Prissha Pramod Salve,II,Coral,3,8,0.06,0.03,Eva Thane,3.0,8.1
+1148,6726,Aadinath Abhijit Dhande,II,Coral,5,12,0.1,0.04,Eva Thane,3.0,8.1
+1149,6727,Tanay Himesh Patel,III,Garnet,6,11,0.12,0.04,Eva Thane,3.0,8.1
+1150,6728,Mohit Harshad Mehta,III,Garnet,2,4,0.04,0.01,Eva Thane,3.0,8.1
+1151,6729,Jiah Santosh Patil,III,Garnet,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1152,6730,Brendonzeus Serrao,III,Garnet,3,6,0.06,0.02,Eva Thane,3.0,8.1
+1153,6731,Reyansh Vyankatesh Yengantiwar,III,Garnet,3,10,0.06,0.03,Eva Thane,3.0,8.1
+1154,6732,Trisha Suraj Vishwakarma,III,Garnet,2,5,0.04,0.02,Eva Thane,3.0,8.1
+1155,6733,Parshva Bhavesh Senghani,III,Garnet,3,12,0.06,0.04,Eva Thane,3.0,8.1
+1156,6734,Chris Robbin Payapilly,III,Garnet,3,12,0.06,0.04,Eva Thane,3.0,8.1
+1157,6735,Swara Nilesh Deshmukh,III,Garnet,2,3,0.04,0.01,Eva Thane,3.0,8.1
+1158,6736,Aaron Suhan Praveen Puthran,III,Garnet,2,10,0.04,0.03,Eva Thane,3.0,8.1
+1159,6737,Navya Chirag Shah,III,Garnet,2,10,0.04,0.03,Eva Thane,3.0,8.1
+1160,6738,Bhakti Himanshu Chheda,III,Garnet,2,12,0.04,0.04,Eva Thane,3.0,8.1
+1161,6739,Soumya Ghanshyam Bhilare,III,Garnet,2,5,0.04,0.02,Eva Thane,3.0,8.1
+1162,6740,Sanchita Trushant Salunke,III,Garnet,2,6,0.04,0.02,Eva Thane,3.0,8.1
+1163,6741,Sai Sanket Arabinda Pattnaik,III,Garnet,4,12,0.08,0.04,Eva Thane,3.0,8.1
+1164,6742,Pakhi Narayan Thakur,III,Garnet,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1165,6743,Emmanuel Joy Raju Bandaram,III,Garnet,2,3,0.04,0.01,Eva Thane,3.0,8.1
+1166,6745,Arush Tiwari,III,Garnet,3,9,0.06,0.03,Eva Thane,3.0,8.1
+1167,6746,Jiya Kiran Panchal,III,Garnet,2,6,0.04,0.02,Eva Thane,3.0,8.1
+1168,6747,Laksh Manoj Joshi,IV,Peridot,3,12,0.06,0.04,Eva Thane,3.0,8.1
+1169,6748,Zoya Arif Shaikh,IV,Peridot,1,1,0.02,0.0,Eva Thane,3.0,8.1
+1170,6750,Harshit Kenil Thakkar,IV,Peridot,2,10,0.04,0.03,Eva Thane,3.0,8.1
+1171,6751,Shanaya Malcolm Luis,IV,Peridot,2,12,0.04,0.04,Eva Thane,3.0,8.1
+1172,6752,Vedanshi Amitsingh Rajput,IV,Peridot,2,11,0.04,0.04,Eva Thane,3.0,8.1
+1173,6753,Anaya Pankaj Rane,IV,Peridot,7,12,0.14,0.04,Eva Thane,3.0,8.1
+1174,6754,Govardhan Amol Patil,IV,Peridot,1,6,0.02,0.02,Eva Thane,3.0,8.1
+1175,6755,Atharva Tripathi,IV,Peridot,3,12,0.06,0.04,Eva Thane,3.0,8.1
+1176,6756,Reyansh Nikhil Kotian,IV,Peridot,2,12,0.04,0.04,Eva Thane,3.0,8.1
+1177,6757,Shivansh Shruti Sharma,IV,Peridot,1,7,0.02,0.02,Eva Thane,3.0,8.1
+1178,6758,Vivaan Santosh Gupta,IV,Peridot,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1179,6760,Rudra Vivek Harne,V,Jade,2,1,0.04,0.0,Eva Thane,3.0,8.1
+1180,6761,Sachin Amit Chaurasia,V,Jade,2,3,0.04,0.01,Eva Thane,3.0,8.1
+1181,6764,Moksha Shetul Patel,V,Jade,3,4,0.06,0.01,Eva Thane,3.0,8.1
+1182,6765,Vanshi Anil Senghani,V,Jade,4,8,0.08,0.03,Eva Thane,3.0,8.1
+1183,6767,Devansh Aditya Nayak,V,Jade,1,3,0.02,0.01,Eva Thane,3.0,8.1
+1184,6771,Sanvi Vinod Dhake,V,Jade,4,9,0.08,0.03,Eva Thane,3.0,8.1
+1185,6773,Dev Hitesh Patel,VI,Opal,2,3,0.04,0.01,Eva Thane,3.0,8.1
+1186,6774,Keyur Mahesh Kulkarni,VI,Opal,1,1,0.02,0.0,Eva Thane,3.0,8.1
+1187,6775,Bibi Safina Dharwad,VI,Opal,5,12,0.1,0.04,Eva Thane,3.0,8.1
+1188,6776,Prayag Pravin Mhatre,VI,Opal,2,5,0.04,0.02,Eva Thane,3.0,8.1
+1189,6777,Niyati Bhupesh Naidu,VI,Opal,6,12,0.12,0.04,Eva Thane,3.0,8.1
+1190,6778,Vritika Mohanty,VI,Opal,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1191,6780,Anshika Vishal Dwivedi,VI,Opal,2,4,0.04,0.01,Eva Thane,3.0,8.1
+1192,6781,Abhinesh Swapnil Dhamankar,VI,Opal,2,8,0.04,0.03,Eva Thane,3.0,8.1
+1193,6782,Aarohi Rajan Tonape,VI,Opal,3,4,0.06,0.01,Eva Thane,3.0,8.1
+1194,6784,Kaira Mukesh Devnani,VI,Opal,1,1,0.02,0.0,Eva Thane,3.0,8.1
+1195,6785,Vishma Saleha Arkam Sayyed,VII,Onyx,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1196,6786,Anvita Gugaria,VII,Onyx,4,8,0.08,0.03,Eva Thane,3.0,8.1
+1197,6787,Liza Robbin Payapilly,VII,Onyx,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1198,6788,Kshitij Ashish Sharma,VII,Onyx,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1199,6789,Jay Kashinath Sangare,VII,Onyx,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1200,6790,Dnyanada Devendra Goregaonkar,VII,Onyx,1,6,0.02,0.02,Eva Thane,3.0,8.1
+1201,6791,Yuvika Vijay Lalwani,VII,Onyx,1,4,0.02,0.01,Eva Thane,3.0,8.1
+1202,6792,Zikra Billa Lone,VII,Onyx,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1203,6793,Rudra Liladhar Bhagat,VII,Onyx,1,7,0.02,0.02,Eva Thane,3.0,8.1
+1204,6794,Vaibhavi Bipin Dighe,VII,Onyx,3,6,0.06,0.02,Eva Thane,3.0,8.1
+1205,6795,Himanshi Manoj Joshi,VII,Turquoise,1,7,0.02,0.02,Eva Thane,3.0,8.1
+1206,6796,Aarush Nilesh Khaire,VII,Turquoise,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1207,6797,Ashutosh Chandan Singh,VII,Turquoise,1,3,0.02,0.01,Eva Thane,3.0,8.1
+1208,6798,Krishiv Bhavesh Senghani,VII,Turquoise,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1209,6799,Akshita Siddharth,VII,Turquoise,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1210,6800,Aastha Rakesh Vishwakarma,VII,Turquoise,1,1,0.02,0.0,Eva Thane,3.0,8.1
+1211,6801,Jasleen Kaur,VII,Turquoise,1,8,0.02,0.03,Eva Thane,3.0,8.1
+1212,6802,Praneha Pramod Salve,VII,Turquoise,1,5,0.02,0.02,Eva Thane,3.0,8.1
+1213,6807,,8,Jade,1,5,0.02,0.02,DWPS,2.5,8.26
+1214,6808,,8,Jade,7,8,0.14,0.03,DWPS,2.5,8.26
+1215,6809,,7,Amethyst,4,8,0.08,0.03,DWPS,2.5,8.26
+1216,6810,,7,Amethyst,2,8,0.04,0.03,DWPS,2.5,8.26
+1217,6811,,6,Turquoise,1,10,0.02,0.03,DWPS,2.5,8.26
+1218,6812,Aadhrit Dheeraj Singh,4,Peridot,2,12,0.04,0.04,Eva World School,2.5,6.52
+1219,6814,Aadhya Singh,2,Agate,1,8,0.02,0.03,Eva World School,2.5,6.52
+1220,6815,Aadish Rasesh Bhagwati,3,Garnet,2,2,0.04,0.01,Eva World School,2.5,6.52
+1221,6817,Aadvik Miglani,2,Agate,3,8,0.06,0.03,Eva World School,2.5,6.52
+1222,6818,Aadya Venkatesh Pandey,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1223,6819,Aakriti Singh,4,Peridot,1,5,0.02,0.02,Eva World School,2.5,6.52
+1224,6820,Aansh Anil Yadav,2,Ammolite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1225,6821,Aaradhya Saha,4,Albite,2,8,0.04,0.03,Eva World School,2.5,6.52
+1226,6822,Aarav Nitin Patil,4,Morgonite,2,12,0.04,0.04,Eva World School,2.5,6.52
+1227,6823,Aarav Vijay Prabhavale,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1228,6824,Aariz Danish Shaikh,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1229,6826,Aarohi Swapnil Bolinjkar,2,Agate,3,8,0.06,0.03,Eva World School,2.5,6.52
+1230,6828,Aastha Manoj Pal,4,Peridot,1,6,0.02,0.02,Eva World School,2.5,6.52
+1231,6829,Adit Mishra,3,Garnet,2,12,0.04,0.04,Eva World School,2.5,6.52
+1232,6830,Aditya Manoj Pal,3,Aquamarine,1,6,0.02,0.02,Eva World School,2.5,6.52
+1233,6831,Advait Anand,2,Zircon,4,10,0.08,0.03,Eva World School,2.5,6.52
+1234,6832,Advik Ritesh Prasad,4,Morgonite,3,10,0.06,0.03,Eva World School,2.5,6.52
+1235,6833,Advika Ashish Mhatre,2,Agate,1,4,0.02,0.01,Eva World School,2.5,6.52
+1236,6834,Alvin Bijith,2,Agate,3,8,0.06,0.03,Eva World School,2.5,6.52
+1237,6835,Ananya Gopal Das Madhukar,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1238,6836,Ananya Sachin Gaikwad,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1239,6837,Anaya Jiju,3,Aquamarine,1,4,0.02,0.01,Eva World School,2.5,6.52
+1240,6838,Animesh Abhay Sonawane,3,Alexandrite,5,12,0.1,0.04,Eva World School,2.5,6.52
+1241,6840,Anushree Harshal Kotkar,3,Alexandrite,3,10,0.06,0.03,Eva World School,2.5,6.52
+1242,6841,Anvika Raj,3,Garnet,3,3,0.06,0.01,Eva World School,2.5,6.52
+1243,6842,Anvita Vijay Thakur,3,Aquamarine,4,12,0.08,0.04,Eva World School,2.5,6.52
+1244,6843,Anya Das,2,Zircon,2,2,0.04,0.01,Eva World School,2.5,6.52
+1245,6844,Aradhya Kriti Jha,4,Peridot,1,4,0.02,0.01,Eva World School,2.5,6.52
+1246,6845,Arik Kamal Mandal,4,Albite,3,9,0.06,0.03,Eva World School,2.5,6.52
+1247,6846,Armaan Januhasan,4,Peridot,1,7,0.02,0.02,Eva World School,2.5,6.52
+1248,6847,Arnav Shivaji Ghere,4,Albite,2,5,0.04,0.02,Eva World School,2.5,6.52
+1249,6848,Arsh Imran Shaikh,4,Peridot,1,4,0.02,0.01,Eva World School,2.5,6.52
+1250,6849,Arya Tejas Kadam,4,Morgonite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1251,6851,Avika Vishwakarma,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1252,6852,Ayansh Kumar,2,Opal,1,2,0.02,0.01,Eva World School,2.5,6.52
+1253,6853,Ayush Akhilesh Tiwari,3,Garnet,4,12,0.08,0.04,Eva World School,2.5,6.52
+1254,6854,Ayush Salil Patil,3,Aquamarine,1,3,0.02,0.01,Eva World School,2.5,6.52
+1255,6855,Azeemjot Kaur,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1256,6857,Bhoomika Basudeb Saha,2,Ammolite,3,7,0.06,0.02,Eva World School,2.5,6.52
+1257,6858,Chaitanya Ganjoo,3,Garnet,3,12,0.06,0.04,Eva World School,2.5,6.52
+1258,6859,Chaitanya Kishor Patil,3,Garnet,1,3,0.02,0.01,Eva World School,2.5,6.52
+1259,6860,Chaitanya Temre,3,Aquamarine,1,4,0.02,0.01,Eva World School,2.5,6.52
+1260,6861,Darshit Sakshi Gopal Saha,3,Alexandrite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1261,6863,Debojyoti Ghosh,4,Morgonite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1262,6864,Delzin Nawzer Patch,3,Aquamarine,1,8,0.02,0.03,Eva World School,2.5,6.52
+1263,6865,Devansh Mahadev Pawar,2,Agate,1,8,0.02,0.03,Eva World School,2.5,6.52
+1264,6866,Devansh Naresh Bhoir,2,Agate,2,3,0.04,0.01,Eva World School,2.5,6.52
+1265,6867,Devansh Vikas Singh,4,Albite,2,8,0.04,0.03,Eva World School,2.5,6.52
+1266,6869,Dhikshith Sidhu,4,Peridot,2,6,0.04,0.02,Eva World School,2.5,6.52
+1267,6870,Dhruv Vivek Ambekar,3,Alexandrite,3,11,0.06,0.04,Eva World School,2.5,6.52
+1268,6871,Divyansha Kiran Mhatre,3,Rubelite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1269,6872,Divyanshu Kumar .,2,Opal,4,6,0.08,0.02,Eva World School,2.5,6.52
+1270,6873,Drithi Rajkishor Katharia,2,Agate,1,7,0.02,0.02,Eva World School,2.5,6.52
+1271,6874,Dron Gajanan Patil,3,Rubelite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1272,6875,Durva Devanand Bhandari,3,Garnet,1,3,0.02,0.01,Eva World School,2.5,6.52
+1273,6876,Eisa Habib Shaikh,4,Morgonite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1274,6877,Eklovaya Kumar,3,Aquamarine,2,7,0.04,0.02,Eva World School,2.5,6.52
+1275,6878,Eliana Pereira,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1276,6879,Elias Gracias,3,Aquamarine,3,5,0.06,0.02,Eva World School,2.5,6.52
+1277,6880,G. Naksh Ohri,2,Opal,2,7,0.04,0.02,Eva World School,2.5,6.52
+1278,6881,Garvee Vinay Kamble,3,Garnet,1,7,0.02,0.02,Eva World School,2.5,6.52
+1279,6882,Gaurvi Vikas Pareek,3,Alexandrite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1280,6883,Harish Ram .,2,Zircon,4,10,0.08,0.03,Eva World School,2.5,6.52
+1281,6884,Harshita Jitendera Bapna,3,Alexandrite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1282,6885,Harshitha Chowdary Kakarla,4,Peridot,1,2,0.02,0.01,Eva World School,2.5,6.52
+1283,6886,Heer Manish Darji,3,Garnet,3,8,0.06,0.03,Eva World School,2.5,6.52
+1284,6887,Hitanshi Panil Jain,3,Aquamarine,3,3,0.06,0.01,Eva World School,2.5,6.52
+1285,6888,Hridank Kunal Thakker,3,Alexandrite,3,12,0.06,0.04,Eva World School,2.5,6.52
+1286,6889,Hridhaan Sanjog Adkar,2,Ammolite,2,11,0.04,0.04,Eva World School,2.5,6.52
+1287,6890,Jaksh Dadhich,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1288,6891,Jasmine Kamra,4,Morgonite,3,5,0.06,0.02,Eva World School,2.5,6.52
+1289,6893,Jiya Sumit Gupta,3,Aquamarine,1,5,0.02,0.02,Eva World School,2.5,6.52
+1290,6894,Joshua Ritesh Kedari,4,Albite,2,5,0.04,0.02,Eva World School,2.5,6.52
+1291,6896,Kaivalya Ravindra Kalan,4,Peridot,1,4,0.02,0.01,Eva World School,2.5,6.52
+1292,6897,Kavish Arora,4,Morgonite,9,12,0.18,0.04,Eva World School,2.5,6.52
+1293,6898,Kavish Samanwit Gour,3,Garnet,2,12,0.04,0.04,Eva World School,2.5,6.52
+1294,6899,Kavya Lilesh Nikam,4,Albite,3,12,0.06,0.04,Eva World School,2.5,6.52
+1295,6900,Kavya Nilesh Kalan,3,Alexandrite,1,5,0.02,0.02,Eva World School,2.5,6.52
+1296,6901,Kian Dutta Pramanik,4,Albite,5,12,0.1,0.04,Eva World School,2.5,6.52
+1297,6902,Kundana Paidisetty,4,Peridot,1,8,0.02,0.03,Eva World School,2.5,6.52
+1298,6903,Laksh Suraj Singh,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+1299,6904,Lavanya Singh,3,Garnet,2,3,0.04,0.01,Eva World School,2.5,6.52
+1300,6905,Makakmayum Mansoor Ahmed,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1301,6906,Maniram Mallapurapu,3,Aquamarine,1,3,0.02,0.01,Eva World School,2.5,6.52
+1302,6907,Martand Tiwari,4,Peridot,1,2,0.02,0.01,Eva World School,2.5,6.52
+1303,6908,Mauli Pradip Salunkhe,2,Opal,1,5,0.02,0.02,Eva World School,2.5,6.52
+1304,6910,Mayanshi Mayank Dubey,3,Aquamarine,1,6,0.02,0.02,Eva World School,2.5,6.52
+1305,6911,Meet Ashok Patil,4,Morgonite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1306,6912,Mesha Harshadkumar Patel,4,Albite,3,8,0.06,0.03,Eva World School,2.5,6.52
+1307,6913,Mirah G,3,Alexandrite,2,5,0.04,0.02,Eva World School,2.5,6.52
+1308,6914,Mit Gopal Patil,3,Alexandrite,3,6,0.06,0.02,Eva World School,2.5,6.52
+1309,6915,Mohammad Ahmed Shaikh,3,Garnet,2,10,0.04,0.03,Eva World School,2.5,6.52
+1310,6916,Mohd Asad Nazim Shaikh,3,Aquamarine,2,4,0.04,0.01,Eva World School,2.5,6.52
+1311,6917,Naisha Someshwarnath Pandey,4,Peridot,2,3,0.04,0.01,Eva World School,2.5,6.52
+1312,6919,Naksh Jayprakash Sharma,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1313,6920,Navya Gupta,3,Garnet,5,12,0.1,0.04,Eva World School,2.5,6.52
+1314,6921,Navya Sahu,3,Alexandrite,1,5,0.02,0.02,Eva World School,2.5,6.52
+1315,6922,Neel Mitesh Katira,4,Albite,4,9,0.08,0.03,Eva World School,2.5,6.52
+1316,6924,Nida Fatima Shaikh,3,Aquamarine,2,4,0.04,0.01,Eva World School,2.5,6.52
+1317,6925,Niharika Bhattacharjee,3,Garnet,4,8,0.08,0.03,Eva World School,2.5,6.52
+1318,6926,Nirat Gaurav Kakkar,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1319,6927,Nivaan Laxman Sharma,2,Zircon,3,8,0.06,0.03,Eva World School,2.5,6.52
+1320,6928,Om Ravi Jujaray,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1321,6929,Ovi Deepak Takalkar,3,Aquamarine,2,7,0.04,0.02,Eva World School,2.5,6.52
+1322,6930,Ovi Shirish Hanchate,3,Alexandrite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1323,6931,Ovi Swanand Burange,3,Garnet,1,3,0.02,0.01,Eva World School,2.5,6.52
+1324,6933,Parineedhi Vikas Rajguru,3,Rubelite,2,4,0.04,0.01,Eva World School,2.5,6.52
+1325,6934,Parineeta Pramod Mali,4,Morgonite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1326,6936,Prabhas Piraji Thorat,4,Albite,1,9,0.02,0.03,Eva World School,2.5,6.52
+1327,6937,Praneeta Pradeep Yadav,4,Albite,2,4,0.04,0.01,Eva World School,2.5,6.52
+1328,6938,Pratham Paras Khatri,3,Garnet,1,3,0.02,0.01,Eva World School,2.5,6.52
+1329,6939,Prathamesh Babasaheb Dabhade,3,Aquamarine,1,7,0.02,0.02,Eva World School,2.5,6.52
+1330,6941,Priyansh Kataria,3,Alexandrite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1331,6942,Purvi Vishwanath Kalan,4,Morgonite,1,5,0.02,0.02,Eva World School,2.5,6.52
+1332,6943,R Sai Sabareesh .,2,Opal,1,3,0.02,0.01,Eva World School,2.5,6.52
+1333,6944,Rann Vijay Singh Baghel,4,Peridot,2,8,0.04,0.03,Eva World School,2.5,6.52
+1334,6945,Raunak Deepak Tiwari,4,Morgonite,6,12,0.12,0.04,Eva World School,2.5,6.52
+1335,6946,Riaan Raju Wakchaure,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1336,6948,Ritsikha Baliarsingh,3,Rubelite,1,7,0.02,0.02,Eva World School,2.5,6.52
+1337,6951,Ruhi Hardik Mehta,3,Aquamarine,1,5,0.02,0.02,Eva World School,2.5,6.52
+1338,6952,Ruthvik Chowdary Kakarla,2,Opal,3,8,0.06,0.03,Eva World School,2.5,6.52
+1339,6954,Saanvi Ramkrishna Boga,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1340,6955,Saksham Singh,3,Alexandrite,3,10,0.06,0.03,Eva World School,2.5,6.52
+1341,6956,Samarth Dhananjay Bhatade,3,Aquamarine,2,4,0.04,0.01,Eva World School,2.5,6.52
+1342,6957,Samarth Ishwer Bandil,3,Alexandrite,4,12,0.08,0.04,Eva World School,2.5,6.52
+1343,6958,Samyak Raghunath Shinde,4,Peridot,1,3,0.02,0.01,Eva World School,2.5,6.52
+1344,6959,Sarah G,3,Rubelite,4,10,0.08,0.03,Eva World School,2.5,6.52
+1345,6960,Sashana Sachin Kapgate,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1346,6961,Satvik Raj,4,Morgonite,2,9,0.04,0.03,Eva World School,2.5,6.52
+1347,6962,Savan Wasant Rathod,4,Albite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1348,6963,Shanaya Ajay Pradhan,2,Zircon,2,8,0.04,0.03,Eva World School,2.5,6.52
+1349,6964,Sharvari Shrikrishna Sonkavade,4,Peridot,1,7,0.02,0.02,Eva World School,2.5,6.52
+1350,6965,Shivaan Sanjay Pradhan,2,Ammolite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1351,6967,Shoray Walia,4,Morgonite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1352,6968,Shourya Kumar Tiwary,4,Albite,2,4,0.04,0.01,Eva World School,2.5,6.52
+1353,6969,Shreesh Suresh Sanap,4,Morgonite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1354,6970,Shreyash Yadav,4,Albite,1,5,0.02,0.02,Eva World School,2.5,6.52
+1355,6971,Shrisha Prashant Jadhav,2,Opal,3,4,0.06,0.01,Eva World School,2.5,6.52
+1356,6973,Siddharth Shandilya,3,Rubelite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1357,6974,Siya Singh,2,Ammolite,2,7,0.04,0.02,Eva World School,2.5,6.52
+1358,6975,Swadha Harshad Bhokarikar,4,Albite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1359,6976,Swara Parag Kshirsagar,3,Rubelite,2,4,0.04,0.01,Eva World School,2.5,6.52
+1360,6977,Swaraj Vijay Jondhale,3,Aquamarine,1,6,0.02,0.02,Eva World School,2.5,6.52
+1361,6978,Swatej Gajanan Jadhav,2,Ammolite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1362,6979,Tanisi Basak,2,Ammolite,2,7,0.04,0.02,Eva World School,2.5,6.52
+1363,6981,Tuneer Akshay Pagolu,3,Aquamarine,2,4,0.04,0.01,Eva World School,2.5,6.52
+1364,6982,Urvija Vijayendra Patel,3,Alexandrite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1365,6984,Vanessa Sidney Dsa,2,Agate,2,5,0.04,0.02,Eva World School,2.5,6.52
+1366,6985,Vansh Agrawal,3,Alexandrite,5,12,0.1,0.04,Eva World School,2.5,6.52
+1367,6987,Vedant Devidas Patil,4,Morgonite,1,9,0.02,0.03,Eva World School,2.5,6.52
+1368,6988,Vedant Jayesh Gaikwad,3,Rubelite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1369,6990,Vedika Amit Ladkat,4,Albite,4,12,0.08,0.04,Eva World School,2.5,6.52
+1370,6992,Vihaan Sadige,3,Rubelite,2,4,0.04,0.01,Eva World School,2.5,6.52
+1371,6993,Vihaan Prasad Metkar,4,Albite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1372,6994,Vihaan Suraj Sharma,3,Rubelite,1,7,0.02,0.02,Eva World School,2.5,6.52
+1373,6995,Vihaan Vinayak Gorule,4,Albite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1374,6996,Vihan Prashant Jadhav,3,Rubelite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1375,6997,Vihan Tamrakar,3,Rubelite,3,4,0.06,0.01,Eva World School,2.5,6.52
+1376,6998,Vikrant Vivekanand Bhat,2,Zircon,4,8,0.08,0.03,Eva World School,2.5,6.52
+1377,7001,Vriddhi Shailendra Awale,3,Rubelite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1378,7002,Vrinda Ajay Awasthee,2,Ammolite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1379,7003,Yash Jaydas Mhatre,3,Rubelite,2,7,0.04,0.02,Eva World School,2.5,6.52
+1380,7004,Yashika Suryakant Dubey,4,Albite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1381,7005,Yashita Dubey,3,Rubelite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1382,7006,Yatharth Gupta,4,Peridot,3,4,0.06,0.01,Eva World School,2.5,6.52
+1383,7008,Yatharth Ravindra Mhatre,3,Rubelite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1384,7009,Yugansh Utkarsh Tawade,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1385,7010,Zain Khan,4,Albite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1386,7011,Zoya Arif Shaikh,3,Alexandrite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1387,7013,Aanya Satish Sharma,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+1388,7014,Adhya Adhyansha,5,Adamite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1389,7015,Adwiti Sanjay Banait,7,Lazulite,2,6,0.04,0.02,Eva World School,2.5,6.52
+1390,7016,Aisha Mohammad Akmal Siddiqui,5,Onyx,5,12,0.1,0.04,Eva World School,2.5,6.52
+1391,7017,Aaditya Laxman Rapolu,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1392,7018,Aarohi Pankaj Sonawane,3,Garnet,2,8,0.04,0.03,SKS,2.5,7.74
+1393,7019,Aarush Ramdas Khilari,3,Garnet,2,5,0.04,0.02,SKS,2.5,7.74
+1394,7020,Aayudh Pratyakshkumar Patel,3,Garnet,1,8,0.02,0.03,SKS,2.5,7.74
+1395,7021,Aayush Kailashchandra,3,Garnet,2,10,0.04,0.03,SKS,2.5,7.74
+1396,7022,Adhrit Singh Kuldeep Rawat,3,Garnet,2,8,0.04,0.03,SKS,2.5,7.74
+1397,7023,Aditi Ravindra Patel,3,Garnet,1,7,0.02,0.02,SKS,2.5,7.74
+1398,7024,Advaith Sajan Nair,3,Garnet,1,6,0.02,0.02,SKS,2.5,7.74
+1399,7026,Ananya Chandramouli Rapolu,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1400,7027,Ananya Singh Hada,3,Garnet,1,3,0.02,0.01,SKS,2.5,7.74
+1401,7031,Arush Atul Wagde,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+1402,7032,Atharv Amit Chaubey,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1403,7033,Avani Ashish Panchal,4,Peridot,1,7,0.02,0.02,SKS,2.5,7.74
+1404,7034,Azaan Akbar Sayed,3,Garnet,2,6,0.04,0.02,SKS,2.5,7.74
+1405,7036,Dev Kumar Dinesh Sahoo,2,Opal,1,6,0.02,0.02,SKS,2.5,7.74
+1406,7037,Devansh Rahul Patil,2,Opal,3,8,0.06,0.03,SKS,2.5,7.74
+1407,7038,Dhruv Kaushal Shukla,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1408,7039,Divya Bhupal Singh Jatola,3,Garnet,4,8,0.08,0.03,SKS,2.5,7.74
+1409,7040,Evanshi Hareish Thappa,3,Garnet,1,6,0.02,0.02,SKS,2.5,7.74
+1410,7041,Glancy Tikaram Singh,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1411,7044,Hetika Rakesh Kumar,4,Peridot,2,10,0.04,0.03,SKS,2.5,7.74
+1412,7045,Hrithika Satish Bijapur,3,Garnet,2,8,0.04,0.03,SKS,2.5,7.74
+1413,7046,Ishaan Swapnesh Mhatre,3,Garnet,2,3,0.04,0.01,SKS,2.5,7.74
+1414,7047,Ivanka Poras Bhogle,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1415,7049,Krutika Uttam Rajpandit,3,Garnet,1,4,0.02,0.01,SKS,2.5,7.74
+1416,7051,Mahi Vasant Bhanushali,3,Garnet,1,8,0.02,0.03,SKS,2.5,7.74
+1417,7052,Manas Mahendra Dubey,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1418,7053,Mayra Rishi Assudani,4,Peridot,2,10,0.04,0.03,SKS,2.5,7.74
+1419,7054,Mohammad Ameen Abdul Samad Durrani,3,Garnet,1,8,0.02,0.03,SKS,2.5,7.74
+1420,7055,Moksh Ketan Bhanushali,3,Garnet,1,4,0.02,0.01,SKS,2.5,7.74
+1421,7057,Naman Bharat Patel,4,Peridot,2,10,0.04,0.03,SKS,2.5,7.74
+1422,7058,Navya Neeraj Mishra,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1423,7059,Nirmayee Jayram Dawkhar,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1424,7060,Nittya Nilesh Babar,3,Garnet,2,5,0.04,0.02,SKS,2.5,7.74
+1425,7064,Raj Swamirao Chendake,3,Garnet,2,4,0.04,0.01,SKS,2.5,7.74
+1426,7065,Reyansh Pavan Gupta,3,Garnet,2,5,0.04,0.02,SKS,2.5,7.74
+1427,7066,Rishikesh Ravish Ranjan,4,Peridot,2,6,0.04,0.02,SKS,2.5,7.74
+1428,7067,Rithvik Rajesh Arakal,4,Peridot,2,10,0.04,0.03,SKS,2.5,7.74
+1429,7068,Ruchi Vinod Gambhirrao,3,Garnet,1,1,0.02,0.0,SKS,2.5,7.74
+1430,7069,Rudra Gaurav Panchal,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1431,7070,Rudransh Sandeep Gore,3,Garnet,3,4,0.06,0.01,SKS,2.5,7.74
+1432,7071,Rudrika Kumar,4,Peridot,2,8,0.04,0.03,SKS,2.5,7.74
+1433,7072,Rushil Bhagirath Chaudhari,3,Garnet,3,10,0.06,0.03,SKS,2.5,7.74
+1434,7073,S. Ashmita .,4,Peridot,1,5,0.02,0.02,SKS,2.5,7.74
+1435,7074,Saanvi Sagar Bhendawade,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1436,7075,Sahishnu Sandip Dagde,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1437,7076,Sajith Ratheesh Kutty,3,Garnet,1,7,0.02,0.02,SKS,2.5,7.74
+1438,7077,Samudra Pratap Singh,3,Garnet,3,12,0.06,0.04,SKS,2.5,7.74
+1439,7078,Sanskriti Deepak Sharma,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1440,7079,Sanvitha Manje Gowda,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1441,7080,Sarthak Surajit Das,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1442,7081,Sarvadnya Genu Thange,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1443,7082,Savith Ratheesh Kutty,3,Garnet,2,4,0.04,0.01,SKS,2.5,7.74
+1444,7083,Shanay Ratnesh Pandey,3,Garnet,2,7,0.04,0.02,SKS,2.5,7.74
+1445,7084,Shiann Shirish Prabhu,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+1446,7086,Shivanya Arun Gorule,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+1447,7087,Shreti Patidar,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1448,7088,Smeetansh Mohanji Rauniyar,3,Garnet,2,6,0.04,0.02,SKS,2.5,7.74
+1449,7089,Sparsh Ganesh Nagapure,3,Garnet,1,7,0.02,0.02,SKS,2.5,7.74
+1450,7090,Spruha Nilesh Parulekar,2,Opal,1,8,0.02,0.03,SKS,2.5,7.74
+1451,7091,Tanishka Tikaram Singh,4,Peridot,1,7,0.02,0.02,SKS,2.5,7.74
+1452,7092,Tiara Nilesh Naidu,3,Garnet,2,3,0.04,0.01,SKS,2.5,7.74
+1453,7093,Uday Vijay Varghade,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1454,7094,Vamshita Ragesh Gowda,4,Peridot,3,12,0.06,0.04,SKS,2.5,7.74
+1455,7095,Varnit Harendra Pal,2,Opal,2,8,0.04,0.03,SKS,2.5,7.74
+1456,7096,Vrishti Sameer Sachde,4,Peridot,1,4,0.02,0.01,SKS,2.5,7.74
+1457,7097,Afnan Akbar Sayed,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+1458,7099,Naisha Suresh Devadiga,7,Amethyst,5,9,0.1,0.03,SKS,2.5,7.74
+1459,7100,Saisaanvi Nalinikanta Singh,5,Onyx,3,12,0.06,0.04,SKS,2.5,7.74
+1460,7101,Zoya Samir Nadgaonkar,6,Turquoise,2,10,0.04,0.03,SKS,2.5,7.74
+1461,7102,Aadya Shukla,5,Onyx,2,10,0.04,0.03,SKS,2.5,7.74
+1462,7103,Piyush Ranjan Bhuyan,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+1463,7104,Rajveer Vikrant Salunkhe,5,Onyx,7,12,0.14,0.04,SKS,2.5,7.74
+1464,7105,Shivam Rohit Madeka,8,Titanite,2,8,0.04,0.03,SKS,2.5,7.74
+1465,7106,Vansh Govind Bhanushali,8,Titanite,11,12,0.22,0.04,SKS,2.5,7.74
+1466,7107,Vishva Vijay Raut,5,Onyx,3,12,0.06,0.04,SKS,2.5,7.74
+1467,7108,Siddhi Shinu Nair,7,Amethyst,1,2,0.02,0.01,SKS,2.5,7.74
+1468,7109,Aarav Ashish Mondal,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+1469,7111,Yesha Sandeep Lohar,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+1470,7112,Maham Samad Durrani,1,Rhodonite,1,7,0.02,0.02,SKS,2.5,7.74
+1471,7113,Sumedha Manojkumar Yadav,1,Rhodonite,1,8,0.02,0.03,SKS,2.5,7.74
+1472,7114,Shourya Pratap Gupta,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+1473,7115,Krushna Ranjeet Sahu,1,Rhodonite,1,1,0.02,0.0,SKS,2.5,7.74
+1474,7116,Mahira Hemant Gharat,1,Rhodonite,1,4,0.02,0.01,SKS,2.5,7.74
+1475,7117,Mariyam Mehbub Shaikh,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+1476,7118,Reyansh Aniket Saini,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+1477,7119,Aayush Santosh Kumar,1,Rhodonite,1,2,0.02,0.01,SKS,2.5,7.74
+1478,7120,Spruha Rahul Wankhade,1,Rhodonite,2,7,0.04,0.02,SKS,2.5,7.74
+1479,7121,Anika Kannan Nambiyar,1,Rhodonite,1,5,0.02,0.02,SKS,2.5,7.74
+1480,7123,Rishabh Arun Tanawade,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+1481,7124,Elin Shaiban,1,Rhodonite,2,7,0.04,0.02,SKS,2.5,7.74
+1482,7125,Anshumaan Pandey,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+1483,7128,Vihan Rupesh Patil,1,Rhodonite,2,8,0.04,0.03,SKS,2.5,7.74
+1484,7132,Aaradhya Manoj Devasi,1,Sapphire,1,8,0.02,0.03,SKS,2.5,7.74
+1485,7134,Chirag Lokesh Gowda,1,Sapphire,4,8,0.08,0.03,SKS,2.5,7.74
+1486,7136,Reyansh Vikas Pandey,1,Sapphire,1,8,0.02,0.03,SKS,2.5,7.74
+1487,7137,Sarthak Subhash Sharma,1,Sapphire,1,4,0.02,0.01,SKS,2.5,7.74
+1488,7138,Viha Dileepkumar Kagawade,1,Sapphire,2,8,0.04,0.03,SKS,2.5,7.74
+1489,7139,Akruthi Arunkumar,1,Sapphire,2,6,0.04,0.02,SKS,2.5,7.74
+1490,7141,Kaashvi Dhaval Shah,1,Sapphire,1,3,0.02,0.01,SKS,2.5,7.74
+1491,7142,Krishika Sachin Ajagekar,1,Sapphire,2,8,0.04,0.03,SKS,2.5,7.74
+1492,7143,Gauri Uday Desai,1,Sapphire,2,8,0.04,0.03,SKS,2.5,7.74
+1493,7145,Aastha Deepak Devasi,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1494,7146,Annika Ajay Varma,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1495,7147,Navita Sangeetkumar Panda,1,Quartz,1,4,0.02,0.01,SKS,2.5,7.74
+1496,7148,Vihaan Sanjay Devasi,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1497,7149,Yamini Sanjay Hale,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1498,7150,Manisha Lehraram Purohit,1,Quartz,1,4,0.02,0.01,SKS,2.5,7.74
+1499,7152,Priyansh Tejas Shirodkar,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1500,7153,Akshara Singh,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1501,7154,Shivnya Kumari,2,Agate,2,8,0.04,0.03,Eva World School,2.5,6.52
+1502,7156,Krishaav  Vikesh  Kiri,2,Opal,1,6,0.02,0.02,Eva World School,2.5,6.52
+1503,7158,Sohit  Ram  Seelam,2,Opal,2,8,0.04,0.03,Eva World School,2.5,6.52
+1504,7159,Aayush Ashok Parjane,2,Zircon,1,3,0.02,0.01,Eva World School,2.5,6.52
+1505,7160,Harshith Patel,5,Onyx,2,3,0.04,0.01,Eva World School,2.5,6.52
+1506,7161,Ekansh Yadav,5,Onyx,5,12,0.1,0.04,Eva World School,2.5,6.52
+1507,7163,Varij Choudhary,5,Onyx,2,10,0.04,0.03,Eva World School,2.5,6.52
+1508,7164,Moazzam Shaikh,6,Argonite,1,6,0.02,0.02,Eva World School,2.5,6.52
+1509,7165,Arnav Rajput,6,Argonite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1510,7166,Batul Husaini,6,Argonite,2,5,0.04,0.02,Eva World School,2.5,6.52
+1511,7167,Saadvi Kota,6,Argonite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1512,7172,Krish Yadav,4,Albite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1513,7173,Avishi Sharma,4,Albite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1514,7174,Hansika Bhoir,4,Albite,2,6,0.04,0.02,Eva World School,2.5,6.52
+1515,7175,Advait Dhananjay Awate,4,Morgonite,3,10,0.06,0.03,Eva World School,2.5,6.52
+1516,7176,Anam Yadav,4,Morgonite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1517,7177,Adhyan Nilesh Gorkha,4,Morgonite,1,4,0.02,0.01,Eva World School,2.5,6.52
+1518,7178,Ayush Bhoir,3,Garnet,1,7,0.02,0.02,Eva World School,2.5,6.52
+1519,7179,Parikshit Chauhan,3,Garnet,1,5,0.02,0.02,Eva World School,2.5,6.52
+1520,7180,Arya Umesh Jadhav,6,Turquoise,1,1,0.02,0.0,Eva World School,2.5,6.52
+1521,7184,Safwan Jamal Akhtar Khan,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1522,7185,Shubham Shivpujan Dubey,1,Quartz,2,7,0.04,0.02,SKS,2.5,7.74
+1523,7186,Veyona Kamlesh Dhole,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1524,7187,Grishma Umesh Janwalkar,1,Quartz,1,3,0.02,0.01,SKS,2.5,7.74
+1525,7188,Rajvansh Kumar Gole,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1526,7189,Akshita Limbraj More,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1527,7190,Rifza Naufil Alangar,1,Quartz,1,4,0.02,0.01,SKS,2.5,7.74
+1528,7191,Priyansh Murji Dama,1,Quartz,2,4,0.04,0.01,SKS,2.5,7.74
+1529,7192,Anjaneya Lohani,2,Zircon,2,8,0.04,0.03,SKS,2.5,7.74
+1530,7193,Asma Asif Khan,2,Zircon,2,8,0.04,0.03,SKS,2.5,7.74
+1531,7194,Rudra Santosh Kumar,2,Zircon,2,8,0.04,0.03,SKS,2.5,7.74
+1532,7195,Arav Nitin Vispute,3,Garnet,2,10,0.04,0.03,SKS,2.5,7.74
+1533,7196,Arnod Chetankumar Dhadke,3,Garnet,1,3,0.02,0.01,SKS,2.5,7.74
+1534,7197,Kayna Jayesh Parmar,3,Garnet,1,3,0.02,0.01,SKS,2.5,7.74
+1535,7198,Sudhanshu Abhinendra Mishra,3,Garnet,2,10,0.04,0.03,SKS,2.5,7.74
+1536,7199,Pruthviraj Padmakar Suryavanshi,3,Garnet,2,7,0.04,0.02,SKS,2.5,7.74
+1537,7200,Sambridhi Mishra,3,Garnet,1,3,0.02,0.01,SKS,2.5,7.74
+1538,7202,Priyanshi Bhanushali,3,Aquamarine,1,1,0.02,0.0,SKS,2.5,7.74
+1539,7204,Akshat Satish Pandey,4,Morganite,6,12,0.12,0.04,SKS,2.5,7.74
+1540,7205,Trishant Satish Pandey,4,Morganite,1,5,0.02,0.02,SKS,2.5,7.74
+1541,7206,Yuvraj Pravin Dixit,4,Morganite,2,12,0.04,0.04,SKS,2.5,7.74
+1542,7207,Shivansh Kailas Gumare,4,Morganite,2,9,0.04,0.03,SKS,2.5,7.74
+1543,7208,Mahi Nitin Lanke,4,Morganite,2,7,0.04,0.02,SKS,2.5,7.74
+1544,7209,Kavya Pradeep Mishra,4,Morganite,5,12,0.1,0.04,SKS,2.5,7.74
+1545,7210,Bhavya Bipin Bhanushali,4,Morganite,1,8,0.02,0.03,SKS,2.5,7.74
+1546,7212,Shaurya Sanjay Jadhav,5,Onyx ,4,12,0.08,0.04,SKS,2.5,7.74
+1547,7213,Dipunj Digvijay Sengar,5,Turquoise,6,12,0.12,0.04,SKS,2.5,7.74
+1548,7214,Priyansh Jay Singh,6,Turquoise,3,11,0.06,0.04,SKS,2.5,7.74
+1549,7215,Rohan Shekhar Sinde,7,Amethyst,4,9,0.08,0.03,SKS,2.5,7.74
+1550,7216,Ahana Vikrant Kamble,7,Amethyst,1,5,0.02,0.02,SKS,2.5,7.74
+1551,7217,Ishika Arpit Tiwari,7,Amethyst,4,9,0.08,0.03,SKS,2.5,7.74
+1552,7218,Soham Shekhar Sinde,7,Amethyst,3,9,0.06,0.03,SKS,2.5,7.74
+1553,7219,Shivansh Vikas Mishra,7,Amethyst,6,9,0.12,0.03,SKS,2.5,7.74
+1554,7220,Raj Nagendra Singh,8,Titanite,9,12,0.18,0.04,SKS,2.5,7.74
+1555,7222,Arnav Chetankumar Dhadke,3,Aquamarine,2,4,0.04,0.01,SKS,2.5,7.74
+1556,7223,Aryan Chouhan,3,Aquamarine,2,2,0.04,0.01,SKS,2.5,7.74
+1557,7224,Devansh Dhatunde,3,Aquamarine,2,9,0.04,0.03,SKS,2.5,7.74
+1558,7226,Adrika  Gaurav Pandey,5,Onyx,1,3,0.02,0.01,SKS,2.5,7.74
+1559,7227,Atharv Vikas Tandur,6,Turquoise,7,12,0.14,0.04,SKS,2.5,7.74
+1560,7228,Fatima Mohamed Sameer Malim,7,Amethyst,2,8,0.04,0.03,DWPS,2.5,8.26
+1561,7232,Mishka Tripathi,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+1562,7233,Swara Shinde,1,Rhodonite,1,4,0.02,0.01,IRA,2.3,7.34
+1563,7234,Ronav Patil,1,Rhodonite,2,8,0.04,0.03,IRA,2.3,7.34
+1564,7235,Swara Patil,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+1565,7236,Daivik Vishwakarma,1,Quartz,2,8,0.04,0.03,IRA,2.3,7.34
+1566,7237,Vyom Patil,1,Quartz,2,5,0.04,0.02,IRA,2.3,7.34
+1567,7238,Swara Kalan,1,Citrine,2,4,0.04,0.01,IRA,2.3,7.34
+1568,7239,Arya Kank,1,Citrine,2,6,0.04,0.02,IRA,2.3,7.34
+1569,7240,Rudra Mandora,1,Citrine,2,8,0.04,0.03,IRA,2.3,7.34
+1570,7241,Reyansh Kadam,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+1571,7242,Raghvendra Singh,2,Agate,2,8,0.04,0.03,IRA,2.3,7.34
+1572,7243,Deepika Kumawat,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+1573,7244,Kapil Jadhav,2,Opal,2,8,0.04,0.03,IRA,2.3,7.34
+1574,7245,Sudiksha Reddy,3,Alexandrite,2,3,0.04,0.01,IRA,2.3,7.34
+1575,7246,Harshali Shendre,3,Alexandrite,2,7,0.04,0.02,IRA,2.3,7.34
+1576,7247,Shravani Patil,3,Alexandrite,2,7,0.04,0.02,IRA,2.3,7.34
+1577,7248,Pritam Kundagol,3,Alexandrite,3,6,0.06,0.02,IRA,2.3,7.34
+1578,7249,Sharanya Sonawane,4,Albite,2,2,0.04,0.01,IRA,2.3,7.34
+1579,7250,Anika Madgate,4,Morganite,2,9,0.04,0.03,IRA,2.3,7.34
+1580,7251,Abhiyansh Tiwari,4,Morganite,3,9,0.06,0.03,IRA,2.3,7.34
+1581,7252,Khushi Hadawale,4,Morganite,3,10,0.06,0.03,IRA,2.3,7.34
+1582,7253,Sanskar Kalan,4,Morganite,1,3,0.02,0.01,IRA,2.3,7.34
+1583,7254,Lakshmi Sirraparapu,4,Morganite,2,4,0.04,0.01,IRA,2.3,7.34
+1584,7256,Shlok Kishor Thombre,4,Albite,3,5,0.06,0.02,IRA,2.3,7.34
+1585,7257,Test Dwps,7,,6,7,0.12,0.02,DWPS,2.5,8.26
+1586,7260,Shivkanya Sable,8,Amethyst,2,2,0.04,0.01,DWPS,2.5,8.26
+1587,7261,Shrusti Santosh Patthe,2,Zircon,1,8,0.02,0.03,DWPS,2.5,8.26
+1588,7262,Divyansh Muthe,1,Quartz,3,8,0.06,0.03,DWPS,2.5,8.26
+1589,7492,Aarav Goyal,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1590,7493,Aarna Singh Chauhan,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1591,7494,Aditya Jaiswal,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1592,7495,Anshieka Bhati,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1593,7496,Apoorva Kumar Jha,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1594,7497,Atharva Lovewanshi,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1595,7498,Chetas Jain,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1596,7499,Dakshina Singh Chouhan,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1597,7500,Dhavi Vishwakarma,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1598,7501,Divyam Sharma,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1599,7502,Divyansh Patel,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1600,7503,Nimisha Choudhary,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1601,7504,Riona Jain,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1602,7505,Shivam Singh Suner,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1603,7506,Siya Verma,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1604,7507,Swashini Chaturvedi,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1605,7508,Tej Agrawal,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1606,7509,Vanshika Gopinathan,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1607,7510,Vedic Jaiswal,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1608,7511,Vijeta Gupta,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1609,7512,Yuvan Kumawat,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1610,7513,Aadhya Jaiswal,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1611,7514,Aditya Mishra,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1612,7515,Akshita Malviya,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1613,7516,Aniket Singh Suner,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1614,7517,Anubhav Patel,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1615,7518,Aradhya Singh Suner,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1616,7519,Arvi Patidar,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1617,7520,Atharv Mishra,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1618,7521,Dhananjay Singh Bhadauria,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1619,7522,Kratika Prajapat,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1620,7523,Pahal Patel,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1621,7524,Paridhi Pawar,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1622,7525,Pranay Pandey,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1623,7526,Pranika Richhariya,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1624,7527,Sakshi Upadhyay,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1625,7528,Sarvika Pawar,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1626,7529,Shailja Joshi,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1627,7530,Tanvi Agrawal,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1628,7531,Theia Dwivedi,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1629,7532,Vansh Kumar Acharya,1,Zircon,1,8,0.02,0.03,Eva Indore,3.2,9.78
+1630,7533,Yug Rasal,1,Zircon,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1631,7534,Advait Goyal,2,Opal,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1632,7535,Advik Kushwah,2,Opal,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1633,7536,Advika Goyal,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1634,7537,Akshita Parmar,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1635,7538,Atharva Singh Panwar,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1636,7539,Daksh Raj Solanki,2,Opal,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1637,7540,Janmejay Malviya,2,Opal,4,8,0.08,0.03,Eva Indore,3.2,9.78
+1638,7541,Jayditya Singh Sengar,2,Opal,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1639,7542,Myra Swarnim Choudhary,2,Opal,4,8,0.08,0.03,Eva Indore,3.2,9.78
+1640,7543,Navya Shrivastava,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1641,7544,Nilaksh Dhebane,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1642,7545,Rajveer Jha,2,Opal,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1643,7546,Vedvidit Kumar Mahour,2,Opal,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1644,7547,Viraj Singh,2,Opal,4,9,0.08,0.03,Eva Indore,3.2,9.78
+1645,7548,Lokita Jain,2,Opal,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1646,7549,Pavitra Nema,2,Opal,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1647,7550,Ansh Suryawanshi,2,Jade,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1648,7551,Atharva Dubey,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1649,7552,Ayat Alam,2,Jade,3,9,0.06,0.03,Eva Indore,3.2,9.78
+1650,7553,Daksh Behera,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1651,7554,Jyotik Jain,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1652,7555,Kavya Mahoday,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1653,7556,Navin Kumawat,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1654,7557,Nihit Rawat,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1655,7558,Ovi Hitendra Charde,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1656,7559,Parv Khandelwal,2,Jade,3,9,0.06,0.03,Eva Indore,3.2,9.78
+1657,7560,Samayra Paliwal,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1658,7561,Saurish Ralhi,2,Jade,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1659,7562,Sharvil Murari Bajpai,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1660,7563,Trisha Kumawat,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1661,7564,Aarav Sharma,2,Jade,3,8,0.06,0.03,Eva Indore,3.2,9.78
+1662,7565,Ansh Sahu,3,Topaz,2,12,0.04,0.04,Eva Indore,3.2,9.78
+1663,7566,Archi Narvindra Chouhan,3,Topaz,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1664,7567,Arnav Sharma,3,Topaz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1665,7568,Bhavya Arvind Kumar Mandloi,3,Topaz,3,11,0.06,0.04,Eva Indore,3.2,9.78
+1666,7569,Gurparvin Dhruv Kumar Pancholi,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1667,7570,Jiya Choudhary,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1668,7571,Keshvam Agarwal,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1669,7572,Krishn Jivani,3,Topaz,2,9,0.04,0.03,Eva Indore,3.2,9.78
+1670,7573,Lakshya Jain,3,Topaz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1671,7574,Nandika Patidar,3,Topaz,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1672,7575,Ridhika Gaur,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1673,7576,Sarthak Patel,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1674,7577,Shivansh Brijesh Dubey,3,Topaz,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1675,7578,Shivay Gupta,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1676,7579,Vihaan Dubey,3,Topaz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1677,7580,Aahan Vyas,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1678,7581,Aarvi Dubey,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1679,7582,Advitiya Singh,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1680,7583,Arsh Raj Menghani,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1681,7584,Bhavishya Kadam,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1682,7585,Krishnapal Singh Kushwah,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1683,7586,Nishtha Sengar,3,Everest,2,12,0.04,0.04,Eva Indore,3.2,9.78
+1684,7587,Nivedita Madan Dixit,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1685,7588,Prateek Patel,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1686,7589,Sameeksha Amitesh Mishra,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1687,7590,Tejasv Jogi,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1688,7591,Ved Om Patel,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1689,7592,Vihan Vyas,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1690,7593,Vivek Singh Chouhan,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1691,7594,Yashraj Singh Suner,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1692,7595,Priyansh Thakur,3,Everest,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1693,7596,Aavni Nilesh Jain,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1694,7597,Alina Gurjar,4,Quartz,2,11,0.04,0.04,Eva Indore,3.2,9.78
+1695,7598,Atharv Deshpande,4,Quartz,2,11,0.04,0.04,Eva Indore,3.2,9.78
+1696,7599,Divyanshi Parag,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1697,7600,Ekaansh Sujan,4,Quartz,1,7,0.02,0.02,Eva Indore,3.2,9.78
+1698,7601,Granth Katiyar,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1699,7602,Madhvik Agarwal,4,Quartz,2,12,0.04,0.04,Eva Indore,3.2,9.78
+1700,7603,Pranaya Gupta,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1701,7604,Pratishtha Meena,4,Quartz,2,9,0.04,0.03,Eva Indore,3.2,9.78
+1702,7605,Rajveer Singh Chouhan,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1703,7606,Ratnaabh Khandelwal,4,Quartz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1704,7607,Reet Neelesh Prajapati,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1705,7608,Royal Tiwari,4,Quartz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1706,7609,Somyansi Sengar,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1707,7610,Varushka Agaskar,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1708,7611,Yuvraj Patel,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1709,7612,Yashraj Solanki,4,Quartz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1710,7613,Aaradhya Bhavesh Nagar,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1711,7614,Aarvi Agrawal,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1712,7615,Aditya Singh Parihar,5,Titanite,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1713,7616,Advit Patel,5,Titanite,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1714,7617,Arav Singh Rathore,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1715,7618,Atharv Sharma,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1716,7619,Atif Khan,5,Titanite,1,10,0.02,0.03,Eva Indore,3.2,9.78
+1717,7620,Aviral Singh,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1718,7621,Azhar Khan,5,Titanite,1,10,0.02,0.03,Eva Indore,3.2,9.78
+1719,7622,Devendra Kumawat,5,Titanite,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1720,7623,Disha Jogi,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1721,7624,Harshit Richhariya,5,Titanite,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1722,7625,Harshvardhan Priyaranjan Yadav,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1723,7626,Kavya Malviya,5,Titanite,2,9,0.04,0.03,Eva Indore,3.2,9.78
+1724,7627,Kuwar Rudraksh Singh Rajput,5,Titanite,3,10,0.06,0.03,Eva Indore,3.2,9.78
+1725,7628,Mazhar Khan,5,Titanite,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1726,7629,Mohd Azeem Jafri,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1727,7630,Samar Singh Sajwan,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1728,7631,Saisha Gupta,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1729,7632,Shakshi Rajput,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1730,7633,Sparsh Jitendra Shrivastava,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1731,7634,Suryansh Kumawat,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1732,7635,Vaidik Ghodela,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1733,7636,Vedant Vimalkumar Parmar,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1734,7637,Yash Suryawanshi,5,Titanite,4,10,0.08,0.03,Eva Indore,3.2,9.78
+1735,7638,Aarav Dubey,6,Jasper,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1736,7639,Aradhya Agrawal,6,Jasper,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1737,7640,Jal Vyas,6,Jasper,4,8,0.08,0.03,Eva Indore,3.2,9.78
+1738,7641,Kaveri Chouhan,6,Jasper,5,10,0.1,0.03,Eva Indore,3.2,9.78
+1739,7642,Rajveer Singh Rathore,6,Jasper,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1740,7643,Sanvi Alkesh Patidar,6,Jasper,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1741,7644,Vaanya Kaushik,6,Jasper,4,9,0.08,0.03,Eva Indore,3.2,9.78
+1742,7645,Vinayak Mandloi,6,Jasper,5,12,0.1,0.04,Eva Indore,3.2,9.78
+1743,7646,Yash Sharma,6,Jasper,6,8,0.12,0.03,Eva Indore,3.2,9.78
+1744,7647,Aahana Menghani,7,Emerald,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1745,7648,Aarav Yadav,7,Emerald,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1746,7649,Aarohi Chouhan,7,Emerald,6,12,0.12,0.04,Eva Indore,3.2,9.78
+1747,7650,Abhay Singh Rajput,7,Emerald,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1748,7651,Avantika Singh Raghav,7,Emerald,5,9,0.1,0.03,Eva Indore,3.2,9.78
+1749,7652,Chitrakshi Khandelwal,7,Emerald,7,12,0.14,0.04,Eva Indore,3.2,9.78
+1750,7653,Dakshpal Singh Chouhan,7,Emerald,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1751,7654,Jasmine Tarsem Singh,7,Emerald,7,10,0.14,0.03,Eva Indore,3.2,9.78
+1752,7655,Mahi Jaiswal,7,Emerald,6,10,0.12,0.03,Eva Indore,3.2,9.78
+1753,7656,Rudra Dilip Shrivastava,7,Emerald,4,12,0.08,0.04,Eva Indore,3.2,9.78
+1754,7657,Arohi Deshpande,8,Amethyst,7,12,0.14,0.04,Eva Indore,3.2,9.78
+1755,7658,Divyansh Nema,8,Amethyst,8,11,0.16,0.04,Eva Indore,3.2,9.78
+1756,7659,Drishti Patel,8,Amethyst,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1757,7660,Harshil Choudhary,8,Amethyst,6,12,0.12,0.04,Eva Indore,3.2,9.78
+1758,7661,Naitik Ghodela,8,Amethyst,4,12,0.08,0.04,Eva Indore,3.2,9.78
+1759,7662,Rishab Tarsem Singh,8,Amethyst,2,5,0.04,0.02,Eva Indore,3.2,9.78
+1760,7663,Tanish Jafri,8,Amethyst,8,11,0.16,0.04,Eva Indore,3.2,9.78
+1761,7664,Zalak Vimalkumar Parmar,8,Amethyst,8,12,0.16,0.04,Eva Indore,3.2,9.78
+1762,7666,Nidhi Teki,1,Sapphire,5,10,0.1,0.03,Eva Thane,3.0,8.1
+1763,7667,Nithya Teki,1,Sapphire,4,10,0.08,0.03,Eva Thane,3.0,8.1
+1764,7668,Avni Pingale,1,Sapphire,1,2,0.02,0.01,Eva Thane,3.0,8.1
+1765,7669,Ruhi Singh,1,Sapphire,2,2,0.04,0.01,Eva Thane,3.0,8.1
+1766,7670,Shivay Narhe,1,Sapphire,3,10,0.06,0.03,Eva Thane,3.0,8.1
+1767,7671,Harshita Belekar ,3,Garnet,2,12,0.04,0.04,Eva Thane,3.0,8.1
+1768,7672,Aaliya Khan,3,Garnet,2,12,0.04,0.04,Eva Thane,3.0,8.1
+1769,7673,Kushagra Gautum,3,Garnet,1,10,0.02,0.03,Eva Thane,3.0,8.1
+1770,7674,Pramshu Pai,4,Peridot,2,10,0.04,0.03,Eva Thane,3.0,8.1
+1771,7676,Shaurya Singh,2,zircon,2,8,0.04,0.03,Eva Thane,3.0,8.1
+1772,7677,Fatima Valid Bagdadi,6,TURQUOISE,1,1,0.02,0.0,DWPS,2.5,8.26
+1773,7678,Vishwa Ramesh Ghanwat,6,TURQUOISE,1,3,0.02,0.01,DWPS,2.5,8.26
+1774,7680,Sahil Sunilkumar Goswami,6,ARGONITE,4,12,0.08,0.04,DWPS,2.5,8.26
+1775,7681,Shlok Nadar,6,ARGONITE,1,8,0.02,0.03,DWPS,2.5,8.26
+1776,7682,Trisha Mishra,6,ARGONITE,3,7,0.06,0.02,DWPS,2.5,8.26
+1777,7683,Vardaan Srivastava,6,ARGONITE,1,5,0.02,0.02,DWPS,2.5,8.26
+1778,7684,Anay Rupesh Pawaskar,5,ONYX,5,12,0.1,0.04,DWPS,2.5,8.26
+1779,7685,Daksh Choudhary,5,ONYX,4,10,0.08,0.03,DWPS,2.5,8.26
+1780,7686,Ishtaarth Gowda S,5,ONYX,7,12,0.14,0.04,DWPS,2.5,8.26
+1781,7687,Nishant Meena,5,ONYX,1,1,0.02,0.0,DWPS,2.5,8.26
+1782,7689,Mansi Shravan Soni,5,ADAMITE,3,8,0.06,0.03,DWPS,2.5,8.26
+1783,7690,Tanish Vasant Mankar,5,ADAMITE,8,12,0.16,0.04,DWPS,2.5,8.26
+1784,7692,Sarthak Ajay Jagtap,6,Turquoise,5,12,0.1,0.04,SKS,2.5,7.74
+1785,7693,Daksh Ritesh Naik,6,Turquoise,4,12,0.08,0.04,SKS,2.5,7.74
+1786,7694,Aarohi Malgesh Ghonge,6,Turquoise,1,3,0.02,0.01,SKS,2.5,7.74
+1787,7699,Kartikey Dixit,5,Adamite,2,3,0.04,0.01,Eva World School,2.5,6.52
+1788,7700,Shatakshi Srivastava,5,Adamite,10,12,0.2,0.04,Eva World School,2.5,6.52
+1789,7702,Ranveer Singh Suner,4,Quartz,2,12,0.04,0.04,Eva Indore,3.2,9.78
+1790,7703,Reedha Sujan,8,Amethyst,4,12,0.08,0.04,Eva Indore,3.2,9.78
+1791,7704,Lavesh Ghodela,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1792,7705,Shreya Gupta,1,Sapphire,3,7,0.06,0.02,Bhiwandi School,3.1,8.04
+1793,7706,Raj Jadhav,1,Sapphire,4,4,0.08,0.01,Bhiwandi School,3.1,8.04
+1794,7707,Devyansh Gupta,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1795,7708,Siddhu Jha,1,Sapphire,2,8,0.04,0.03,Bhiwandi School,3.1,8.04
+1796,7709,Jay Machhirke,1,Sapphire,3,6,0.06,0.02,Bhiwandi School,3.1,8.04
+1797,7710,Sarang Khopade,1,Sapphire,1,8,0.02,0.03,Bhiwandi School,3.1,8.04
+1798,7711,Aarush Gujja,1,Sapphire,1,4,0.02,0.01,Bhiwandi School,3.1,8.04
+1799,7712,Rivaan Khatri,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1800,7713,Dhyana Maru,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1801,7714,Aabha Patil,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,3.1,8.04
+1802,7715,Hitansh Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,3.1,8.04
+1803,7716,Nishant Gaikwad,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,3.1,8.04
+1804,7717,Nilesh Chaudhary,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,3.1,8.04
+1805,7718,Aakhil Rajbhar,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,3.1,8.04
+1806,7719,Mysha Malde,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,3.1,8.04
+1807,7720,Sachee Sundria,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,3.1,8.04
+1808,7721,Yakshit Sharma,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1809,7722,Yash Takudake,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1810,7723,Yug Yadav,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,3.1,8.04
+1811,7724,Pakhi Mishra,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,3.1,8.04
+1812,7725,Augustine Joel Jilla,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,3.1,8.04
+1813,7726,Jiyaan Jain,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,3.1,8.04
+1814,7727,Vansh Jadhav,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,3.1,8.04
+1815,7728,Shrishti Gupta,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,3.1,8.04
+1816,7729,Garima Sharma,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1817,7730,Gaurav Mhatre,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,3.1,8.04
+1818,7731,Jivika Ojha,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,3.1,8.04
+1819,7732,Arshan Kharat,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,3.1,8.04
+1820,7733,Arsh Siddiqui,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,3.1,8.04
+1821,7734,Swarit Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,3.1,8.04
+1822,7735,Eshita Patil,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1823,7736,Atharva Jadhav,2,Zircon,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1824,7737,Archit Singh,2,Zircon,5,10,0.1,0.03,Bhiwandi School,3.1,8.04
+1825,7738,Siddharth Jaiswal,2,Zircon,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1826,7739,Sanvi Umatwade,2,Zircon,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1827,7740,Saanvi Gupta,2,Zircon,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1828,7741,Nitesh Choudhary,2,Zircon,4,8,0.08,0.03,Bhiwandi School,3.1,8.04
+1829,7743,Harsh Chaudhary,2,Zircon,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1830,7744,Sai Mishra,2,Zircon,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1831,7745,Kshitij Jadhav,2,Zircon,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1832,7746,Arya Sirisilla,3,Garnet,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1833,7747,Hanshini Chaudhari,3,Garnet,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1834,7748,Tanisha Choudhary,3,Garnet,5,12,0.1,0.04,Bhiwandi School,3.1,8.04
+1835,7749,Sakshi Chaudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1836,7750,Ramila Choudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1837,7751,Swara Gulve,3,Garnet,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1838,7752,Vanshika Sharma,3,Garnet,2,8,0.04,0.03,Bhiwandi School,3.1,8.04
+1839,7753,Diya Raicha,3,Garnet,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1840,7754,Siddhi Jaiswal,4,Peridot,4,6,0.08,0.02,Bhiwandi School,3.1,8.04
+1841,7755,Kriya Bajage,4,Peridot,4,8,0.08,0.03,Bhiwandi School,3.1,8.04
+1842,7756,Mahek Mehta,4,Peridot,4,10,0.08,0.03,Bhiwandi School,3.1,8.04
+1843,7757,Prisha Shah,4,Peridot,5,12,0.1,0.04,Bhiwandi School,3.1,8.04
+1844,7758,Arfan Khan,4,Quartz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1845,7759,Akhil Sirisilla,5,Onyx,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1846,7760,Ananya Jha,5,Onyx,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1847,7761,Arnav Dhas,5,Onyx,5,12,0.1,0.04,Bhiwandi School,3.1,8.04
+1848,7762,Ayush Dubey,5,Onyx,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1849,7763,Emesh Kasbale,5,Onyx,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1850,7764,Ganesh Rathode,5,Onyx,2,8,0.04,0.03,Bhiwandi School,3.1,8.04
+1851,7765,Mandeep Singh Rajpurohit,5,Onyx,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1852,7766,Om Bhoir,5,Onyx,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1853,7767,Priyal Shrivastava,5,Onyx,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1854,7768,Shivansh Shrivastava,5,Onyx,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1855,7769,Sristyraj Shah,5,Onyx,2,9,0.04,0.03,Bhiwandi School,3.1,8.04
+1856,7770,Swarali Mate,5,Onyx,4,6,0.08,0.02,Bhiwandi School,3.1,8.04
+1857,7771,Tanisha Chaudhary,5,Onyx,3,6,0.06,0.02,Bhiwandi School,3.1,8.04
+1858,7772,Vighnesh Shinde,5,Onyx,3,12,0.06,0.04,Bhiwandi School,3.1,8.04
+1859,7773,Vikas Chaudhary,5,Onyx,3,11,0.06,0.04,Bhiwandi School,3.1,8.04
+1860,7774,Alok Gautam,6,Turquoise,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1861,7775,Arjun Choudhary,6,Turquoise,2,10,0.04,0.03,Bhiwandi School,3.1,8.04
+1862,7776,Arnav Gupta,6,Turquoise,3,6,0.06,0.02,Bhiwandi School,3.1,8.04
+1863,7777,Dev Padia,6,Turquoise,4,12,0.08,0.04,Bhiwandi School,3.1,8.04
+1864,7778,Harsh Rastogi,6,Turquoise,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1865,7779,Heena Chaudhary,6,Turquoise,3,7,0.06,0.02,Bhiwandi School,3.1,8.04
+1866,7780,Kailash Choudhary,6,Turquoise,2,10,0.04,0.03,Bhiwandi School,3.1,8.04
+1867,7781,Pakhi Patil,6,Turquoise,4,10,0.08,0.03,Bhiwandi School,3.1,8.04
+1868,7782,Prinit Shrivastava,6,Turquoise,4,10,0.08,0.03,Bhiwandi School,3.1,8.04
+1869,7783,Satyapal Yadav,6,Turquoise,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1870,7784,Shivam Kashyap,6,Turquoise,3,10,0.06,0.03,Bhiwandi School,3.1,8.04
+1871,7785,Tanishka Khopade,6,Turquoise,2,5,0.04,0.02,Bhiwandi School,3.1,8.04
+1872,7786,Trisha Patil,6,Turquoise,3,9,0.06,0.03,Bhiwandi School,3.1,8.04
+1873,7787,Ajay Chavan,7,Turquoise,7,8,0.14,0.03,Bhiwandi School,3.1,8.04
+1874,7788,Ashwani Kumar Kashyap,7,Amethyst,8,10,0.16,0.03,Bhiwandi School,3.1,8.04
+1875,7789,Harshit Mishra,7,Amethyst,8,10,0.16,0.03,Bhiwandi School,3.1,8.04
+1876,7790,Yogansh Bajage,7,Amethyst,8,10,0.16,0.03,Bhiwandi School,3.1,8.04
+1877,7791,Naivedhya Gaurav Pandey,6,Turquoise,2,7,0.04,0.02,SKS,2.5,7.74
+1878,7792,Nidhi Dileepkumar Kagawade,6,Turquoise,4,12,0.08,0.04,SKS,2.5,7.74
+1879,7793,Bhumi,1,Quartz,2,5,0.04,0.02,Eva World School,2.5,6.52
+1880,7795,Vaidehi Dipak Bhandari,1,Quartz,2,4,0.04,0.01,Eva World School,2.5,6.52
+1881,7796,Siya Prasant Salke,1,Quartz,2,2,0.04,0.01,Eva World School,2.5,6.52
+1882,7797,Shivang Mondal,1,Quartz,2,5,0.04,0.02,Eva World School,2.5,6.52
+1883,7799,Aayush Rajesh Kadam,7,Amethyst,6,9,0.12,0.03,SKS,2.5,7.74
+1884,7800,Vinayak Naresh Papney,7,Amethyst,3,8,0.06,0.03,SKS,2.5,7.74
+1885,7801,Rashi Bharat Maurya,2,Opal,1,1,0.02,0.0,SKS,2.5,7.74
+1886,7809,Swara Anil Karuvan,4,Peridot,1,5,0.02,0.02,Eva World School,2.5,6.52
+1887,7811,Keyura Harshini,4,Morganite,2,10,0.04,0.03,Eva World School,2.5,6.52
+1888,7812,Shreyas Karuvan,8,Jade,3,9,0.06,0.03,Eva World School,2.5,6.52
+1889,7813,Varenya Sharma,8,Jade,5,12,0.1,0.04,Eva World School,2.5,6.52
+1890,7814,Sonakshi Dash,8,Jade,2,2,0.04,0.01,Eva World School,2.5,6.52
+1891,7815,Heer Manish Darji,3,Garnet,2,10,0.04,0.03,Eva World School,2.5,6.52
+1892,7817,Madeeha Riyaz Ahmed,5,Adamite,1,2,0.02,0.01,Eva World School,2.5,6.52
+1893,7818,Manali Narendra Mhatre,6,Turquoise,3,10,0.06,0.03,Eva World School,2.5,6.52
+1894,7819,Shifa,3,Rubelite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1895,7820,Purvi Narayan Bhabad,3,Rubelite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1896,7821,Rutika Yogesh Kalan,3,Rubelite,2,2,0.04,0.01,Eva World School,2.5,6.52
+1897,7822,Kavya Sharma,3,Everest,1,9,0.02,0.03,Eva Indore,3.2,9.78
+1898,7823,Awani Tiwari,4,Quartz,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1899,7824,Aditya Singh Bhadoriya,6,Jasper,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1900,7825,Bhavarth Umesh Patil,1,Sapphire,2,8,0.04,0.03,SKS,2.5,7.74
+1901,7829,Soumya Samarendra Rout,2,Agate,2,8,0.04,0.03,SKS,2.5,7.74
+1902,7831,Anvay Dhananjay Salaskar,2,Agate,2,8,0.04,0.03,SKS,2.5,7.74
+1903,7832,Aditya Amit Yadav,1,Quartz,2,8,0.04,0.03,SKS,2.5,7.74
+1904,7836,Swaraa Pravin Kumbhar,4,Peridot,1,5,0.02,0.02,DWPS,2.5,8.26
+1905,7837,Aayushman Snehangsu Das,5,Onyx,7,12,0.14,0.04,DWPS,2.5,8.26
+1906,7840,Astitva Agarwal,3,Aquamarine,4,8,0.08,0.03,Eva World School,2.5,6.52
+1907,7841,Eleanor Alex,3,Aquamarine,1,7,0.02,0.02,Eva World School,2.5,6.52
+1908,7842,Jeeya Nitesh Madavi,3,Aquamarine,1,8,0.02,0.03,SKS,2.5,7.74
+1909,7843,Om Rajesh Dubey,3,Aquamarine,3,6,0.06,0.02,SKS,2.5,7.74
+1910,7844,Arnab Jana,6,ARGONITE,1,4,0.02,0.01,Eva World School,2.5,6.52
+1911,7846,Nirant Agrawal,6,ARGONITE,1,3,0.02,0.01,Eva World School,2.5,6.52
+1912,7849,Riza Zulaikha K M,4,Peridot,2,7,0.04,0.02,Eva World School,2.5,6.52
+1913,7850,Meet Patil,4,Peridot,1,3,0.02,0.01,Eva World School,2.5,6.52
+1914,7851,Kabir Pradeep Patil,1,Quartz,2,2,0.04,0.01,Eva World School,2.5,6.52
+1915,7852,Advika Ajesh Nambiar,1,Quartz,1,2,0.02,0.01,Eva World School,2.5,6.52
+1916,7853,Sanvi Sandesh Salke,1,Quartz,3,8,0.06,0.03,Eva World School,2.5,6.52
+1917,7855,Atharv Kangne,1,Quartz,1,8,0.02,0.03,Eva World School,2.5,6.52
+1918,7857,Kashvi Gupta,1,Quartz,2,2,0.04,0.01,Eva World School,2.5,6.52
+1919,7858,Krishna Mhatre,1,Sapphire,1,1,0.02,0.0,Eva World School,2.5,6.52
+1920,7859,Laksh Singh,1,Quartz,1,7,0.02,0.02,Eva World School,2.5,6.52
+1921,7861,Maanvi Kota,1,Quartz,1,8,0.02,0.03,Eva World School,2.5,6.52
+1922,7862,Mahi Mhatre,1,Quartz,1,4,0.02,0.01,Eva World School,2.5,6.52
+1923,7863,Ruhi Mehta,1,Quartz,2,5,0.04,0.02,Eva World School,2.5,6.52
+1924,7864,Shivansh Dandale,1,Quartz,2,8,0.04,0.03,Eva World School,2.5,6.52
+1925,7865,Shivraj Nimonkar,1,Quartz,2,5,0.04,0.02,Eva World School,2.5,6.52
+1926,7866,Swaraj Patil,1,Quartz,1,8,0.02,0.03,Eva World School,2.5,6.52
+1927,7867,Vidhi Thombre,1,Quartz,1,6,0.02,0.02,Eva World School,2.5,6.52
+1928,7868,Zunairah Sayed,1,Quartz,1,6,0.02,0.02,Eva World School,2.5,6.52
+1929,7870,Avika Yadav,4,Morganite,5,12,0.1,0.04,Eva World School,2.5,6.52
+1930,7871,Farhan Naser Shaikh,6,ARGONITE,3,8,0.06,0.03,Eva World School,2.5,6.52
+1931,7872,Karthik Singh,6,ARGONITE,2,6,0.04,0.02,Eva World School,2.5,6.52
+1932,7874,Vivaan Sandey,4,Morganite,2,7,0.04,0.02,Eva World School,2.5,6.52
+1933,7875,Atharva Verma,3,Garnet,1,5,0.02,0.02,Eva World School,2.5,6.52
+1934,7877,Anshika Rani,2,Zircon,1,5,0.02,0.02,Eva World School,2.5,6.52
+1935,7878,Samas P Singh,2,Zircon,1,7,0.02,0.02,Eva World School,2.5,6.52
+1936,7879,Adhira Bagade,2,Zircon,2,8,0.04,0.03,Eva World School,2.5,6.52
+1937,7880,Owais Mehbub Shaikh,8,Turquoise,5,9,0.1,0.03,SKS,2.5,7.74
+1938,7881,Advi Pradip Devadhe,3,Aquamarine,3,10,0.06,0.03,Eva World School,2.5,6.52
+1939,7883,Vivaan Singh,3,Garnet,1,4,0.02,0.01,Eva World School,2.5,6.52
+1940,7884,Harshika Brahma Reddy,2,Agate,1,8,0.02,0.03,SKS,2.5,7.74
+1941,7885,Angadsingh Pradeepsingh Bhola,4,Morgonite,2,5,0.04,0.02,SKS,2.5,7.74
+1942,7886,Nish Lekhram Kanfade,4,Morgonite,6,12,0.12,0.04,SKS,2.5,7.74
+1943,7888,Amayra Kumar,1,Rhodonite,1,8,0.02,0.03,SKS,2.5,7.74
+1944,7908,Aashrita57,1,Citrine,2,8,0.04,0.03,Eva World School,2.5,6.52
+1945,7909,Ayurdha57,1,Citrine,2,8,0.04,0.03,Eva World School,2.5,6.52
+1946,7910,Lakshita57,1,Citrine,1,6,0.02,0.02,Eva World School,2.5,6.52
+1947,7913,Mahi57,1,Citrine,2,2,0.04,0.01,Eva World School,2.5,6.52
+1948,7915,Yuvika57,1,Citrine,1,5,0.02,0.02,Eva World School,2.5,6.52
+1949,7917,Om57,1,Citrine,2,8,0.04,0.03,Eva World School,2.5,6.52
+1950,7918,Ayaan57,1,Citrine,1,5,0.02,0.02,Eva World School,2.5,6.52
+1951,7921,Yatharth57,1,Citrine,2,8,0.04,0.03,Eva World School,2.5,6.52
+1952,7922,Vivaan57,1,Citrine,2,8,0.04,0.03,Eva World School,2.5,6.52
+1953,7925,Aaradhya Kamble,1,Quartz,2,4,0.04,0.01,Eva World School,2.5,6.52
+1954,7935,Archit Akant,6,Turquoise,2,5,0.04,0.02,Bhiwandi School,3.1,8.04
+1955,7936,Hiren Anil Khatri,5,Adamite,1,3,0.02,0.01,Eva World School,2.5,6.52
+1956,7939,Arya Chandrashekhar Sarwade,6,Turquoise,2,7,0.04,0.02,SKS,2.5,7.74
+1957,7950,Adhvik Abhay Meshram,4,Morgonite,1,3,0.02,0.01,SKS,2.5,7.74
+1958,7951,Om Verma,1,Sapphire,1,8,0.02,0.03,IRA,2.3,7.34
+1959,7952,Augstey,3,Topaz,3,12,0.06,0.04,Eva Indore,3.2,9.78
+1960,7953,Riyanshi Kumari,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1961,7954,Ayanah Parmar,3,Everest,2,10,0.04,0.03,Eva Indore,3.2,9.78
+1962,7955,Yatisri,2,Zircon,3,8,0.06,0.03,Bhiwandi School,3.1,8.04
+1963,7957,Tirth Gori,7,Amethyst,1,3,0.02,0.01,Eva World School,2.5,6.52
+1964,7958,Daksh Dubey,7,Amethyst,1,3,0.02,0.01,Eva World School,2.5,6.52
+1965,7959,Sidra,7,Amethyst,2,4,0.04,0.01,Eva World School,2.5,6.52
+1966,7995,Aadidev Arun,4,Peridot,1,4,0.02,0.01,Eva Thane,3.0,8.1
+1967,7996,Anuraj Singh,1,Onyx,2,8,0.04,0.03,Eva Indore,3.2,9.78
+1968,8000,Trisha Yadav,3,B,1,1,0.02,0.0,IRA,2.3,7.34
