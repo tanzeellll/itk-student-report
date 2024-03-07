@@ -8,10 +8,20 @@ app = Flask(__name__)
 @app.route('/test')
 def test():
 
+    # for students who have done exercises
     block1 = pd.read_csv('support_files/report_block1.csv')
     block2 = pd.read_csv('support_files/report_block2.csv')
+
+    # for students who have not done any exercises
+    block1 = pd.read_csv('support_files/report_block1_na.csv')
+    block2 = pd.read_csv('support_files/report_block2_na.csv')
+
+
     with open ('support_files/concepts.json', 'r') as file:
         conceptsJSON = json.load(file)
+
+    ct = conceptsJSON['Computational_Thinking_Concepts']
+    pc = conceptsJSON['Programming_Concepts']
 
     user_id_list = block1['user_id']
     # print(user_id_list)
@@ -20,8 +30,11 @@ def test():
         result = block1[block1['user_id']==i]
         user_id = result.iloc[0,1]
         name = str(result.iloc[0,2])
-        school = result.iloc[0,9]
-        grade = int(result.iloc[0,3])
+        school = str(result.iloc[0,9])
+        try:
+            grade = int(result.iloc[0,3])
+        except ValueError:
+            grade = result.iloc[0,3]
         division = result.iloc[0,4]
         
 
@@ -36,34 +49,36 @@ def test():
         ex = filter[['exercise_name', 'total_levels', 'levels_done', 'blocks_used', 'description']]
         ex_dict = ex.to_dict(orient='records')
 
-        filter = block2[block2['user_id']==user_id]
-        concepts = filter[['description']]
+        # filter = block2[block2['user_id']==user_id]
+        # concepts = filter[['description']]
 
-        concepts_list = []
+        # concepts_list = []
 
-        for row in concepts['description']:
-            concepts_list = concepts_list + row.split(',')
+        # for row in concepts['description']:
+        #     concepts_list = concepts_list + row.split(',')
 
-        concepts_list_unique = set(concepts_list)
-        pc = {}
-        ct = {}
+        # concepts_list_unique = set(concepts_list)
+        # pc = {}
+        # ct = {}
 
-        for c in concepts_list_unique:
-            print (c)
-            if c.strip() in conceptsJSON['Programming_Concepts']:
-                pc[c] = conceptsJSON['Programming_Concepts'][c.strip()]
+        # for c in concepts_list_unique:
+        #     print (c)
+        #     if c.strip() in conceptsJSON['Programming_Concepts']:
+        #         pc[c] = conceptsJSON['Programming_Concepts'][c.strip()]
 
-            if c.strip() in conceptsJSON['Computational_Thinking_Concepts']:
-                ct[c] = conceptsJSON['Computational_Thinking_Concepts'][c.strip()]
+        #     if c.strip() in conceptsJSON['Computational_Thinking_Concepts']:
+        #         ct[c] = conceptsJSON['Computational_Thinking_Concepts'][c.strip()]
 
-        rendered_report = render_template('index.html', name=name, school=school, grade=str(grade), division=division, exAverage=student_ex_avg, levAverage=student_lev_avg, exDict = ex_dict, schoolExAvg=school_ex_avg, schoolLevAvg=school_lev_avg, programmingConcepts=pc, conceptualThinkingConcepts=ct)
+
+
+        rendered_report = render_template('index.html', name=name, school=school, grade=str(grade), division=division, exAverage=student_ex_avg, levAverage=student_lev_avg, exDict = ex_dict, schoolExAvg=school_ex_avg, schoolLevAvg=school_lev_avg, computationalThinking = ct, programmingConcepts = pc)
         
         # print(rendered_report)
         # with open('renered_op.html', 'w') as f:
             # f.write(rendered_report)
         
-        report_name = '_'.join([str(user_id), name.replace(' ', '_').lower()])
-        pdfkit.from_string(rendered_report, f'report/{report_name}.pdf', options={
+        report_name = '_'.join([str(user_id), name.replace(' ', '_').lower(), school.replace(' ', '_').lower()])
+        pdfkit.from_string(rendered_report, f'report_na/{report_name}.pdf', options={
             "enable-local-file-access": '', 
             'page-size': 'A4',
             'margin-top': '0',
