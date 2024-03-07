@@ -1,0 +1,130 @@
+,user_id,name,exercise_id,exercise_name,description,total_levels,levels_done,blocks_used
+0,1,,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,19
+1,7705,Shreya gupta,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,1,3
+2,7705,Shreya gupta,49,Fun with Basics - Grade 1 & 2,.,8,5,0
+3,7705,Shreya gupta,50,Loopy Loops - Grade 1/2,.,8,4,0
+4,7706,Raj Jadhav,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,13
+5,7706,Raj Jadhav,2,Loopy Loops,"Loops, Debugging",12,1,4
+6,7706,Raj Jadhav,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+7,7706,Raj Jadhav,50,Loopy Loops - Grade 1/2,.,8,3,0
+8,7707,Devyansh Gupta,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,4,26
+9,7707,Devyansh Gupta,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+10,7707,Devyansh Gupta,50,Loopy Loops - Grade 1/2,.,8,3,0
+11,7708,Siddhu Jha,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,8
+12,7708,Siddhu Jha,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+13,7709,Jay Machhirke,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+14,7709,Jay Machhirke,49,Fun with Basics - Grade 1 & 2,.,8,6,0
+15,7709,Jay Machhirke,50,Loopy Loops - Grade 1/2,.,8,4,0
+16,7710,Sarang Khopade,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+17,7711,Aarush Gujja,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+18,7712,Rivaan Khatri,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,4,26
+19,7712,Rivaan Khatri,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+20,7712,Rivaan Khatri,50,Loopy Loops - Grade 1/2,.,8,4,0
+21,7713,Dhyana Maru,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,7,65
+22,7713,Dhyana Maru,45,Fun with Basics,r,3,3,42
+23,7713,Dhyana Maru,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+24,7714,Aabha Patil,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,117
+25,7714,Aabha Patil,45,Fun with Basics,r,3,3,41
+26,7714,Aabha Patil,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+27,7714,Aabha Patil,50,Loopy Loops - Grade 1/2,.,8,4,0
+28,7715,Hitansh Patil,49,Fun with Basics - Grade 1 & 2,.,8,3,0
+29,7715,Hitansh Patil,50,Loopy Loops - Grade 1/2,.,8,3,0
+30,7716,Nishant Gaikwad,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+31,7716,Nishant Gaikwad,49,Fun with Basics - Grade 1 & 2,.,8,5,0
+32,7716,Nishant Gaikwad,50,Loopy Loops - Grade 1/2,.,8,3,0
+33,7717,Nilesh Chaudhary,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+34,7717,Nilesh Chaudhary,49,Fun with Basics - Grade 1 & 2,.,8,5,0
+35,7718,Aakhil Rajbhar,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,8
+36,7719,Mysha Malde,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,9
+37,7719,Mysha Malde,49,Fun with Basics - Grade 1 & 2,.,8,3,0
+38,7719,Mysha Malde,50,Loopy Loops - Grade 1/2,.,8,4,0
+39,7720,Sachee Sundria,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,4,29
+40,7720,Sachee Sundria,49,Fun with Basics - Grade 1 & 2,.,8,6,0
+41,7721,Yakshit Sharma,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,17
+42,7721,Yakshit Sharma,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+43,7721,Yakshit Sharma,50,Loopy Loops - Grade 1/2,.,8,5,0
+44,7722,Yash Takudake,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,4,26
+45,7722,Yash Takudake,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+46,7722,Yash Takudake,50,Loopy Loops - Grade 1/2,.,8,4,0
+47,7723,Yug Yadav,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,9
+48,7723,Yug Yadav,49,Fun with Basics - Grade 1 & 2,.,8,6,0
+49,7724,Pakhi Mishra,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+50,7724,Pakhi Mishra,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+51,7725,Augustine joel Jilla,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+52,7725,Augustine joel Jilla,49,Fun with Basics - Grade 1 & 2,.,8,2,0
+53,7726,Jiyaan Jain,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,17
+54,7726,Jiyaan Jain,49,Fun with Basics - Grade 1 & 2,.,8,5,0
+55,7727,Vansh Jadhav,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,17
+56,7727,Vansh Jadhav,49,Fun with Basics - Grade 1 & 2,.,8,3,0
+57,7727,Vansh Jadhav,50,Loopy Loops - Grade 1/2,.,8,5,0
+58,7728,Shrishti Gupta,49,Fun with Basics - Grade 1 & 2,.,8,2,0
+59,7729,Garima Sharma,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,116
+60,7729,Garima Sharma,45,Fun with Basics,r,3,3,42
+61,7729,Garima Sharma,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+62,7730,Gaurav Mhatre,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,8
+63,7730,Gaurav Mhatre,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+64,7730,Gaurav Mhatre,50,Loopy Loops - Grade 1/2,.,8,4,0
+65,7731,Jivika Ojha,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,116
+66,7731,Jivika Ojha,45,Fun with Basics,r,3,3,41
+67,7731,Jivika Ojha,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+68,7731,Jivika Ojha,50,Loopy Loops - Grade 1/2,.,8,8,0
+69,7732,Arshan Kharat,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,9
+70,7732,Arshan Kharat,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+71,7733,Arsh Siddiqui,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,1,3
+72,7733,Arsh Siddiqui,49,Fun with Basics - Grade 1 & 2,.,8,4,0
+73,7734,Swarit Patil,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,2,8
+74,7734,Swarit Patil,49,Fun with Basics - Grade 1 & 2,.,8,3,0
+75,7735,Eshita Patil,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,117
+76,7735,Eshita Patil,45,Fun with Basics,r,3,3,42
+77,7735,Eshita Patil,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+78,7736,Atharva Jadhav,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,9,97
+79,7736,Atharva Jadhav,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+80,7736,Atharva Jadhav,50,Loopy Loops - Grade 1/2,.,8,8,0
+81,7737,Archit Singh,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,133
+82,7737,Archit Singh,2,Loopy Loops,"Loops, Debugging",12,3,11
+83,7737,Archit Singh,45,Fun with Basics,r,3,3,43
+84,7737,Archit Singh,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+85,7737,Archit Singh,50,Loopy Loops - Grade 1/2,.,8,8,0
+86,7738,Siddharth Jaiswal,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,5,38
+87,7738,Siddharth Jaiswal,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+88,7738,Siddharth Jaiswal,50,Loopy Loops - Grade 1/2,.,8,8,0
+89,7739,Sanvi Umatwade,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,5,40
+90,7739,Sanvi Umatwade,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+91,7739,Sanvi Umatwade,50,Loopy Loops - Grade 1/2,.,8,8,0
+92,7740,Saanvi Gupta,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,7,66
+93,7740,Saanvi Gupta,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+94,7740,Saanvi Gupta,50,Loopy Loops - Grade 1/2,.,8,8,0
+95,7741,Nitesh Choudhary,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,5,29
+96,7741,Nitesh Choudhary,2,Loopy Loops,"Loops, Debugging",12,2,11
+97,7741,Nitesh Choudhary,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+98,7741,Nitesh Choudhary,50,Loopy Loops - Grade 1/2,.,8,8,0
+99,7743,Harsh Chaudhary,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,124
+100,7743,Harsh Chaudhary,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+101,7743,Harsh Chaudhary,50,Loopy Loops - Grade 1/2,.,8,8,0
+102,7744,Sai Mishra,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,122
+103,7744,Sai Mishra,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+104,7744,Sai Mishra,50,Loopy Loops - Grade 1/2,.,8,8,0
+105,7745,Kshitij Jadhav,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,6,53
+106,7745,Kshitij Jadhav,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+107,7745,Kshitij Jadhav,50,Loopy Loops - Grade 1/2,.,8,8,0
+108,7746,Arya Sirisilla,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,6,60
+109,7746,Arya Sirisilla,2,Loopy Loops,"Loops, Debugging",12,12,185
+110,7746,Arya Sirisilla,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,5,201
+111,7747,Hanshini Chaudhari,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,122
+112,7747,Hanshini Chaudhari,2,Loopy Loops,"Loops, Debugging",12,7,99
+113,7747,Hanshini Chaudhari,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,5,120
+114,7749,Sakshi Chaudhary,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,126
+115,7749,Sakshi Chaudhary,2,Loopy Loops,"Loops, Debugging",12,12,176
+116,7749,Sakshi Chaudhary,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,6,107
+117,7750,Ramila Choudhary,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,130
+118,7750,Ramila Choudhary,2,Loopy Loops,"Loops, Debugging",12,12,186
+119,7750,Ramila Choudhary,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,6,140
+120,7751,Swara Gulve,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,6,59
+121,7751,Swara Gulve,2,Loopy Loops,"Loops, Debugging",12,5,56
+122,7751,Swara Gulve,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,1,27
+123,7753,Diya Raicha,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,10,116
+124,7753,Diya Raicha,2,Loopy Loops,"Loops, Debugging",12,12,187
+125,7753,Diya Raicha,3,Conditional Crops,"Conditional Statements, Pattern Recognition",12,5,203
+126,7955,yatisri,1,Fun with Basics,"Sequence, Algorithmic Thinking",10,3,16
+127,7955,yatisri,49,Fun with Basics - Grade 1 & 2,.,8,8,0
+128,7955,yatisri,50,Loopy Loops - Grade 1/2,.,8,8,0

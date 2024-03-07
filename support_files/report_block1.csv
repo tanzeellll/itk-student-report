@@ -1,0 +1,49 @@
+,user_id,name,grade,division,exercises_done,levels_done,ex_completion_rate,lev_completion_rate,school,school_ex_avg,school_lev_avg
+0,1,,100,A,1,3,0.02,0.01,,1.0,3.0
+1,7705,Shreya Gupta,1,Sapphire,3,7,0.06,0.02,Bhiwandi School,2.7,7.09
+2,7706,Raj Jadhav,1,Sapphire,4,4,0.08,0.01,Bhiwandi School,2.7,7.09
+3,7707,Devyansh Gupta,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+4,7708,Siddhu Jha,1,Sapphire,2,8,0.04,0.03,Bhiwandi School,2.7,7.09
+5,7709,Jay Machhirke,1,Sapphire,3,6,0.06,0.02,Bhiwandi School,2.7,7.09
+6,7710,Sarang Khopade,1,Sapphire,1,8,0.02,0.03,Bhiwandi School,2.7,7.09
+7,7711,Aarush Gujja,1,Sapphire,1,4,0.02,0.01,Bhiwandi School,2.7,7.09
+8,7712,Rivaan Khatri,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+9,7713,Dhyana Maru,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+10,7714,Aabha Patil,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,2.7,7.09
+11,7715,Hitansh Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
+12,7716,Nishant Gaikwad,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,2.7,7.09
+13,7717,Nilesh Chaudhary,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,2.7,7.09
+14,7718,Aakhil Rajbhar,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,2.7,7.09
+15,7719,Mysha Malde,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,2.7,7.09
+16,7720,Sachee Sundria,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,2.7,7.09
+17,7721,Yakshit Sharma,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+18,7722,Yash Takudake,1,Sapphire,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+19,7723,Yug Yadav,1,Sapphire,2,6,0.04,0.02,Bhiwandi School,2.7,7.09
+20,7724,Pakhi Mishra,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
+21,7725,Augustine Joel Jilla,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
+22,7726,Jiyaan Jain,1,Sapphire,2,5,0.04,0.02,Bhiwandi School,2.7,7.09
+23,7727,Vansh Jadhav,1,Sapphire,3,5,0.06,0.02,Bhiwandi School,2.7,7.09
+24,7728,Shrishti Gupta,1,Sapphire,1,2,0.02,0.01,Bhiwandi School,2.7,7.09
+25,7729,Garima Sharma,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
+26,7730,Gaurav Mhatre,1,Sapphire,3,4,0.06,0.01,Bhiwandi School,2.7,7.09
+27,7731,Jivika Ojha,1,Sapphire,4,10,0.08,0.03,Bhiwandi School,2.7,7.09
+28,7732,Arshan Kharat,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
+29,7733,Arsh Siddiqui,1,Sapphire,2,4,0.04,0.01,Bhiwandi School,2.7,7.09
+30,7734,Swarit Patil,1,Sapphire,2,3,0.04,0.01,Bhiwandi School,2.7,7.09
+31,7735,Eshita Patil,1,Sapphire,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
+32,7736,Atharva Jadhav,2,Zircon,3,9,0.06,0.03,Bhiwandi School,2.7,7.09
+33,7737,Archit Singh,2,Zircon,5,10,0.1,0.03,Bhiwandi School,2.7,7.09
+34,7738,Siddharth Jaiswal,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+35,7739,Sanvi Umatwade,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+36,7740,Saanvi Gupta,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+37,7741,Nitesh Choudhary,2,Zircon,4,8,0.08,0.03,Bhiwandi School,2.7,7.09
+38,7743,Harsh Chaudhary,2,Zircon,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
+39,7744,Sai Mishra,2,Zircon,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
+40,7745,Kshitij Jadhav,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
+41,7746,Arya Sirisilla,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
+42,7747,Hanshini Chaudhari,3,Garnet,3,10,0.06,0.03,Bhiwandi School,2.7,7.09
+43,7749,Sakshi Chaudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
+44,7750,Ramila Choudhary,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
+45,7751,Swara Gulve,3,Garnet,3,6,0.06,0.02,Bhiwandi School,2.7,7.09
+46,7753,Diya Raicha,3,Garnet,3,12,0.06,0.04,Bhiwandi School,2.7,7.09
+47,7955,Yatisri,2,Zircon,3,8,0.06,0.03,Bhiwandi School,2.7,7.09
